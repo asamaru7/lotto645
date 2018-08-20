@@ -1,0 +1,1 @@
+!function(){$(function(){$.terminal.schedule.selector.init()})}();
