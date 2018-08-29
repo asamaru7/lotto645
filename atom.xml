@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2018-08-29T06:41:30+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2018-08-30T06:45:45+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
 <entry><id>https://lotto.asamaru.net/로또645/판매점/제주특별자치도/제주시/조천청룡-10Yly/</id><title type="html">조천청룡 / 제주 제주시 조천읍 조천리 1220-9 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/로또645/판매점/제주특별자치도/제주시/조천청룡-10Yly/"/><published>2018-08-27T12:31:07+09:00</published><updated>2018-08-27T12:31:07+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[조천청룡 연락처 064-782-1247 주소 제주 제주시 조천읍 조천리 1220-9 1등 당첨 내역 1 1 상세보기 로또6/45 336회 당첨 결과 2009.05.09 당첨번호 3 5 20 34 35 44 보너스 번호 16 1등 당첨 6 1,685,632,650 2등 당첨 30 56,187,755 총합 141 홀짝 3:3 저고 3:3 연속번호 1 AC값 9 소수 2 합성수 4 색상 노랑 2 파랑 1 검정 2 초록 1 2등 당첨 내역 5 상세보기 로또6/45 676회 당첨 결과 2015.11.14 당첨번호 1 8 17 34 39 45 보너스 번호 27 1등 당첨 8 1,879,726,500 2등 당첨 63 39,782,572 총합 144 홀짝 4:2 저고 3:3 연속번호 0 AC값 10 소수 1 합성수 4 색상 노랑 2 파랑 1 검정 2 초록 1 상세보기 로또6/45 569회 당첨 결과 2013.10.26 당첨번호 3 6 13 23 24 35 보너스 번호 1 1등 당첨 4 3,467,925,188 2등 당첨 36 64,220,837 총합 104 홀짝 4:2 저고 3:3 연속번호 1 AC값 8 소수 3 합성수 3 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 466회 당첨 결과 2011.11.05 당첨번호 4 10 13 23 32 44 보너스 번호 20 1등 당첨 9 1,530,313,459 2등 당첨 55 41,735,822 총합 126 홀짝 2:4 저고 3:3 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 2 파랑 1 빨강 1 검정 1 초록 1 상세보기 로또6/45 426회 당첨 결과 2011.01.29 당첨번호 4 17 18 27 39 43 보너스 번호 19 1등 당첨 4 3,057,233,625 2등 당첨 63 32,351,679 총합 148 홀짝 4:2 저고 3:3 연속번호 1 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 2 빨강 1 검정 1 초록 1 상세보기 로또6/45 426회 당첨 결과 2011.01.29 당첨번호 4 17 18 27 39 43 보너스 번호 19 1등 당첨 4 3,057,233,625 2등 당첨 63 32,351,679 총합 148 홀짝 4:2 저고 3:3 연속번호 1 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 2 빨강 1 검정 1 초록 1]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		조천청룡
@@ -103,7 +103,7 @@
 	</div>
 </li>					</ol>
 	
-			<h3>2등 당첨 내역 <span>5</span></h3>
+			<h3>2등 당첨 내역 <span class="total">5</span></h3>
 		<ol>
 															<li class="game-row">
 	<a href="https://lotto.asamaru.net/로또645/당첨결과/676회차/" class="detail">상세보기</a>
@@ -518,7 +518,7 @@
 	</div>
 
 	
-			<h3>2등 당첨 내역 <span>1</span></h3>
+			<h3>2등 당첨 내역 <span class="total">1</span></h3>
 		<ol>
 															<li class="game-row">
 	<a href="https://lotto.asamaru.net/로또645/당첨결과/506회차/" class="detail">상세보기</a>
@@ -638,7 +638,7 @@
 	</div>
 
 	
-			<h3>2등 당첨 내역 <span>2</span></h3>
+			<h3>2등 당첨 내역 <span class="total">2</span></h3>
 		<ol>
 															<li class="game-row">
 	<a href="https://lotto.asamaru.net/로또645/당첨결과/694회차/" class="detail">상세보기</a>
@@ -818,7 +818,7 @@
 	</div>
 
 	
-			<h3>2등 당첨 내역 <span>6</span></h3>
+			<h3>2등 당첨 내역 <span class="total">6</span></h3>
 		<ol>
 															<li class="game-row">
 	<a href="https://lotto.asamaru.net/로또645/당첨결과/622회차/" class="detail">상세보기</a>
