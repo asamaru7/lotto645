@@ -5,9 +5,9 @@
 	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 		<title>로또6/45 번호생성기 - 로또6/45 당첨 정보</title>
 	<meta name="author" content="아사마루">
-	<meta name="keywords" content="로또6/45,로또645,나눔로또,로또당첨번호,로또당첨금,로또당첨지역,로또번호생성기,실수령액계산기">
+	<meta name="keywords" content="로또6/45,번호생성기,고정수,제외수,총합,AC,고저,홀짝,연속수,최대연속번호">
 	
-	<meta name="description" content="로또6/45 번호생성기 고정수 {{n}} {{anal(&#039;freq&#039;, n)}} 제외수 {{n}} {{anal(&#039;freq&#039;, n)}} 총합 범위 {{n}} ~ {{n}} AC {{n}} {{percent(anal(&#039;acValue&#039;, n), analytics.count)}} % 고저 {{index}} {{percent(anal(&#039;highLow&#039;, index), analytics.count)}} % 홀짝 {{index}} {{percent(anal(&#039;oddEven&#039;, index), analytics.count)}} % 2개의 연속 숫자쌍 ">
+	<meta name="description" content="로또6/45 번호를 간단히 생성할 수 있습니다. 고정수,제외수,총합,AC,고저,홀짝,연속수,최대연속번호를 지정해서 원하는 범위의 번호 생성이 가능합니다.">
 	<meta name="referrer" content="always">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="shortcut icon" type="image/x-icon" href="https://lotto.asamaru.net/favicon.ico"/>
@@ -37,7 +37,7 @@
 	<meta property="og:type" content="article">
 	<meta property="og:site_name" content="로또6/45 당첨 정보">
 	<meta property="og:title" content="로또6/45 번호생성기">
-	<meta property="og:description" content="로또6/45 번호생성기 고정수 {{n}} {{anal(&#039;freq&#039;, n)}} 제외수 {{n}} {{anal(&#039;freq&#039;, n)}} 총합 범위 {{n}} ~ {{n}} AC {{n}} {{percent(anal(&#039;acValue&#039;, n), analytics.count)}} % 고저 {{index}} {{percent(anal(&#039;highLow&#039;, index), analytics.count)}} % 홀짝 {{index}} {{percent(anal(&#039;oddEven&#039;, index), analytics.count)}} % 2개의 연속 숫자쌍 ">
+	<meta property="og:description" content="로또6/45 번호를 간단히 생성할 수 있습니다. 고정수,제외수,총합,AC,고저,홀짝,연속수,최대연속번호를 지정해서 원하는 범위의 번호 생성이 가능합니다.">
 	<meta property="og:url" content="https://lotto.asamaru.net/로또645/번호생성기/" />
 	<meta property="og:image" content="https://lotto.asamaru.net/res/img/icon/icon.png">
 	
@@ -46,7 +46,7 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@">
 	<meta name="twitter:title" content="로또6/45 번호생성기">
-	<meta name="twitter:description" content="로또6/45 번호생성기 고정수 {{n}} {{anal(&#039;freq&#039;, n)}} 제외수 {{n}} {{anal(&#039;freq&#039;, n)}} 총합 범위 {{n}} ~ {{n}} AC {{n}} {{percent(anal(&#039;acValue&#039;, n), analytics.count)}} % 고저 {{index}} {{percent(anal(&#039;highLow&#039;, index), analytics.count)}} % 홀짝 {{index}} {{percent(anal(&#039;oddEven&#039;, index), analytics.count)}} % 2개의 연속 숫자쌍 ">
+	<meta name="twitter:description" content="로또6/45 번호를 간단히 생성할 수 있습니다. 고정수,제외수,총합,AC,고저,홀짝,연속수,최대연속번호를 지정해서 원하는 범위의 번호 생성이 가능합니다.">
 	<meta property="twitter:image" content="https://lotto.asamaru.net/res/img/icon/icon.png">
 	
 
@@ -96,7 +96,7 @@
 						<input type="checkbox" v-model="numFixed" :id="'b-' + n" :value="n"/>
 						<label :for="'b-' + n">
 							<b class="dBall" :class="'color' + ballColorIndex(n)">{{n}}</b>
-							<i>{{anal('freq', n)}}</i>
+							<i title="출현빈도">{{anal('freq', n)}}</i>
 						</label>
 					</li>
 				</ul>
@@ -111,7 +111,7 @@
 						<input type="checkbox" v-model="numExcept" :id="'e-' + n" :value="n"/>
 						<label :for="'e-' + n">
 							<b class="dBall" :class="'color' + ballColorIndex(n)">{{n}}</b>
-							<i>{{anal('freq', n)}}</i>
+							<i title="출현빈도">{{anal('freq', n)}}</i>
 						</label>
 					</li>
 				</ul>
@@ -139,7 +139,7 @@
 						<input type="checkbox" v-model="acValue" :id="'lh-' + n" :value="n"/>
 						<label :for="'lh-' + n">
 							{{n}}
-							<i>{{percent(anal('acValue', n), analytics.count)}} %</i>
+							<i title="출현율">{{percent(anal('acValue', n), analytics.count)}} %</i>
 						</label>
 					</li>
 				</ul>
@@ -154,7 +154,7 @@
 						<input type="checkbox" v-model="highLow[index]" :id="'lh-' + index"/>
 						<label :for="'lh-' + index">
 							{{index}}
-							<i>{{percent(anal('highLow', index), analytics.count)}} %</i>
+							<i title="출현율">{{percent(anal('highLow', index), analytics.count)}} %</i>
 						</label>
 					</li>
 				</ul>
@@ -168,7 +168,7 @@
 						<input type="checkbox" v-model="oddEven[index]" :id="'oe-' + index"/>
 						<label :for="'oe-' + index">
 							{{index}}
-							<i>{{percent(anal('oddEven', index), analytics.count)}} %</i>
+							<i title="출현율">{{percent(anal('oddEven', index), analytics.count)}} %</i>
 						</label>
 					</li>
 				</ul>
@@ -183,7 +183,7 @@
 						<input type="checkbox" v-model="continuous" :id="'cs-' + n" :value="n"/>
 						<label :for="'cs-' + n">
 							{{n}}
-							<i>{{percent(anal('continuous', n), analytics.count)}} %</i>
+							<i title="출현율">{{percent(anal('continuous', n), analytics.count)}} %</i>
 						</label>
 					</li>
 				</ul>
@@ -198,7 +198,7 @@
 						<input type="checkbox" v-model="maxContinuous" :id="'mc-' + n" :value="n"/>
 						<label :for="'mc-' + n">
 							{{n}}
-							<i>{{percent(anal('maxContinuous', n), analytics.count)}} %</i>
+							<i title="출현율">{{percent(anal('maxContinuous', n), analytics.count)}} %</i>
 						</label>
 					</li>
 				</ul>
@@ -213,7 +213,7 @@
 	<ol class="numbers" v-cloak>
 		<li v-for="ns in numbers" class="game-row clearfix">
 			<dl class="dWinNumbers">
-				<dt>당첨번호</dt>
+				<dt>생성된 번호</dt>
 				<dd v-for="(n, i) in ns.drwtNo" :class="'dN' + (i+1)"><b class="dBall" :class="'color' + ballColorIndex(n)">{{n}}</b></dd>
 			</dl>
 			<div class="dWinAnal">
