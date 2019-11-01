@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2019-10-31T06:44:17+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2019-11-02T06:39:20+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%84%EB%9D%BC%EB%B6%81%EB%8F%84/%EC%9D%B5%EC%82%B0%EC%8B%9C/%EB%8F%99%EA%B0%90%EB%B3%B5%EA%B6%8C-z0WX/</id><title type="html">동감복권 / 전북 익산시 영등동 178-19 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%84%EB%9D%BC%EB%B6%81%EB%8F%84/%EC%9D%B5%EC%82%B0%EC%8B%9C/%EB%8F%99%EA%B0%90%EB%B3%B5%EA%B6%8C-z0WX/"/><published>2019-11-02T02:13:41+09:00</published><updated>2019-11-02T02:13:41+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[동감복권 연락처 주소 전북 익산시 영등동 178-19]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		동감복권
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>전북 익산시 영등동 178-19</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.95396" data-lng="126.973525"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84/%EC%B2%9C%EC%95%88%EC%8B%9C/%EC%9D%BC%EB%93%B1%EC%9A%A9%EB%91%90%ED%9C%B4%EA%B2%8C%EC%86%8C-yaWn/</id><title type="html">일등용두휴게소 / 충남 천안시 동남구 병천면 용두리 493 용두휴게소 이마트24 내 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84/%EC%B2%9C%EC%95%88%EC%8B%9C/%EC%9D%BC%EB%93%B1%EC%9A%A9%EB%91%90%ED%9C%B4%EA%B2%8C%EC%86%8C-yaWn/"/><published>2019-10-31T02:12:03+09:00</published><updated>2019-10-31T02:12:03+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[일등용두휴게소 연락처 주소 충남 천안시 동남구 병천면 용두리 493 용두휴게소 이마트24 내]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		일등용두휴게소
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="36.61624" data-lng="127.440658"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B0%95%EC%9B%90%EB%8F%84/%EC%B6%98%EC%B2%9C%EC%8B%9C/%EA%B1%B0%EB%91%90%EB%A1%9C%EB%98%90-xkU1/</id><title type="html">거두로또 / 강원 춘천시 동내면 거두리 917-4 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B0%95%EC%9B%90%EB%8F%84/%EC%B6%98%EC%B2%9C%EC%8B%9C/%EA%B1%B0%EB%91%90%EB%A1%9C%EB%98%90-xkU1/"/><published>2019-10-29T02:11:01+09:00</published><updated>2019-10-29T02:11:01+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[거두로또 연락처 주소 강원 춘천시 동내면 거두리 917-4 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		거두로또
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>강원 춘천시 동내면 거두리 917-4 1층</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.856206" data-lng="127.75238"></div>
 	</div>
 
 	
