@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2019-11-11T06:13:41+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2019-11-12T06:15:08+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%ED%96%89%EB%B3%B5%EB%B3%B5%EA%B6%8C-rsHr/</id><title type="html">행복복권 / 인천 미추홀구 학익2동 312-38 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%ED%96%89%EB%B3%B5%EB%B3%B5%EA%B6%8C-rsHr/"/><published>2019-11-12T02:06:38+09:00</published><updated>2019-11-12T02:06:38+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행복복권 연락처 주소 인천 미추홀구 학익2동 312-38]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		행복복권
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>인천 미추홀구 학익2동 312-38</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.446056" data-lng="126.666146"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%97%B0%EC%88%98%EA%B5%AC/%ED%96%89%EB%B3%B5%ED%95%9C%EC%83%81%EC%83%81-rsIB/</id><title type="html">행복한상상 / 인천 연수구 청학동 527-1 &amp;amp;&amp;amp;#35;40;청학동&amp;amp;&amp;amp;#35;41; - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%97%B0%EC%88%98%EA%B5%AC/%ED%96%89%EB%B3%B5%ED%95%9C%EC%83%81%EC%83%81-rsIB/"/><published>2019-11-12T02:06:38+09:00</published><updated>2019-11-12T02:06:38+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행복한상상 연락처 주소 인천 연수구 청학동 527-1 &&#35;40;청학동&&#35;41;]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		행복한상상
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>인천 연수구 청학동 527-1 &amp;&amp;#35;40;청학동&amp;&amp;#35;41;</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.427812" data-lng="126.66352"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9-rsHn/</id><title type="html">행운복권방 / 인천 미추홀구 학익1동 415-9 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9-rsHn/"/><published>2019-11-12T02:06:38+09:00</published><updated>2019-11-12T02:06:38+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행운복권방 연락처 주소 인천 미추홀구 학익1동 415-9]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		행운복권방
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>인천 미추홀구 학익1동 415-9</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.445784" data-lng="126.658072"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%88%98%EC%84%B1%EA%B5%AC/%EB%B3%B5%EA%B6%8C%ED%98%95%ED%86%B5-rSGC/</id><title type="html">복권형통 / 대구 수성구 범어2동 134-15 1층 복권판매점 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%88%98%EC%84%B1%EA%B5%AC/%EB%B3%B5%EA%B6%8C%ED%98%95%ED%86%B5-rSGC/"/><published>2019-11-11T02:06:26+09:00</published><updated>2019-11-11T02:06:26+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[복권형통 연락처 주소 대구 수성구 범어2동 134-15 1층 복권판매점]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		복권형통
@@ -4400,81 +4475,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="37.900787" data-lng="127.203785"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B5%B0%ED%8F%AC%EC%8B%9C/%EB%AA%85%EB%8B%B9%EB%B3%B5%EA%B6%8C-xKY5/</id><title type="html">명당복권 / 경기 군포시 산본1동 97-43 103호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B5%B0%ED%8F%AC%EC%8B%9C/%EB%AA%85%EB%8B%B9%EB%B3%B5%EA%B6%8C-xKY5/"/><published>2019-11-09T02:10:21+09:00</published><updated>2019-11-09T02:10:21+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[명당복권 연락처 주소 경기 군포시 산본1동 97-43 103호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		명당복권
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 군포시 산본1동 97-43 103호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.37315" data-lng="126.942174"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%99%94%EC%84%B1%EC%8B%9C/%EC%B0%A9%ED%95%9C%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-xKbB/</id><title type="html">착한동행복권 / 경기 화성시 영천동 681-8 제1층 109호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%99%94%EC%84%B1%EC%8B%9C/%EC%B0%A9%ED%95%9C%EB%8F%99%ED%96%89%EB%B3%B5%EA%B6%8C-xKbB/"/><published>2019-11-09T02:10:20+09:00</published><updated>2019-11-09T02:10:20+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[착한동행복권 연락처 주소 경기 화성시 영천동 681-8 제1층 109호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		착한동행복권
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 화성시 영천동 681-8 제1층 109호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.206436" data-lng="127.111712"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/%EA%B3%A0%EC%96%91%ED%96%89%EB%B3%B5%EB%B3%B5%EA%B6%8C-xKXm/</id><title type="html">고양행복복권 / 경기 고양시 덕양구 삼송동 135-37 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/%EA%B3%A0%EC%96%91%ED%96%89%EB%B3%B5%EB%B3%B5%EA%B6%8C-xKXm/"/><published>2019-11-09T02:10:19+09:00</published><updated>2019-11-09T02:10:19+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[고양행복복권 연락처 주소 경기 고양시 덕양구 삼송동 135-37 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		고양행복복권
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 고양시 덕양구 삼송동 135-37 1층</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.6525" data-lng="126.889787"></div>
 	</div>
 
 	
