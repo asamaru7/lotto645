@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-01-02T06:15:27+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-01-04T06:15:28+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EA%B5%AC/%ED%96%89%EB%B3%B5%EB%A1%9C%EB%98%90-t8Jh/</id><title type="html">행복로또 / 울산 남구 대현동 691-22 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EA%B5%AC/%ED%96%89%EB%B3%B5%EB%A1%9C%EB%98%90-t8Jh/"/><published>2020-01-04T02:07:14+09:00</published><updated>2020-01-04T02:07:14+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행복로또 연락처 주소 울산 남구 대현동 691-22]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		행복로또
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>울산 남구 대현동 691-22</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.527254" data-lng="129.325297"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EA%B0%80%EC%9D%80%EB%B3%B5%EA%B6%8C-%EC%98%AC%EC%9D%B8%EC%9B%90%EC%95%84%EC%9D%B4%EC%8A%A4-rsI5/</id><title type="html">가은복권(올인원아이스) / 인천 서구 가좌3동 260-4 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EA%B0%80%EC%9D%80%EB%B3%B5%EA%B6%8C-%EC%98%AC%EC%9D%B8%EC%9B%90%EC%95%84%EC%9D%B4%EC%8A%A4-rsI5/"/><published>2020-01-02T02:06:41+09:00</published><updated>2020-01-02T02:06:41+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[가은복권(올인원아이스) 연락처 주소 인천 서구 가좌3동 260-4 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		가은복권(올인원아이스)
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="37.538434" data-lng="127.054525"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EB%85%B8%EC%9B%90%EA%B5%AC/%EB%A1%9C%EB%98%90%EC%B2%9C%EA%B5%AD-kk2e/</id><title type="html">로또천국 / 서울 노원구 중계2.3동 512 1층 106호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EB%85%B8%EC%9B%90%EA%B5%AC/%EB%A1%9C%EB%98%90%EC%B2%9C%EA%B5%AD-kk2e/"/><published>2019-12-29T02:10:01+09:00</published><updated>2019-12-29T02:10:01+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또천국 연락처 주소 서울 노원구 중계2.3동 512 1층 106호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		로또천국
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>서울 노원구 중계2.3동 512 1층 106호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.643497" data-lng="127.065783"></div>
 	</div>
 
 	
