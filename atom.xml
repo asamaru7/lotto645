@@ -1,12 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-03-14T06:15:38+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</id><title type="html">950회차-901회차</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/"/><published>2020-03-07T20:40:00+09:00</published><updated>2020-03-07T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[회차별 당첨번호 상세보기 로또6/45 901회 당첨 결과 2020.03.07 당첨번호 5 18 20 23 30 34 보너스 번호 21 1등 당첨 9 2,267,974,667 2등 당첨 67 50,775,553 총합 130 홀짝 2:4 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 2 빨강 2 검정 1 900회차-851회차]]></summary><content type="html"><![CDATA[<section class="cGamesBox">
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-03-15T06:17:23+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</id><title type="html">950회차-901회차</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/"/><published>2020-03-14T20:40:00+09:00</published><updated>2020-03-14T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[회차별 당첨번호 상세보기 로또6/45 902회 당첨 결과 2020.03.14 당첨번호 7 19 23 24 36 39 보너스 번호 30 1등 당첨 13 1,619,317,529 2등 당첨 67 52,365,990 총합 148 홀짝 4:2 저고 4:2 연속번호 1 AC값 7 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 2 검정 2 상세보기 로또6/45 901회 당첨 결과 2020.03.07 당첨번호 5 18 20 23 30 34 보너스 번호 21 1등 당첨 9 2,267,974,667 2등 당첨 67 50,775,553 총합 130 홀짝 2:4 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 2 빨강 2 검정 1 900회차-851회차]]></summary><content type="html"><![CDATA[<section class="cGamesBox">
 	<h2>회차별 당첨번호</h2>
 
 	<ul class="list">
 					<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/902회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">902회</span>
+		<span>당첨 결과</span>
+		<time>2020.03.14</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">7</b></dd>
+		<dd class="dN2"><b class="dBall color1">19</b></dd>
+		<dd class="dN3"><b class="dBall color2">23</b></dd>
+		<dd class="dN4"><b class="dBall color2">24</b></dd>
+		<dd class="dN5"><b class="dBall color3">36</b></dd>
+		<dd class="dN6"><b class="dBall color3">39</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color2">30</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">13</dd>
+				<dd class="reward">1,619,317,529</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">67</dd>
+				<dd class="reward">52,365,990</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>148</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>7</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																<dt>빨강</dt>
+						<dd>2</dd>
+																<dt>검정</dt>
+						<dd>2</dd>
+														</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					<li class="game-row">
 	<a href="https://lotto.asamaru.net/로또645/당첨결과/901회차/" class="detail">상세보기</a>
 	<h4>
 		<span>로또6/45</span>
@@ -95,6 +172,1570 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/902%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 902회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/902%ED%9A%8C%EC%B0%A8/"/><published>2020-03-14T20:40:00+09:00</published><updated>2020-03-14T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 902 회 당첨결과 2020년 03월 14일 2020년 03월 14일 아사마루 로또6/45 902회 당첨 결과 당첨번호 7 19 23 24 36 39 보너스 번호 30 총합 148 홀짝 4:2 저고 4:2 연속번호 1 AC값 7 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 2 검정 2 로또6/45 902회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 13 1,619,317,529 원 21,051,127,877 원 2등 67 52,365,990 원 3,508,521,330 원 3등 2,372 1,479,141 원 3,508,522,452 원 4등 119,126 50,000 원 5,956,300,000 원 5등 1,945,304 5,000 원 9,726,520,000 원 총 판매액 87,501,981,000 원 로또6/45 902회 1등 당첨판매점 구분 자동 상호 코코마켓 소재지 서울 강서구 화곡제3동 1066-1 1등 1 구분 수동 상호 복권나라 소재지 서울 관악구 은천동 926-25 1등 5 2등 16 구분 자동 상호 로또 소재지 서울 중구 신당동 133-14번지 1등 5 2등 8 구분 자동 상호 GS25(부산미남점) 소재지 부산 동래구 온천동 1421-36번지 1등 1 2등 6 구분 자동 상호 동일통신 소재지 부산 해운대구 반여제1동 1361-2번지 1등 3 2등 2 구분 자동 상호 연우로또 소재지 인천 계양구 계산동 973 1층 1등 1 2등 1 구분 자동 상호 부자로또 소재지 울산 남구 삼산동 1508-9 1등 1 2등 3 구분 자동 상호 나들가게 소재지 경기 부천시 대산동 695 1층 슈퍼 1등 1 구분 수동 상호 서울로또방 소재지 충북 옥천군 옥천읍 금구리 142-8번지 1등 3 2등 10 구분 수동 상호 복권나라 소재지 충북 증평군 증평읍 중동리 15-3번지 1등 3 2등 17 구분 자동 상호 승일유통 소재지 충북 청주시 흥덕구 봉명동 200-14번지 1등 4 2등 4 구분 수동 상호 나래복권 소재지 충북 충주시 목행동 673-6 1층 1등 1 2등 5 로또6/45 902회 2등 당첨판매점 상호 씨스페이스 강동현대점 소재지 서울 강동구 성내동 427-39번지 2등 4 상호 또와식품 소재지 서울 강서구 염창동 264-8번지 1등 3 2등 8 상호 명당마트 소재지 서울 강서구 방화동 571-48번지 1등 2 2등 4 상호 대성미니슈퍼 소재지 서울 관악구 신림동 566-8 2등 1 상호 로또 光복권 소재지 서울 구로구 개봉제1동 173-3 2등 2 상호 천하명당복권방독산점 소재지 서울 금천구 독산동 989-16 1등 2 2등 11 상호 지원물산 소재지 서울 노원구 공릉동 644-12번지 1등 5 2등 10 상호 스파 소재지 서울 노원구 상계동 666-3 주공10단지종합상가111 1등 35 2등 148 상호 네잎클로버복권방 소재지 서울 동대문구 장안제2동 286-1 2등 5 상호 일공일사(1014) 소재지 서울 성북구 성북동1가 116 2등 2 상호 행운마트 소재지 서울 중구 인현동1가 97-2번지 2등 4 상호 로또복권 소재지 서울 중랑구 면목동 68-2 105호 2등 1 상호 신암편의점 소재지 부산 금정구 남산동 225-13번지 1등 1 2등 8 상호 감전복권방 소재지 부산 사상구 감전동 129-23 1등 1 2등 7 상호 감전복권방 소재지 부산 사상구 감전동 129-23 1등 1 2등 7 상호 스파편의점 소재지 부산 사상구 주례제3동 506번지 창조상가106호 1등 1 2등 8 상호 행운로또 소재지 부산 사하구 다대제2동 48 603호 2등 1 상호 GS25(사하중앙점) 소재지 부산 사하구 감천동 648-6 1등 1 2등 3 상호 GS25(성서이곡점) 소재지 대구 달서구 이곡동 1231-5 2등 4 상호 세진전자통신 소재지 대구 서구 평리동 1094-4번지 1등 16 2등 58 상호 진슈퍼 소재지 대구 수성구 만촌동 636-21 1층 복권판매점 2등 4 상호 한마음병원앞버스매표소 소재지 인천 계양구 작전동 865-34번지 2등 8 상호 복권왕권 소재지 인천 남동구 간석동 114-6번지 2등 7 상호 서창동 로또방 소재지 인천 남동구 서창동 707-1 1층 106호 1등 1 2등 5 상호 CU(서구가정점) 소재지 인천 서구 경서동 733-14 1등 1 2등 3 상호 마이마트 소재지 인천 서구 심곡동 302번지 한국상가제1층101호 1등 4 2등 10 상호 지에스(GS)25 신가부영점 소재지 광주 광산구 신창동 1108-1번지 부영상가1층112호 2등 3 상호 프렌드24시 소재지 광주 광산구 쌍암동 655-3 빌리오네2 제1층 106호 2등 12 상호 일등복권방슈퍼 소재지 광주 동구 서남동 103-14 2등 1 상호 천하명당복권방역전점 소재지 대전 동구 정동 15-23번지 1등 2 2등 8 상호 영24시 소재지 울산 동구 화정동 652-12번지 2등 3 상호 나눔로또 소재지 세종 전의면 동교리 158-5 2동 2등 1 상호 복권명당(광주시청점) 소재지 경기 광주시 송정동 337번지 로얄프라자 115호 2등 5 상호 복권판매점 소재지 경기 광주시 광남동 98-6 2등 1 상호 쌍굴다리슈퍼 소재지 경기 부천시 원미구 춘의동 210-1번지 1등 1 2등 3 상호 복권방 소재지 경기 부천시 원미구 도당동 141-3번지 성진그린타운102-102 1등 1 2등 5 상호 가판점 소재지 경기 부천시 대산동 543 이마트앞 지하도입구 1등 1 2등 13 상호 복권마트 소재지 경기 부천시 소사구 소사본동 75-6번지 1층 1등 1 2등 6 상호 GS25(수원행복점) 소재지 경기 수원시 영통구 영통동 974-6번지 세일빌딩111호 1등 1 2등 6 상호 로또명당 소재지 경기 시흥시 포동 1-13번지 101호 1등 3 2등 9 상호 따따블 대박로또 소재지 경기 시흥시 정왕동 1771-31 109호 2등 1 상호 세븐일레븐 안산엔즈타워점 소재지 경기 안산시 단원구 초지동 743 세븐일레븐 안산엔즈타워점 2등 2 상호 GS25(안산팔곡점) 소재지 경기 안산시 상록구 본오동 741-5 1층 101호 1등 2 2등 3 상호 안성휴게소 복권판매점 소재지 경기 안성시 원곡면 반제리 642-6 안성휴게소 하행 내 1등 1 2등 2 상호 GS25(안양병목점) 소재지 경기 안양시 만안구 안양동 782-7 신광빌딩 1등 2 2등 4 상호 대박예감 소재지 경기 화성시 반월동 30 1등 1 2등 22 상호 천하명당 소재지 강원 철원군 동송읍 이평리 705-19 1등 1 2등 2 상호 크로바슈퍼 소재지 충북 제천시 신백동 178-9 1층 크로바슈퍼 2등 4 상호 부광로또토토대박점 소재지 충북 청주시 서원구 사창동 286-10 2등 5 상호 에벤에셀복권방 소재지 충북 청주시 서원구 남이면 부용외천리 847-23 101-1호 2등 4 상호 복권나라 소재지 충남 부여군 부여읍 동남리 722-18번지 1층 2등 1 상호 필로또복권 소재지 충남 서산시 석남동 1280-1 1층 1등 2 2등 17 상호 로또복권나눔커피 소재지 충남 아산시 배방읍 공수리 66-2 2등 2 상호 로또명당인주점 소재지 충남 아산시 인주면 신성리 188-8 1등 11 2등 64 상호 조례로또복권방 소재지 전남 순천시 조례동 1092-2번지 조례로또복권방 1등 3 2등 16 상호 행운로또 소재지 전남 여수시 소라면 죽림리 1158-3 cu죽림대로점 1등 1 2등 5 상호 복권명당 소재지 경북 구미시 원평동 123-18번지 2등 9 상호 복권천하명당(선산점) 소재지 경북 구미시 선산읍 동부리 336 2등 3 상호 행운복권 소재지 경북 구미시 신평동 132-7번지 1등 2 2등 9 상호 CU(구미사곡점) 소재지 경북 구미시 사곡동 481-5 1등 1 2등 6 상호 성심상회 소재지 경북 포항시 북구 중앙동 41번지 1등 4 2등 3 상호 천하명당복권방 소재지 경남 거제시 옥포동 582번지 1등 5 2등 21 상호 천하명당복권방 소재지 경남 거제시 옥포동 582번지 1등 5 2등 21 상호 빙그레 돈벼락 맞는곳 소재지 경남 김해시 한림면 병동리 980-7 좌측 복권판매점 1등 2 2등 6 상호 목화휴게소 소재지 경남 사천시 용현면 주문리 4 1등 12 2등 62 상호 영건 소재지 경남 양산시 물금읍 가촌리 1280-4 A동113호 복권판매점 2등 2 상호 하프타임 소재지 경남 창원시 진해구 석동 327-8 2등 2]]></summary><content type="html"><![CDATA[
+<article id="cArticle" class="hentry">
+	<div class="dTitle">
+		<h2 class="entry-title"><span>로또6/45</span> <strong>902</strong> 회 당첨결과</h2>
+		<time class="published" datetime="2020-03-14T20:40:00+0900">2020년 03월 14일</time>
+		<time class="updated hide" datetime="2020-03-14T21:00:00+0900">2020년 03월 14일</time>
+		<span class="vcard author hide"><span class="fn">아사마루</span></span>
+	</div>
+	<div class="entry-content">
+
+		<div class="result">
+	<h3>로또6/45 902회 당첨 결과</h3>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">7</b></dd>
+		<dd class="dN2"><b class="dBall color1">19</b></dd>
+		<dd class="dN3"><b class="dBall color2">23</b></dd>
+		<dd class="dN4"><b class="dBall color2">24</b></dd>
+		<dd class="dN5"><b class="dBall color3">36</b></dd>
+		<dd class="dN6"><b class="dBall color3">39</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color2">30</b></dd>
+	</dl>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>148</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>7</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																<dt>빨강</dt>
+						<dd>2</dd>
+																<dt>검정</dt>
+						<dd>2</dd>
+														</dl>
+			</dd>
+		</dl>
+	</div>
+</div>		<table class="winner">
+	<caption>로또6/45 902회 당첨자</caption>
+	<thead>
+	<tr>
+		<th class="ranking">순위</th>
+		<th class="count">당첨게임 수</th>
+		<th class="reward">당첨금액</th>
+		<th class="total-reward">총 당첨금액</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td class="ranking">1등</td>
+		<td class="count">13</td>
+		<td class="reward">1,619,317,529 원</td>
+		<td class="total-reward">21,051,127,877 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">2등</td>
+		<td class="count">67</td>
+		<td class="reward">52,365,990 원</td>
+		<td class="total-reward">3,508,521,330 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">3등</td>
+		<td class="count">2,372</td>
+		<td class="reward">1,479,141 원</td>
+		<td class="total-reward">3,508,522,452 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">4등</td>
+		<td class="count">119,126</td>
+		<td class="reward">50,000 원</td>
+		<td class="total-reward">5,956,300,000 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">5등</td>
+		<td class="count">1,945,304</td>
+		<td class="reward">5,000 원</td>
+		<td class="total-reward">9,726,520,000 원</td>
+	</tr>
+	</tbody>
+	<tfoot>
+	<tr>
+		<td colspan="100%">
+			<dl>
+				<dt>총 판매액</dt>
+				<dd>87,501,981,000 원</dd>
+			</dl>
+		</td>
+	</tr>
+	</tfoot>
+</table>
+		<div class="stores">
+							<h3><span>로또6/45 902회</span> 1등 당첨판매점</h3>
+				<ol class="win-stores-1">
+																		<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강서구/코코마켓-kk2R/">코코마켓</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 강서구 화곡제3동 1066-1</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+								</div>
+	</li>																								<li class="store-row">
+			<dl class="type ">
+			<dt>구분</dt>
+			<dd>수동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/관악구/복권나라-kZgC/">복권나라</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 관악구 은천동 926-25</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">5</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">16</dd>
+				</dl>
+					</div>
+	</li>																																			<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/중구/로또-kcME/">로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 중구 신당동 133-14번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">5</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/동래구/gs25-부산미남점-1WpJ0/">GS25(부산미남점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 동래구 온천동 1421-36번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/해운대구/동일통신-qruR/">동일통신</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 해운대구 반여제1동 1361-2번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/계양구/연우로또-rsHG/">연우로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 계양구 계산동 973 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/울산광역시/남구/부자로또-t36x/">부자로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>울산 남구 삼산동 1508-9</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/부천시/나들가게-xKTU/">나들가게</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 부천시 대산동 695 1층 슈퍼</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+								</div>
+	</li>																								<li class="store-row">
+			<dl class="type ">
+			<dt>구분</dt>
+			<dd>수동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/옥천군/서울로또방-y2gt/">서울로또방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 옥천군 옥천읍 금구리 142-8번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">10</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type ">
+			<dt>구분</dt>
+			<dd>수동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/증평군/복권나라-y05W/">복권나라</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 증평군 증평읍 중동리 15-3번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">17</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/청주시/승일유통-y05q/">승일유통</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 청주시 흥덕구 봉명동 200-14번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">4</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type ">
+			<dt>구분</dt>
+			<dd>수동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/충주시/나래복권-y05T/">나래복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 충주시 목행동 673-6 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>															</ol>
+			
+							<h3><span>로또6/45 902회</span> 2등 당첨판매점</h3>
+				<ol class="win-stores-2">
+																							<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강동구/씨스페이스-강동현대점-kx4G/">씨스페이스 강동현대점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 강동구 성내동 427-39번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강서구/또와식품-kZkF/">또와식품</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 강서구 염창동 264-8번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강서구/명당마트-ka3l/">명당마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 강서구 방화동 571-48번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/관악구/대성미니슈퍼-kZmv/">대성미니슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 관악구 신림동 566-8</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/구로구/로또-光복권-khQU/">로또 光복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 구로구 개봉제1동 173-3</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/금천구/천하명당복권방독산점-kZgF/">천하명당복권방독산점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 금천구 독산동 989-16</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">11</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/노원구/지원물산-kZy9/">지원물산</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 노원구 공릉동 644-12번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">5</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">10</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/노원구/스파-kZoj/">스파</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 노원구 상계동 666-3 주공10단지종합상가111</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">35</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">148</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/동대문구/네잎클로버복권방-kcOt/">네잎클로버복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 동대문구 장안제2동 286-1</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/성북구/일공일사-1014-kZnK/">일공일사(1014)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 성북구 성북동1가 116</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/중구/행운마트-kZd2/">행운마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 중구 인현동1가 97-2번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/중랑구/로또복권-kk1U/">로또복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 중랑구 면목동 68-2 105호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/금정구/신암편의점-qrsY/">신암편의점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 금정구 남산동 225-13번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/사상구/감전복권방-rFFo/">감전복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 사상구 감전동 129-23</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/사상구/감전복권방-rFFo/">감전복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 사상구 감전동 129-23</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/사상구/스파편의점-qrtD/">스파편의점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 사상구 주례제3동 506번지 창조상가106호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/사하구/행운로또-r2Fz/">행운로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 사하구 다대제2동 48 603호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/사하구/gs25-사하중앙점-1WpJD/">GS25(사하중앙점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 사하구 감천동 648-6</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/달서구/gs25-성서이곡점-1XFJM/">GS25(성서이곡점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대구 달서구 이곡동 1231-5</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/서구/세진전자통신-rHv4/">세진전자통신</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대구 서구 평리동 1094-4번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">16</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">58</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/수성구/진슈퍼-rHsd/">진슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대구 수성구 만촌동 636-21 1층 복권판매점</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/계양구/한마음병원앞버스매표소-rhug/">한마음병원앞버스매표소</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 계양구 작전동 865-34번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/남동구/복권왕권-s5Ht/">복권왕권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 남동구 간석동 114-6번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/남동구/서창동-로또방-rn4H/">서창동 로또방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 남동구 서창동 707-1 1층 106호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/서구/cu-서구가정점-1XfLC/">CU(서구가정점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 서구 경서동 733-14</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/서구/마이마트-rhs7/">마이마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 서구 심곡동 302번지 한국상가제1층101호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">4</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">10</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/광산구/코사마트-s7se/">지에스(GS)25 신가부영점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>광주 광산구 신창동 1108-1번지 부영상가1층112호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/광산구/프렌드24시-sVId/">프렌드24시</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>광주 광산구 쌍암동 655-3 빌리오네2 제1층 106호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">12</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/동구/일등복권방슈퍼-sVIT/">일등복권방슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>광주 동구 서남동 103-14</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대전광역시/동구/천하명당복권방역전점-sXtq/">천하명당복권방역전점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대전 동구 정동 15-23번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/울산광역시/동구/영24-sxuq/">영24시</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>울산 동구 화정동 652-12번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/세종특별자치시/전의면/나눔로또-tYKQ/">나눔로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>세종 전의면 동교리 158-5 2동</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/광주시/복권명당-광주시청점-xFG8/">복권명당(광주시청점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 광주시 송정동 337번지 로얄프라자 115호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/광주시/복권판매점-xKXu/">복권판매점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 광주시 광남동 98-6</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/부천시/쌍굴다리슈퍼-xAAD/">쌍굴다리슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 부천시 원미구 춘의동 210-1번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/부천시/복권방-xXU3/">복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 부천시 원미구 도당동 141-3번지 성진그린타운102-102</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/부천시/가판점-xABj/">가판점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 부천시 대산동 543 이마트앞 지하도입구</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">13</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/부천시/복권마트-xXTF/">복권마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 부천시 소사구 소사본동 75-6번지 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/수원시/gs25-수원행복점-1d7ZX/">GS25(수원행복점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 수원시 영통구 영통동 974-6번지 세일빌딩111호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/시흥시/로또명당-xCg9/">로또명당</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 시흥시 포동 1-13번지 101호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">9</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/시흥시/따따블-대박로또-xKZT/">따따블 대박로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 시흥시 정왕동 1771-31 109호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/안산시/세븐일레븐-안산엔즈타워점-xKUD/">세븐일레븐 안산엔즈타워점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 안산시 단원구 초지동 743 세븐일레븐 안산엔즈타워점</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/안산시/gs25-안산팔곡점-1d7aw/">GS25(안산팔곡점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 안산시 상록구 본오동 741-5 1층 101호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/안성시/헬로복권-xKW4/">안성휴게소 복권판매점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 안성시 원곡면 반제리 642-6 안성휴게소 하행 내</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/안양시/gs25-안양병목점-1d7Xh/">GS25(안양병목점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 안양시 만안구 안양동 782-7 신광빌딩</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/화성시/대박예감-xXX0/">대박예감</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 화성시 반월동 30</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">22</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/강원도/철원군/천하명당-xhsO/">천하명당</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>강원 철원군 동송읍 이평리 705-19</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/제천시/크로바슈퍼-y05v/">크로바슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 제천시 신백동 178-9 1층 크로바슈퍼</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/청주시/부광로또토토대박점-y2gW/">부광로또토토대박점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 청주시 서원구 사창동 286-10</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/청주시/에벤에셀복권방-yAUO/">에벤에셀복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 청주시 서원구 남이면 부용외천리 847-23 101-1호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/부여군/복권나라-yVIt/">복권나라</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 부여군 부여읍 동남리 722-18번지 1층</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/서산시/필로또복권-yShk/">필로또복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 서산시 석남동 1280-1 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">17</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/아산시/로또복권-yXuJ/">로또복권나눔커피</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 아산시 배방읍 공수리 66-2</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/아산시/로또명당인주점-yShb/">로또명당인주점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 아산시 인주면 신성리 188-8</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">11</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">64</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/순천시/조례로또복권방-zIk7/">조례로또복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전남 순천시 조례동 1092-2번지 조례로또복권방</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">16</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/여수시/행운로또-zG8I/">행운로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전남 여수시 소라면 죽림리 1158-3 cu죽림대로점</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/구미시/복권명당-zg9D/">복권명당</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경북 구미시 원평동 123-18번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">9</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/구미시/천하명당-zilA/">복권천하명당(선산점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경북 구미시 선산읍 동부리 336</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/구미시/행운복권-103Ye/">행운복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경북 구미시 신평동 132-7번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">9</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/구미시/cu-구미사곡점-1fdbP/">CU(구미사곡점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경북 구미시 사곡동 481-5</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/포항시/성심상회-zg9w/">성심상회</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경북 포항시 북구 중앙동 41번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">4</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/거제시/천하명당복권방-106A7/">천하명당복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 거제시 옥포동 582번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">5</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">21</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/거제시/천하명당복권방-106A7/">천하명당복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 거제시 옥포동 582번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">5</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">21</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/김해시/빙그레-돈벼락-맞는곳-10Dy6/">빙그레 돈벼락 맞는곳</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 김해시 한림면 병동리 980-7 좌측 복권판매점</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/사천시/목화휴게소-108mw/">목화휴게소</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 사천시 용현면 주문리 4</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">12</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">62</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/양산시/영건-10GZc/">영건</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 양산시 물금읍 가촌리 1280-4 A동113호 복권판매점</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/창원시/대로-로또판매점-106Bh/">하프타임</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 창원시 진해구 석동 327-8</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>															</ol>
+					</div>
+	</div>
+
+	
+	
+
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</article>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/901%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 901회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/901%ED%9A%8C%EC%B0%A8/"/><published>2020-03-07T20:40:00+09:00</published><updated>2020-03-07T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 901 회 당첨결과 2020년 03월 07일 2020년 03월 07일 아사마루 로또6/45 901회 당첨 결과 당첨번호 5 18 20 23 30 34 보너스 번호 21 총합 130 홀짝 2:4 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 2 빨강 2 검정 1 로또6/45 901회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 9 2,267,974,667 원 20,411,772,003 원 2등 67 50,775,553 원 3,401,962,051 원 3등 2,308 1,473,987 원 3,401,961,996 원 4등 114,451 50,000 원 5,722,550,000 원 5등 1,890,747 5,000 원 9,453,735,000 원 총 판매액 84,783,962,000 원 로또6/45 901회 1등 당첨판매점 구분 자동 상호 GS25(삼성역점) 소재지 서울 강남구 삼성동 168번지 1등 2 2등 1 구분 반자동 상호 새로나슈퍼 소재지 서울 강서구 화곡동 904-10번지 1등 3 2등 8 구분 수동 상호 서울구가-17가판 소재지 서울 구로구 구로동 731-4번지 구로4동우체국앞가판 1등 2 2등 6 구분 반자동 상호 복권 소재지 서울 중랑구 상봉동 136-50번지 105호 1등 2 2등 2 구분 반자동 상호 황금슈퍼 소재지 광주 북구 두암동 881-7 1등 1 구분 자동 상호 나눔로또한대점 소재지 경기 안산시 상록구 이동 716 한양대프라자106호 1등 1 2등 8 구분 자동 상호 용꿈돼지꿈복권전문점 소재지 강원 동해시 천곡동 855번지 이주민상가1층15호 1등 2 2등 13 구분 반자동 상호 황실복권방 소재지 충남 천안시 동남구 목천읍 신계리 390-19 1등 6 2등 3 구분 수동 상호 빛가람나눔슈퍼 소재지 전남 나주시 빛가람동 756-3번지 103호 1등 1 2등 7 로또6/45 901회 2등 당첨판매점 상호 담배 소재지 서울 강북구 미아동 777-3번지 1등 2 2등 7 상호 헬스프라자 소재지 서울 관악구 봉천동 1687-13 1등 1 2등 6 상호 현대식품 소재지 서울 광진구 구의동 243-22번지 2등 3 상호 다모아복권방 소재지 서울 구로구 오류동 137-46번지 1층 1등 4 2등 10 상호 영훈슈퍼마켓 소재지 서울 도봉구 창동 557-5번지 1등 5 2등 14 상호 CU( 한양대엔터식스점) 소재지 서울 성동구 행당동 155-1 2등 4 상호 복조리복권방 소재지 서울 성동구 송정동 66-31번지 2등 2 상호 데이앤나잇 소재지 서울 성북구 종암동 132 종암우림카이저팰리스 1층 101호 1등 6 2등 7 상호 노다지복권방 소재지 서울 송파구 가락동 73-4번지 1층 2등 4 상호 농심가슈퍼마트 소재지 서울 양천구 목2동 234-4 1층 1등 2 2등 7 상호 싱글벙글복권 소재지 서울 영등포구 신길동 1152번지 싱글벙글마트내 2등 2 상호 우선식품 소재지 서울 영등포구 신길동 163-5번지 1등 1 2등 8 상호 천하명당로또 소재지 서울 은평구 증산동 185-25번지 1층 1등 1 2등 5 상호 74호종합가판 소재지 서울 종로구 관수동 149-2 가판 2등 2 상호 대원슈퍼마켓 소재지 부산 수영구 광안제2동 373-15번지 1등 4 2등 20 상호 대원슈퍼마켓 소재지 부산 수영구 광안제2동 373-15번지 1등 4 2등 20 상호 재벌 로터리 소재지 부산 중구 남포동 28번지 재벌마트 1등 2 2등 3 상호 복권천국 소재지 대구 북구 산격동 801-4번지 2등 6 상호 복권명당 소재지 대구 수성구 수성동2가 104번지 1등 1 2등 9 상호 GS25(계산동경점) 소재지 인천 계양구 계산동 1076-7번지 도쿄프라자1층2호 1등 5 2등 15 상호 대박스타 소재지 인천 남구 주안동 505-6 1층 2등 2 상호 행운 마트 소재지 인천 남동구 만수동 71-10번지 1등 2 2등 10 상호 즐거운복권방 소재지 인천 남구 주안동 1등 2 2등 7 상호 금집복권 소재지 광주 북구 신용동 752 1등 3 2등 6 상호 동부슈퍼 소재지 대전 동구 가양동 451-21번지 2등 5 상호 천하제일복권명당유성점 소재지 대전 유성구 구암동 609-9번지 1등 3 2등 9 상호 돈벼락마트 소재지 대전 중구 문창동 61-11 1층 슈퍼 1등 1 2등 3 상호 이마트24 울산목화점 소재지 울산 남구 삼산동 1266-8번지 2등 7 상호 보경복권 소재지 울산 북구 효문동 836번지 1등 3 2등 8 상호 우리들덕신점 소재지 울산 울주군 온산읍 덕신리 1296-11번지 1등 1 2등 11 상호 행운로또 소재지 세종 나성동 361-72 세진펠리스 113호 2등 2 상호 푸른마트 소재지 경기 군포시 금정동 726-7 1층상가 2등 8 상호 로또복권 소재지 경기 남양주시 호평동 668번지 금강아파트제주상가104 2등 4 상호 세븐일레븐남양주차산점 소재지 경기 남양주시 화도읍 차산리 75 1층 편의점 1등 1 2등 3 상호 코사마트 소재지 경기 부천시 오정구 내동 99-2번지 1등 2 2등 6 상호 드림 소재지 경기 수원시 권선구 세류동 130 1등 4 2등 5 상호 복권나라 소재지 경기 수원시 장안구 534-4 1층 2등 9 상호 행복로또 소재지 경기 수원시 팔달구 화서동 126-13 1층 2등 1 상호 영일종합장식 소재지 경기 안산시 단원구 고잔동 539-3번지 신광프라자102호 1등 1 2등 5 상호 훼미리복권 소재지 경기 안산시 상록구 월피동 448 현대2차아파트상가18호 1등 1 2등 13 상호 로또휴게실 소재지 경기 용인시 기흥구 상갈동 378-1 1등 15 2등 58 상호 명지나눔로또 소재지 경기 용인시 처인구 역북동 504-13 4호 1등 1 2등 4 상호 당첨희망복권점 소재지 경기 이천시 관고동 4-31 관고사거리 1등 3 2등 8 상호 천하명당 소재지 경기 평택시 서정동 76-14 1등 1 2등 6 상호 동해복권방 소재지 강원 강릉시 포남1동 1186-1번지 1등 1 2등 5 상호 천하명당 소재지 강원 춘천시 후평동 842-7 1층 2등 4 상호 복권판매점 소재지 충남 서산시 동문동 797-13 미림화랑 옆 1층 상가 1등 2 2등 3 상호 차암일등로또 소재지 충남 천안시 서북구 차암동 461번지 2등 1 상호 청양복권방 소재지 충남 청양군 청양읍 읍내리 326-4 2등 4 상호 제일로또복권방 소재지 전북 군산시 미룡동 843-5번지 2등 6 상호 CU(마동대로점) 소재지 전북 익산시 마동 363-7번지 2등 4 상호 로또편의점 소재지 전북 전주시 덕진구 인후동1가 920-5번지 1등 2 2등 7 상호 광양복권나라(로터리) 소재지 전남 광양시 광양읍 목성리 690-14번지 2등 9 상호 플러스하나 소재지 전남 순천시 덕월동 1371-2번지 플러스하나 1등 2 2등 8 상호 금진슈퍼 소재지 전남 여수시 서교동 464번지 1등 2 2등 2 상호 진도로또 소재지 전남 진도군 진도읍 동외리 1151-2 진도로또 1등 2 2등 9 상호 종합복권방 소재지 전남 해남군 해남읍 해리 189-2 1등 6 2등 23 상호 종합복권방 소재지 전남 해남군 해남읍 해리 189-2 1등 6 2등 23 상호 아참로또 소재지 경북 경산시 백천동 63-8번지 2등 3 상호 대동도기상사 소재지 경북 영천시 금노동 499-3번지 1등 3 2등 10 상호 광포로또복권 소재지 경북 울진군 죽변면 후정리 671-1번지 1등 2 2등 10 상호 행운복권방 소재지 경남 김해시 북부동 104번지 복권판매점 2등 3 상호 행운복권방 소재지 경남 김해시 북부동 104번지 복권판매점 2등 3 상호 북마산복권전문점 소재지 경남 창원시 마산합포구 상남동 39-4번지 1등 9 2등 35 상호 세븐 소재지 제주 제주시 일도2동 370-8 1등 1 2등 6]]></summary><content type="html"><![CDATA[
 <article id="cArticle" class="hentry">
 	<div class="dTitle">
@@ -1580,7 +3221,7 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </article>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8-851%ED%9A%8C%EC%B0%A8/</id><title type="html">900회차-851회차</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8-851%ED%9A%8C%EC%B0%A8/"/><published>2020-02-29T20:40:00+09:00</published><updated>2020-02-29T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[회차별 당첨번호 상세보기 로또6/45 900회 당첨 결과 2020.02.29 당첨번호 7 13 16 18 35 38 보너스 번호 14 1등 당첨 6 3,349,851,375 2등 당첨 51 65,683,361 총합 127 홀짝 3:3 저고 2:4 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 3 검정 2 상세보기 로또6/45 899회 당첨 결과 2020.02.22 당첨번호 8 19 20 21 33 39 보너스 번호 37 1등 당첨 6 3,359,356,063 2등 당첨 53 63,384,077 총합 140 홀짝 4:2 저고 2:4 연속번호 2 AC값 7 소수 1 합성수 5 색상 노랑 1 파랑 2 빨강 1 검정 2 상세보기 로또6/45 898회 당첨 결과 2020.02.15 당첨번호 18 21 28 35 37 42 보너스 번호 17 1등 당첨 8 2,639,313,235 2등 당첨 56 62,840,792 총합 181 홀짝 3:3 저고 4:2 연속번호 0 AC값 7 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 상세보기 로또6/45 897회 당첨 결과 2020.02.08 당첨번호 6 7 12 22 26 36 보너스 번호 29 1등 당첨 13 1,619,922,520 2등 당첨 62 56,610,196 총합 109 홀짝 1:5 저고 2:4 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 896회 당첨 결과 2020.02.01 당첨번호 5 12 25 26 38 45 보너스 번호 23 1등 당첨 7 3,053,222,036 2등 당첨 46 77,436,791 총합 151 홀짝 3:3 저고 4:2 연속번호 1 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 상세보기 로또6/45 895회 당첨 결과 2020.01.25 당첨번호 16 26 31 38 39 41 보너스 번호 23 1등 당첨 12 1,928,079,219 2등 당첨 58 66,485,491 총합 191 홀짝 3:3 저고 5:1 연속번호 1 AC값 8 소수 2 합성수 4 색상 파랑 1 빨강 1 검정 3 초록 1 상세보기 로또6/45 894회 당첨 결과 2020.01.18 당첨번호 19 32 37 40 41 43 보너스 번호 45 1등 당첨 9 2,377,935,959 2등 당첨 56 63,694,714 총합 212 홀짝 4:2 저고 5:1 연속번호 1 AC값 9 소수 4 합성수 2 색상 파랑 1 검정 3 초록 2 상세보기 로또6/45 893회 당첨 결과 2020.01.11 당첨번호 1 15 17 23 25 41 보너스 번호 10 1등 당첨 9 2,377,433,625 2등 당첨 58 61,485,353 총합 122 홀짝 6:0 저고 3:3 연속번호 0 AC값 6 소수 3 합성수 2 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 892회 당첨 결과 2020.01.04 당첨번호 4 9 17 18 26 42 보너스 번호 36 1등 당첨 17 1,282,017,464 2등 당첨 78 46,569,011 총합 116 홀짝 2:4 저고 2:4 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 2 파랑 2 빨강 1 초록 1 상세보기 로또6/45 891회 당첨 결과 2019.12.28 당첨번호 9 13 28 31 39 41 보너스 번호 19 1등 당첨 7 3,082,673,947 2등 당첨 77 46,707,182 총합 161 홀짝 5:1 저고 4:2 연속번호 0 AC값 10 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 1 검정 2 초록 1 상세보기 로또6/45 890회 당첨 결과 2019.12.21 당첨번호 1 4 14 18 29 37 보너스 번호 6 1등 당첨 9 2,335,486,167 2등 당첨 58 60,400,505 총합 103 홀짝 3:3 저고 2:4 연속번호 0 AC값 10 소수 2 합성수 3 색상 노랑 2 파랑 2 빨강 1 검정 1 상세보기 로또6/45 889회 당첨 결과 2019.12.14 당첨번호 3 13 29 38 39 42 보너스 번호 26 1등 당첨 10 2,108,986,950 2등 당첨 60 58,582,971 총합 164 홀짝 4:2 저고 4:2 연속번호 1 AC값 8 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 1 검정 2 초록 1 상세보기 로또6/45 888회 당첨 결과 2019.12.07 당첨번호 3 7 12 31 34 38 보너스 번호 32 1등 당첨 8 2,370,359,204 2등 당첨 59 53,567,440 총합 125 홀짝 3:3 저고 3:3 연속번호 0 AC값 8 소수 3 합성수 3 색상 노랑 2 파랑 1 검정 3 상세보기 로또6/45 887회 당첨 결과 2019.11.30 당첨번호 8 14 17 27 36 45 보너스 번호 10 1등 당첨 8 2,535,268,688 2등 당첨 66 51,217,550 총합 147 홀짝 3:3 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 2 빨강 1 검정 1 초록 1 상세보기 로또6/45 886회 당첨 결과 2019.11.23 당첨번호 19 23 28 37 42 45 보너스 번호 2 1등 당첨 7 2,974,643,786 2등 당첨 59 58,820,640 총합 194 홀짝 4:2 저고 5:1 연속번호 0 AC값 7 소수 3 합성수 3 색상 파랑 1 빨강 2 검정 1 초록 2 상세보기 로또6/45 885회 당첨 결과 2019.11.16 당첨번호 1 3 24 27 39 45 보너스 번호 31 1등 당첨 13 1,543,832,568 2등 당첨 56 59,731,618 총합 139 홀짝 5:1 저고 4:2 연속번호 0 AC값 9 소수 1 합성수 4 색상 노랑 2 빨강 2 검정 1 초록 1 상세보기 로또6/45 884회 당첨 결과 2019.11.09 당첨번호 4 14 23 28 37 45 보너스 번호 17 1등 당첨 12 1,799,077,282 2등 당첨 74 48,623,711 총합 151 홀짝 3:3 저고 4:2 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 상세보기 로또6/45 883회 당첨 결과 2019.11.02 당첨번호 9 18 32 33 37 44 보너스 번호 22 1등 당첨 15 1,360,519,525 2등 당첨 65 52,327,675 총합 173 홀짝 3:3 저고 4:2 연속번호 1 AC값 10 소수 1 합성수 5 색상 노랑 1 파랑 1 검정 3 초록 1 상세보기 로또6/45 882회 당첨 결과 2019.10.26 당첨번호 18 34 39 43 44 45 보너스 번호 23 1등 당첨 5 4,127,270,400 2등 당첨 44 78,168,000 총합 223 홀짝 3:3 저고 5:1 연속번호 2 AC값 8 소수 1 합성수 5 색상 파랑 1 검정 2 초록 3 상세보기 로또6/45 881회 당첨 결과 2019.10.19 당첨번호 4 18 20 26 27 32 보너스 번호 9 1등 당첨 8 2,503,212,282 2등 당첨 67 49,815,170 총합 127 홀짝 1:5 저고 3:3 연속번호 1 AC값 8 소수 0 합성수 6 색상 노랑 1 파랑 2 빨강 2 검정 1 상세보기 로또6/45 880회 당첨 결과 2019.10.12 당첨번호 7 17 19 23 24 45 보너스 번호 38 1등 당첨 7 2,837,810,465 2등 당첨 52 63,668,825 총합 135 홀짝 5:1 저고 3:3 연속번호 1 AC값 10 소수 4 합성수 2 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 879회 당첨 결과 2019.10.05 당첨번호 1 4 10 14 15 35 보너스 번호 20 1등 당첨 6 3,206,361,313 2등 당첨 77 41,641,057 총합 79 홀짝 3:3 저고 1:5 연속번호 1 AC값 10 소수 0 합성수 5 색상 노랑 3 파랑 2 검정 1 상세보기 로또6/45 878회 당첨 결과 2019.09.28 당첨번호 2 6 11 16 25 31 보너스 번호 3 1등 당첨 6 3,207,993,500 2등 당첨 69 46,492,660 총합 91 홀짝 3:3 저고 2:4 연속번호 0 AC값 7 소수 3 합성수 3 색상 노랑 2 파랑 2 빨강 1 검정 1 상세보기 로또6/45 877회 당첨 결과 2019.09.21 당첨번호 5 17 18 22 23 43 보너스 번호 12 1등 당첨 12 1,716,607,188 2등 당첨 75 45,776,192 총합 128 홀짝 4:2 저고 2:4 연속번호 2 AC값 8 소수 4 합성수 2 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 876회 당첨 결과 2019.09.14 당첨번호 5 16 21 26 34 42 보너스 번호 24 1등 당첨 19 1,090,657,856 2등 당첨 59 58,538,134 총합 144 홀짝 2:4 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 상세보기 로또6/45 875회 당첨 결과 2019.09.07 당첨번호 19 22 30 34 39 44 보너스 번호 36 1등 당첨 14 1,415,946,724 2등 당첨 33 100,117,446 총합 188 홀짝 2:4 저고 4:2 연속번호 0 AC값 9 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 상세보기 로또6/45 874회 당첨 결과 2019.08.31 당첨번호 1 15 19 23 28 42 보너스 번호 32 1등 당첨 18 1,117,123,917 2등 당첨 68 49,284,879 총합 128 홀짝 4:2 저고 3:3 연속번호 0 AC값 7 소수 2 합성수 3 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 873회 당첨 결과 2019.08.24 당첨번호 3 5 12 13 33 39 보너스 번호 38 1등 당첨 10 1,874,553,225 2등 당첨 68 45,944,932 총합 105 홀짝 5:1 저고 2:4 연속번호 1 AC값 10 소수 3 합성수 3 색상 노랑 2 파랑 2 검정 2 상세보기 로또6/45 872회 당첨 결과 2019.08.17 당첨번호 2 4 30 32 33 43 보너스 번호 29 1등 당첨 16 1,262,705,579 2등 당첨 46 73,200,324 총합 144 홀짝 2:4 저고 4:2 연속번호 1 AC값 8 소수 2 합성수 4 색상 노랑 2 빨강 1 검정 2 초록 1 상세보기 로또6/45 871회 당첨 결과 2019.08.10 당첨번호 2 6 12 26 30 34 보너스 번호 38 1등 당첨 7 2,718,071,358 2등 당첨 61 51,984,972 총합 110 홀짝 0:6 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 870회 당첨 결과 2019.08.03 당첨번호 21 25 30 32 40 42 보너스 번호 31 1등 당첨 10 1,928,842,988 2등 당첨 48 66,973,715 총합 190 홀짝 2:4 저고 5:1 연속번호 0 AC값 8 소수 0 합성수 6 색상 빨강 3 검정 2 초록 1 상세보기 로또6/45 869회 당첨 결과 2019.07.27 당첨번호 2 6 20 27 37 39 보너스 번호 4 1등 당첨 10 1,922,582,588 2등 당첨 56 57,219,720 총합 131 홀짝 3:3 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 2 파랑 1 빨강 1 검정 2 상세보기 로또6/45 868회 당첨 결과 2019.07.20 당첨번호 12 17 28 41 43 44 보너스 번호 25 1등 당첨 6 3,233,804,250 2등 당첨 61 53,013,185 총합 185 홀짝 3:3 저고 4:2 연속번호 1 AC값 9 소수 3 합성수 3 색상 파랑 2 빨강 1 초록 3 상세보기 로또6/45 867회 당첨 결과 2019.07.13 당첨번호 14 17 19 22 24 40 보너스 번호 41 1등 당첨 5 3,933,755,250 2등 당첨 57 57,511,042 총합 136 홀짝 2:4 저고 2:4 연속번호 0 AC값 6 소수 2 합성수 4 색상 파랑 3 빨강 2 검정 1 상세보기 로또6/45 866회 당첨 결과 2019.07.06 당첨번호 9 15 29 34 37 39 보너스 번호 12 1등 당첨 9 2,240,409,000 2등 당첨 68 49,420,787 총합 163 홀짝 5:1 저고 4:2 연속번호 0 AC값 9 소수 2 합성수 4 색상 노랑 1 파랑 1 빨강 1 검정 3 상세보기 로또6/45 865회 당첨 결과 2019.06.29 당첨번호 3 15 22 32 33 45 보너스 번호 2 1등 당첨 13 1,551,729,145 2등 당첨 52 64,655,382 총합 150 홀짝 4:2 저고 3:3 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 1 검정 2 초록 1 상세보기 로또6/45 864회 당첨 결과 2019.06.22 당첨번호 3 7 10 13 25 36 보너스 번호 32 1등 당첨 11 1,716,553,637 2등 당첨 64 49,172,110 총합 94 홀짝 4:2 저고 2:4 연속번호 0 AC값 9 소수 3 합성수 3 색상 노랑 3 파랑 1 빨강 1 검정 1 상세보기 로또6/45 863회 당첨 결과 2019.06.15 당첨번호 16 21 28 35 39 43 보너스 번호 12 1등 당첨 7 2,853,357,322 2등 당첨 64 52,014,327 총합 182 홀짝 4:2 저고 4:2 연속번호 0 AC값 8 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 상세보기 로또6/45 862회 당첨 결과 2019.06.08 당첨번호 10 34 38 40 42 43 보너스 번호 32 1등 당첨 9 2,190,922,709 2등 당첨 63 52,164,827 총합 207 홀짝 1:5 저고 5:1 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 1 검정 3 초록 2 상세보기 로또6/45 861회 당첨 결과 2019.06.01 당첨번호 11 17 19 21 22 25 보너스 번호 24 1등 당첨 4 4,872,108,844 2등 당첨 65 49,970,348 총합 115 홀짝 5:1 저고 1:5 연속번호 1 AC값 5 소수 3 합성수 3 색상 파랑 3 빨강 3 상세보기 로또6/45 860회 당첨 결과 2019.05.25 당첨번호 4 8 18 25 27 32 보너스 번호 42 1등 당첨 10 1,879,899,825 2등 당첨 62 50,534,942 총합 114 홀짝 2:4 저고 3:3 연속번호 0 AC값 8 소수 0 합성수 6 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 859회 당첨 결과 2019.05.18 당첨번호 8 22 35 38 39 41 보너스 번호 24 1등 당첨 11 1,853,927,489 2등 당첨 51 66,644,453 총합 183 홀짝 3:3 저고 4:2 연속번호 1 AC값 9 소수 1 합성수 5 색상 노랑 1 빨강 1 검정 3 초록 1 상세보기 로또6/45 858회 당첨 결과 2019.05.11 당첨번호 9 13 32 38 39 43 보너스 번호 23 1등 당첨 9 2,202,347,459 2등 당첨 41 80,573,688 총합 174 홀짝 4:2 저고 4:2 연속번호 1 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 1 검정 3 초록 1 상세보기 로또6/45 857회 당첨 결과 2019.05.04 당첨번호 6 10 16 28 34 38 보너스 번호 43 1등 당첨 15 1,284,915,425 2등 당첨 62 51,811,106 총합 132 홀짝 0:6 저고 3:3 연속번호 0 AC값 4 소수 0 합성수 6 색상 노랑 2 파랑 1 빨강 1 검정 2 상세보기 로또6/45 856회 당첨 결과 2019.04.27 당첨번호 10 24 40 41 43 44 보너스 번호 17 1등 당첨 5 3,977,927,550 2등 당첨 53 62,546,031 총합 202 홀짝 2:4 저고 5:1 연속번호 2 AC값 8 소수 2 합성수 4 색상 노랑 1 빨강 1 검정 1 초록 3 상세보기 로또6/45 855회 당첨 결과 2019.04.20 당첨번호 8 15 17 19 43 44 보너스 번호 7 1등 당첨 9 2,269,510,500 2등 당첨 61 55,807,636 총합 146 홀짝 4:2 저고 2:4 연속번호 1 AC값 9 소수 3 합성수 3 색상 노랑 1 파랑 3 초록 2 상세보기 로또6/45 854회 당첨 결과 2019.04.13 당첨번호 20 25 31 32 36 43 보너스 번호 3 1등 당첨 6 3,421,706,750 2등 당첨 44 77,766,063 총합 187 홀짝 3:3 저고 5:1 연속번호 1 AC값 5 소수 2 합성수 4 색상 파랑 1 빨강 1 검정 3 초록 1 상세보기 로또6/45 853회 당첨 결과 2019.04.06 당첨번호 2 8 23 26 27 44 보너스 번호 13 1등 당첨 7 2,885,006,786 2등 당첨 90 37,398,237 총합 130 홀짝 2:4 저고 4:2 연속번호 1 AC값 8 소수 2 합성수 4 색상 노랑 2 빨강 3 초록 1 상세보기 로또6/45 852회 당첨 결과 2019.03.30 당첨번호 11 17 28 30 33 35 보너스 번호 9 1등 당첨 4 4,801,543,407 2등 당첨 67 47,776,552 총합 154 홀짝 4:2 저고 4:2 연속번호 0 AC값 8 소수 2 합성수 4 색상 파랑 2 빨강 2 검정 2 상세보기 로또6/45 851회 당첨 결과 2019.03.23 당첨번호 14 18 22 26 31 44 보너스 번호 40 1등 당첨 8 2,483,692,313 2등 당첨 70 47,308,425 총합 155 홀짝 1:5 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 파랑 2 빨강 2 검정 1 초록 1 901회차-901회차 850회차-801회차]]></summary><content type="html"><![CDATA[<section class="cGamesBox">
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8-851%ED%9A%8C%EC%B0%A8/</id><title type="html">900회차-851회차</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8-851%ED%9A%8C%EC%B0%A8/"/><published>2020-02-29T20:40:00+09:00</published><updated>2020-02-29T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[회차별 당첨번호 상세보기 로또6/45 900회 당첨 결과 2020.02.29 당첨번호 7 13 16 18 35 38 보너스 번호 14 1등 당첨 6 3,349,851,375 2등 당첨 51 65,683,361 총합 127 홀짝 3:3 저고 2:4 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 3 검정 2 상세보기 로또6/45 899회 당첨 결과 2020.02.22 당첨번호 8 19 20 21 33 39 보너스 번호 37 1등 당첨 6 3,359,356,063 2등 당첨 53 63,384,077 총합 140 홀짝 4:2 저고 2:4 연속번호 2 AC값 7 소수 1 합성수 5 색상 노랑 1 파랑 2 빨강 1 검정 2 상세보기 로또6/45 898회 당첨 결과 2020.02.15 당첨번호 18 21 28 35 37 42 보너스 번호 17 1등 당첨 8 2,639,313,235 2등 당첨 56 62,840,792 총합 181 홀짝 3:3 저고 4:2 연속번호 0 AC값 7 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 상세보기 로또6/45 897회 당첨 결과 2020.02.08 당첨번호 6 7 12 22 26 36 보너스 번호 29 1등 당첨 13 1,619,922,520 2등 당첨 62 56,610,196 총합 109 홀짝 1:5 저고 2:4 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 896회 당첨 결과 2020.02.01 당첨번호 5 12 25 26 38 45 보너스 번호 23 1등 당첨 7 3,053,222,036 2등 당첨 46 77,436,791 총합 151 홀짝 3:3 저고 4:2 연속번호 1 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 상세보기 로또6/45 895회 당첨 결과 2020.01.25 당첨번호 16 26 31 38 39 41 보너스 번호 23 1등 당첨 12 1,928,079,219 2등 당첨 58 66,485,491 총합 191 홀짝 3:3 저고 5:1 연속번호 1 AC값 8 소수 2 합성수 4 색상 파랑 1 빨강 1 검정 3 초록 1 상세보기 로또6/45 894회 당첨 결과 2020.01.18 당첨번호 19 32 37 40 41 43 보너스 번호 45 1등 당첨 9 2,377,935,959 2등 당첨 56 63,694,714 총합 212 홀짝 4:2 저고 5:1 연속번호 1 AC값 9 소수 4 합성수 2 색상 파랑 1 검정 3 초록 2 상세보기 로또6/45 893회 당첨 결과 2020.01.11 당첨번호 1 15 17 23 25 41 보너스 번호 10 1등 당첨 9 2,377,433,625 2등 당첨 58 61,485,353 총합 122 홀짝 6:0 저고 3:3 연속번호 0 AC값 6 소수 3 합성수 2 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 892회 당첨 결과 2020.01.04 당첨번호 4 9 17 18 26 42 보너스 번호 36 1등 당첨 17 1,282,017,464 2등 당첨 78 46,569,011 총합 116 홀짝 2:4 저고 2:4 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 2 파랑 2 빨강 1 초록 1 상세보기 로또6/45 891회 당첨 결과 2019.12.28 당첨번호 9 13 28 31 39 41 보너스 번호 19 1등 당첨 7 3,082,673,947 2등 당첨 77 46,707,182 총합 161 홀짝 5:1 저고 4:2 연속번호 0 AC값 10 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 1 검정 2 초록 1 상세보기 로또6/45 890회 당첨 결과 2019.12.21 당첨번호 1 4 14 18 29 37 보너스 번호 6 1등 당첨 9 2,335,486,167 2등 당첨 58 60,400,505 총합 103 홀짝 3:3 저고 2:4 연속번호 0 AC값 10 소수 2 합성수 3 색상 노랑 2 파랑 2 빨강 1 검정 1 상세보기 로또6/45 889회 당첨 결과 2019.12.14 당첨번호 3 13 29 38 39 42 보너스 번호 26 1등 당첨 10 2,108,986,950 2등 당첨 60 58,582,971 총합 164 홀짝 4:2 저고 4:2 연속번호 1 AC값 8 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 1 검정 2 초록 1 상세보기 로또6/45 888회 당첨 결과 2019.12.07 당첨번호 3 7 12 31 34 38 보너스 번호 32 1등 당첨 8 2,370,359,204 2등 당첨 59 53,567,440 총합 125 홀짝 3:3 저고 3:3 연속번호 0 AC값 8 소수 3 합성수 3 색상 노랑 2 파랑 1 검정 3 상세보기 로또6/45 887회 당첨 결과 2019.11.30 당첨번호 8 14 17 27 36 45 보너스 번호 10 1등 당첨 8 2,535,268,688 2등 당첨 66 51,217,550 총합 147 홀짝 3:3 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 2 빨강 1 검정 1 초록 1 상세보기 로또6/45 886회 당첨 결과 2019.11.23 당첨번호 19 23 28 37 42 45 보너스 번호 2 1등 당첨 7 2,974,643,786 2등 당첨 59 58,820,640 총합 194 홀짝 4:2 저고 5:1 연속번호 0 AC값 7 소수 3 합성수 3 색상 파랑 1 빨강 2 검정 1 초록 2 상세보기 로또6/45 885회 당첨 결과 2019.11.16 당첨번호 1 3 24 27 39 45 보너스 번호 31 1등 당첨 13 1,543,832,568 2등 당첨 56 59,731,618 총합 139 홀짝 5:1 저고 4:2 연속번호 0 AC값 9 소수 1 합성수 4 색상 노랑 2 빨강 2 검정 1 초록 1 상세보기 로또6/45 884회 당첨 결과 2019.11.09 당첨번호 4 14 23 28 37 45 보너스 번호 17 1등 당첨 12 1,799,077,282 2등 당첨 74 48,623,711 총합 151 홀짝 3:3 저고 4:2 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 상세보기 로또6/45 883회 당첨 결과 2019.11.02 당첨번호 9 18 32 33 37 44 보너스 번호 22 1등 당첨 15 1,360,519,525 2등 당첨 65 52,327,675 총합 173 홀짝 3:3 저고 4:2 연속번호 1 AC값 10 소수 1 합성수 5 색상 노랑 1 파랑 1 검정 3 초록 1 상세보기 로또6/45 882회 당첨 결과 2019.10.26 당첨번호 18 34 39 43 44 45 보너스 번호 23 1등 당첨 5 4,127,270,400 2등 당첨 44 78,168,000 총합 223 홀짝 3:3 저고 5:1 연속번호 2 AC값 8 소수 1 합성수 5 색상 파랑 1 검정 2 초록 3 상세보기 로또6/45 881회 당첨 결과 2019.10.19 당첨번호 4 18 20 26 27 32 보너스 번호 9 1등 당첨 8 2,503,212,282 2등 당첨 67 49,815,170 총합 127 홀짝 1:5 저고 3:3 연속번호 1 AC값 8 소수 0 합성수 6 색상 노랑 1 파랑 2 빨강 2 검정 1 상세보기 로또6/45 880회 당첨 결과 2019.10.12 당첨번호 7 17 19 23 24 45 보너스 번호 38 1등 당첨 7 2,837,810,465 2등 당첨 52 63,668,825 총합 135 홀짝 5:1 저고 3:3 연속번호 1 AC값 10 소수 4 합성수 2 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 879회 당첨 결과 2019.10.05 당첨번호 1 4 10 14 15 35 보너스 번호 20 1등 당첨 6 3,206,361,313 2등 당첨 77 41,641,057 총합 79 홀짝 3:3 저고 1:5 연속번호 1 AC값 10 소수 0 합성수 5 색상 노랑 3 파랑 2 검정 1 상세보기 로또6/45 878회 당첨 결과 2019.09.28 당첨번호 2 6 11 16 25 31 보너스 번호 3 1등 당첨 6 3,207,993,500 2등 당첨 69 46,492,660 총합 91 홀짝 3:3 저고 2:4 연속번호 0 AC값 7 소수 3 합성수 3 색상 노랑 2 파랑 2 빨강 1 검정 1 상세보기 로또6/45 877회 당첨 결과 2019.09.21 당첨번호 5 17 18 22 23 43 보너스 번호 12 1등 당첨 12 1,716,607,188 2등 당첨 75 45,776,192 총합 128 홀짝 4:2 저고 2:4 연속번호 2 AC값 8 소수 4 합성수 2 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 876회 당첨 결과 2019.09.14 당첨번호 5 16 21 26 34 42 보너스 번호 24 1등 당첨 19 1,090,657,856 2등 당첨 59 58,538,134 총합 144 홀짝 2:4 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 상세보기 로또6/45 875회 당첨 결과 2019.09.07 당첨번호 19 22 30 34 39 44 보너스 번호 36 1등 당첨 14 1,415,946,724 2등 당첨 33 100,117,446 총합 188 홀짝 2:4 저고 4:2 연속번호 0 AC값 9 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 상세보기 로또6/45 874회 당첨 결과 2019.08.31 당첨번호 1 15 19 23 28 42 보너스 번호 32 1등 당첨 18 1,117,123,917 2등 당첨 68 49,284,879 총합 128 홀짝 4:2 저고 3:3 연속번호 0 AC값 7 소수 2 합성수 3 색상 노랑 1 파랑 2 빨강 2 초록 1 상세보기 로또6/45 873회 당첨 결과 2019.08.24 당첨번호 3 5 12 13 33 39 보너스 번호 38 1등 당첨 10 1,874,553,225 2등 당첨 68 45,944,932 총합 105 홀짝 5:1 저고 2:4 연속번호 1 AC값 10 소수 3 합성수 3 색상 노랑 2 파랑 2 검정 2 상세보기 로또6/45 872회 당첨 결과 2019.08.17 당첨번호 2 4 30 32 33 43 보너스 번호 29 1등 당첨 16 1,262,705,579 2등 당첨 46 73,200,324 총합 144 홀짝 2:4 저고 4:2 연속번호 1 AC값 8 소수 2 합성수 4 색상 노랑 2 빨강 1 검정 2 초록 1 상세보기 로또6/45 871회 당첨 결과 2019.08.10 당첨번호 2 6 12 26 30 34 보너스 번호 38 1등 당첨 7 2,718,071,358 2등 당첨 61 51,984,972 총합 110 홀짝 0:6 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 870회 당첨 결과 2019.08.03 당첨번호 21 25 30 32 40 42 보너스 번호 31 1등 당첨 10 1,928,842,988 2등 당첨 48 66,973,715 총합 190 홀짝 2:4 저고 5:1 연속번호 0 AC값 8 소수 0 합성수 6 색상 빨강 3 검정 2 초록 1 상세보기 로또6/45 869회 당첨 결과 2019.07.27 당첨번호 2 6 20 27 37 39 보너스 번호 4 1등 당첨 10 1,922,582,588 2등 당첨 56 57,219,720 총합 131 홀짝 3:3 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 2 파랑 1 빨강 1 검정 2 상세보기 로또6/45 868회 당첨 결과 2019.07.20 당첨번호 12 17 28 41 43 44 보너스 번호 25 1등 당첨 6 3,233,804,250 2등 당첨 61 53,013,185 총합 185 홀짝 3:3 저고 4:2 연속번호 1 AC값 9 소수 3 합성수 3 색상 파랑 2 빨강 1 초록 3 상세보기 로또6/45 867회 당첨 결과 2019.07.13 당첨번호 14 17 19 22 24 40 보너스 번호 41 1등 당첨 5 3,933,755,250 2등 당첨 57 57,511,042 총합 136 홀짝 2:4 저고 2:4 연속번호 0 AC값 6 소수 2 합성수 4 색상 파랑 3 빨강 2 검정 1 상세보기 로또6/45 866회 당첨 결과 2019.07.06 당첨번호 9 15 29 34 37 39 보너스 번호 12 1등 당첨 9 2,240,409,000 2등 당첨 68 49,420,787 총합 163 홀짝 5:1 저고 4:2 연속번호 0 AC값 9 소수 2 합성수 4 색상 노랑 1 파랑 1 빨강 1 검정 3 상세보기 로또6/45 865회 당첨 결과 2019.06.29 당첨번호 3 15 22 32 33 45 보너스 번호 2 1등 당첨 13 1,551,729,145 2등 당첨 52 64,655,382 총합 150 홀짝 4:2 저고 3:3 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 1 검정 2 초록 1 상세보기 로또6/45 864회 당첨 결과 2019.06.22 당첨번호 3 7 10 13 25 36 보너스 번호 32 1등 당첨 11 1,716,553,637 2등 당첨 64 49,172,110 총합 94 홀짝 4:2 저고 2:4 연속번호 0 AC값 9 소수 3 합성수 3 색상 노랑 3 파랑 1 빨강 1 검정 1 상세보기 로또6/45 863회 당첨 결과 2019.06.15 당첨번호 16 21 28 35 39 43 보너스 번호 12 1등 당첨 7 2,853,357,322 2등 당첨 64 52,014,327 총합 182 홀짝 4:2 저고 4:2 연속번호 0 AC값 8 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 상세보기 로또6/45 862회 당첨 결과 2019.06.08 당첨번호 10 34 38 40 42 43 보너스 번호 32 1등 당첨 9 2,190,922,709 2등 당첨 63 52,164,827 총합 207 홀짝 1:5 저고 5:1 연속번호 1 AC값 8 소수 1 합성수 5 색상 노랑 1 검정 3 초록 2 상세보기 로또6/45 861회 당첨 결과 2019.06.01 당첨번호 11 17 19 21 22 25 보너스 번호 24 1등 당첨 4 4,872,108,844 2등 당첨 65 49,970,348 총합 115 홀짝 5:1 저고 1:5 연속번호 1 AC값 5 소수 3 합성수 3 색상 파랑 3 빨강 3 상세보기 로또6/45 860회 당첨 결과 2019.05.25 당첨번호 4 8 18 25 27 32 보너스 번호 42 1등 당첨 10 1,879,899,825 2등 당첨 62 50,534,942 총합 114 홀짝 2:4 저고 3:3 연속번호 0 AC값 8 소수 0 합성수 6 색상 노랑 2 파랑 1 빨강 2 검정 1 상세보기 로또6/45 859회 당첨 결과 2019.05.18 당첨번호 8 22 35 38 39 41 보너스 번호 24 1등 당첨 11 1,853,927,489 2등 당첨 51 66,644,453 총합 183 홀짝 3:3 저고 4:2 연속번호 1 AC값 9 소수 1 합성수 5 색상 노랑 1 빨강 1 검정 3 초록 1 상세보기 로또6/45 858회 당첨 결과 2019.05.11 당첨번호 9 13 32 38 39 43 보너스 번호 23 1등 당첨 9 2,202,347,459 2등 당첨 41 80,573,688 총합 174 홀짝 4:2 저고 4:2 연속번호 1 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 1 검정 3 초록 1 상세보기 로또6/45 857회 당첨 결과 2019.05.04 당첨번호 6 10 16 28 34 38 보너스 번호 43 1등 당첨 15 1,284,915,425 2등 당첨 62 51,811,106 총합 132 홀짝 0:6 저고 3:3 연속번호 0 AC값 4 소수 0 합성수 6 색상 노랑 2 파랑 1 빨강 1 검정 2 상세보기 로또6/45 856회 당첨 결과 2019.04.27 당첨번호 10 24 40 41 43 44 보너스 번호 17 1등 당첨 5 3,977,927,550 2등 당첨 53 62,546,031 총합 202 홀짝 2:4 저고 5:1 연속번호 2 AC값 8 소수 2 합성수 4 색상 노랑 1 빨강 1 검정 1 초록 3 상세보기 로또6/45 855회 당첨 결과 2019.04.20 당첨번호 8 15 17 19 43 44 보너스 번호 7 1등 당첨 9 2,269,510,500 2등 당첨 61 55,807,636 총합 146 홀짝 4:2 저고 2:4 연속번호 1 AC값 9 소수 3 합성수 3 색상 노랑 1 파랑 3 초록 2 상세보기 로또6/45 854회 당첨 결과 2019.04.13 당첨번호 20 25 31 32 36 43 보너스 번호 3 1등 당첨 6 3,421,706,750 2등 당첨 44 77,766,063 총합 187 홀짝 3:3 저고 5:1 연속번호 1 AC값 5 소수 2 합성수 4 색상 파랑 1 빨강 1 검정 3 초록 1 상세보기 로또6/45 853회 당첨 결과 2019.04.06 당첨번호 2 8 23 26 27 44 보너스 번호 13 1등 당첨 7 2,885,006,786 2등 당첨 90 37,398,237 총합 130 홀짝 2:4 저고 4:2 연속번호 1 AC값 8 소수 2 합성수 4 색상 노랑 2 빨강 3 초록 1 상세보기 로또6/45 852회 당첨 결과 2019.03.30 당첨번호 11 17 28 30 33 35 보너스 번호 9 1등 당첨 4 4,801,543,407 2등 당첨 67 47,776,552 총합 154 홀짝 4:2 저고 4:2 연속번호 0 AC값 8 소수 2 합성수 4 색상 파랑 2 빨강 2 검정 2 상세보기 로또6/45 851회 당첨 결과 2019.03.23 당첨번호 14 18 22 26 31 44 보너스 번호 40 1등 당첨 8 2,483,692,313 2등 당첨 70 47,308,425 총합 155 홀짝 1:5 저고 3:3 연속번호 0 AC값 6 소수 1 합성수 5 색상 파랑 2 빨강 2 검정 1 초록 1 902회차-901회차 850회차-801회차]]></summary><content type="html"><![CDATA[<section class="cGamesBox">
 	<h2>회차별 당첨번호</h2>
 
 	<ul class="list">
@@ -5420,7 +7061,7 @@
 	</div>
 </li>			</ul>
 	<ul class="nav">
-					<li class="next"><a href="https://lotto.asamaru.net/로또645/당첨결과/">901회차-901회차</a></li>
+					<li class="next"><a href="https://lotto.asamaru.net/로또645/당첨결과/">902회차-901회차</a></li>
 							<li class="prev"><a href="https://lotto.asamaru.net/로또645/당첨결과/850회차-801회차">850회차-801회차</a></li>
 			</ul>
 
@@ -5431,7 +7072,7 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 900회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8/"/><published>2020-02-29T20:40:00+09:00</published><updated>2020-02-29T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 900 회 당첨결과 2020년 02월 29일 2020년 02월 29일 아사마루 로또6/45 900회 당첨 결과 당첨번호 7 13 16 18 35 38 보너스 번호 14 총합 127 홀짝 3:3 저고 2:4 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 3 검정 2 로또6/45 900회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 6 3,349,851,375 원 20,099,108,250 원 2등 51 65,683,361 원 3,349,851,411 원 3등 2,385 1,404,550 원 3,349,851,750 원 4등 113,132 50,000 원 5,656,600,000 원 5등 1,872,855 5,000 원 9,364,275,000 원 총 판매액 83,639,372,000 원 로또6/45 900회 1등 당첨판매점 구분 자동 상호 행운복권방 소재지 서울 도봉구 창동 134-36번지 우림빌딩106 1등 4 2등 7 구분 자동 상호 로또복권판매소 소재지 서울 마포구 도화동 37번지 진도빌딩앞 1등 2 2등 8 구분 자동 상호 종합가판제141호 소재지 서울 중구 황학동 686번지 1등 1 2등 5 구분 자동 상호 한국인세계대박복권 소재지 인천 연수구 옥련동 285번지 1등 3 2등 11 구분 수동 상호 남문시장 소재지 경기 수원시 팔달구 영동 8 영동시장 101호 1등 1 2등 3 구분 자동 상호 알리바이(나주점) 소재지 전남 나주시 금성동 2-2번지 알리바이 1등 8 2등 15 로또6/45 900회 2등 당첨판매점 상호 복권당 소재지 서울 금천구 시흥동 984 1동 116호 2등 4 상호 노다지 노원역점 복권방 소재지 서울 노원구 상계동 340-1번지 1등 3 2등 11 상호 내복권방 소재지 서울 노원구 공릉동 240-228 1층 1등 1 2등 4 상호 스파 소재지 서울 노원구 상계동 666-3 주공10단지종합상가111 1등 35 2등 147 상호 한삼인 홍제역점 소재지 서울 서대문구 홍제동 330-60번지 1등 1 2등 7 상호 캐논종합 소재지 서울 용산구 한강로3가 1-3번지 나진10동가125호 1등 2 2등 11 상호 행운충전소 소재지 서울 중구 황학동 732번지 2등 6 상호 늘푸른복권방 소재지 서울 중구 을지로3가 108 2등 5 상호 셀프카메라 소재지 부산 부산진구 개금제3동 472-23번지 1등 5 2등 38 상호 로또복권 소재지 부산 사하구 괴정제4동 1134-9번지 1층복권방 2등 6 상호 성광복권명당 소재지 부산 연제구 연산제1동 313-21번지 1등 2 2등 13 상호 동일통신 소재지 부산 해운대구 반여제1동 1361-2번지 1등 2 2등 2 상호 emart24대구월배역점 소재지 대구 달서구 진천동 117-19번지 2등 3 상호 복권명당(서부점) 소재지 대구 달서구 송현동 195-2번지 1등 8 2등 42 상호 복권천국 소재지 대구 중구 대봉동 13-17번지 1등 2 2등 6 상호 로또명당 소재지 인천 남동구 구월동 1250 1등 1 2등 7 상호 운수대통 소재지 인천 부평구 십정2동 408-15 1층 A호 1등 2 2등 7 상호 대박천하마트 소재지 인천 부평구 갈산동 367번지 1등 6 2등 25 상호 복권방 소재지 인천 연수구 송도동 149 301동 비 - 107호, 롯데캐슬캠퍼스타운 1등 1 2등 11 상호 알리바이 하남점 소재지 광주 광산구 하남동 650 102호 알리바이 내 2등 3 상호 씨유 진월지구점 소재지 광주 남구 노대동 852 CU진월지구점 2등 5 상호 오리엔트복권 소재지 대전 대덕구 중리동 173-9번지 1등 2 2등 5 상호 대박복권방 소재지 대전 서구 갈마동 378-4번지 2등 5 상호 금돼지로또방 소재지 울산 동구 방어동 288-5 2등 1 상호 주공슈퍼 소재지 경기 고양시 일산동구 백석동 1343번지 주공아파트단지상가 1등 2 2등 6 상호 대박로또복권 소재지 경기 김포시 통진읍 옹정리 37-1번지 1등 1 2등 11 상호 가판점 소재지 경기 부천시 대산동 543 이마트앞 지하도입구 1등 1 2등 12 상호 하나로슈퍼복권방 소재지 경기 성남시 수정구 산성동 841 대경빌라102호 1등 1 2등 3 상호 운수대통 소재지 경기 수원시 권선구 호매실동 87-2 1등 4 2등 12 상호 빅버드 소재지 경기 수원시 권선구 세류동 566-5 1층 1호 2등 3 상호 빅버드 소재지 경기 수원시 권선구 세류동 566-5 1층 1호 2등 3 상호 북문복권방 소재지 경기 수원시 장안구 영화동 311-12 1등 4 2등 14 상호 운수대통 소재지 경기 시흥시 신천동 888-1번지 101호 1등 1 2등 2 상호 다니엘사 소재지 경기 안산시 단원구 초지동 796 101호 1등 6 2등 29 상호 GS25(안산경일점) 소재지 경기 안산시 상록구 성포동 591-4 1등 1 2등 3 상호 북부슈퍼 소재지 경기 의정부시 의정부동 236-23번지 2등 6 상호 대박행진 복권랜드 소재지 경기 파주시 금촌동 989-1번지 금촌프라자107호 1등 5 2등 20 상호 gs25포천송우로점 소재지 경기 포천시 소흘읍 송우리 577-18 2등 2 상호 화랑로또판매점 소재지 경기 화성시 팔탄면 구장리 23-22 2등 1 상호 데일리 씨브이에스(DAILY CVS) 소재지 강원 원주시 지정면 가곡리 1497-1 1층 101호 2등 2 상호 썬마트 소재지 충북 청주시 흥덕구 복대동 2719번지 1등 8 2등 8 상호 로또복권 소재지 충남 공주시 옥룡동 308-1번지 2등 4 상호 영약국 소재지 충남 금산군 금산읍 중도리 361-4번지 1등 1 2등 13 상호 팡팡복권마트.잡화슈퍼 소재지 전북 전주시 덕진구 금암1동 460-30 1등 6 2등 20 상호 동아전업사 소재지 전북 전주시 덕진구 팔복동2가 247-13번지 2등 20 상호 아리랑복권방 소재지 전북 전주시 완산구 효자동1가 622-8번지 2등 7 상호 복권천국 소재지 전남 목포시 상동 1013-10번지 복권천국 1등 2 2등 4 상호 동그라미 소재지 경북 구미시 원평2동 159-6 2등 4 상호 GS25(왜관우방점) 소재지 경북 칠곡군 왜관읍 왜관리 774 GS25왜관우방점 2등 9 상호 삼호판매점 소재지 경남 양산시 서창동 782-8 복권판매점 2등 5 상호 노다지복권방 소재지 경남 진주시 평거동 582-5번지 2등 5]]></summary><content type="html"><![CDATA[
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 900회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/900%ED%9A%8C%EC%B0%A8/"/><published>2020-02-29T20:40:00+09:00</published><updated>2020-02-29T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 900 회 당첨결과 2020년 02월 29일 2020년 02월 29일 아사마루 로또6/45 900회 당첨 결과 당첨번호 7 13 16 18 35 38 보너스 번호 14 총합 127 홀짝 3:3 저고 2:4 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 1 파랑 3 검정 2 로또6/45 900회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 6 3,349,851,375 원 20,099,108,250 원 2등 51 65,683,361 원 3,349,851,411 원 3등 2,385 1,404,550 원 3,349,851,750 원 4등 113,132 50,000 원 5,656,600,000 원 5등 1,872,855 5,000 원 9,364,275,000 원 총 판매액 83,639,372,000 원 로또6/45 900회 1등 당첨판매점 구분 자동 상호 행운복권방 소재지 서울 도봉구 창동 134-36번지 우림빌딩106 1등 4 2등 7 구분 자동 상호 로또복권판매소 소재지 서울 마포구 도화동 37번지 진도빌딩앞 1등 2 2등 8 구분 자동 상호 종합가판제141호 소재지 서울 중구 황학동 686번지 1등 1 2등 5 구분 자동 상호 한국인세계대박복권 소재지 인천 연수구 옥련동 285번지 1등 3 2등 11 구분 수동 상호 남문시장 소재지 경기 수원시 팔달구 영동 8 영동시장 101호 1등 1 2등 3 구분 자동 상호 알리바이(나주점) 소재지 전남 나주시 금성동 2-2번지 알리바이 1등 8 2등 15 로또6/45 900회 2등 당첨판매점 상호 복권당 소재지 서울 금천구 시흥동 984 1동 116호 2등 4 상호 노다지 노원역점 복권방 소재지 서울 노원구 상계동 340-1번지 1등 3 2등 11 상호 내복권방 소재지 서울 노원구 공릉동 240-228 1층 1등 1 2등 4 상호 스파 소재지 서울 노원구 상계동 666-3 주공10단지종합상가111 1등 35 2등 148 상호 한삼인 홍제역점 소재지 서울 서대문구 홍제동 330-60번지 1등 1 2등 7 상호 캐논종합 소재지 서울 용산구 한강로3가 1-3번지 나진10동가125호 1등 2 2등 11 상호 행운충전소 소재지 서울 중구 황학동 732번지 2등 6 상호 늘푸른복권방 소재지 서울 중구 을지로3가 108 2등 5 상호 셀프카메라 소재지 부산 부산진구 개금제3동 472-23번지 1등 5 2등 38 상호 로또복권 소재지 부산 사하구 괴정제4동 1134-9번지 1층복권방 2등 6 상호 성광복권명당 소재지 부산 연제구 연산제1동 313-21번지 1등 2 2등 13 상호 동일통신 소재지 부산 해운대구 반여제1동 1361-2번지 1등 3 2등 2 상호 emart24대구월배역점 소재지 대구 달서구 진천동 117-19번지 2등 3 상호 복권명당(서부점) 소재지 대구 달서구 송현동 195-2번지 1등 8 2등 42 상호 복권천국 소재지 대구 중구 대봉동 13-17번지 1등 2 2등 6 상호 로또명당 소재지 인천 남동구 구월동 1250 1등 1 2등 7 상호 운수대통 소재지 인천 부평구 십정2동 408-15 1층 A호 1등 2 2등 7 상호 대박천하마트 소재지 인천 부평구 갈산동 367번지 1등 6 2등 25 상호 복권방 소재지 인천 연수구 송도동 149 301동 비 - 107호, 롯데캐슬캠퍼스타운 1등 1 2등 11 상호 알리바이 하남점 소재지 광주 광산구 하남동 650 102호 알리바이 내 2등 3 상호 씨유 진월지구점 소재지 광주 남구 노대동 852 CU진월지구점 2등 5 상호 오리엔트복권 소재지 대전 대덕구 중리동 173-9번지 1등 2 2등 5 상호 대박복권방 소재지 대전 서구 갈마동 378-4번지 2등 5 상호 금돼지로또방 소재지 울산 동구 방어동 288-5 2등 1 상호 주공슈퍼 소재지 경기 고양시 일산동구 백석동 1343번지 주공아파트단지상가 1등 2 2등 6 상호 대박로또복권 소재지 경기 김포시 통진읍 옹정리 37-1번지 1등 1 2등 11 상호 가판점 소재지 경기 부천시 대산동 543 이마트앞 지하도입구 1등 1 2등 13 상호 하나로슈퍼복권방 소재지 경기 성남시 수정구 산성동 841 대경빌라102호 1등 1 2등 3 상호 운수대통 소재지 경기 수원시 권선구 호매실동 87-2 1등 4 2등 12 상호 빅버드 소재지 경기 수원시 권선구 세류동 566-5 1층 1호 2등 3 상호 빅버드 소재지 경기 수원시 권선구 세류동 566-5 1층 1호 2등 3 상호 북문복권방 소재지 경기 수원시 장안구 영화동 311-12 1등 4 2등 14 상호 운수대통 소재지 경기 시흥시 신천동 888-1번지 101호 1등 1 2등 2 상호 다니엘사 소재지 경기 안산시 단원구 초지동 796 101호 1등 6 2등 29 상호 GS25(안산경일점) 소재지 경기 안산시 상록구 성포동 591-4 1등 1 2등 3 상호 북부슈퍼 소재지 경기 의정부시 의정부동 236-23번지 2등 6 상호 대박행진 복권랜드 소재지 경기 파주시 금촌동 989-1번지 금촌프라자107호 1등 5 2등 20 상호 gs25포천송우로점 소재지 경기 포천시 소흘읍 송우리 577-18 2등 2 상호 화랑로또판매점 소재지 경기 화성시 팔탄면 구장리 23-22 2등 1 상호 데일리 씨브이에스(DAILY CVS) 소재지 강원 원주시 지정면 가곡리 1497-1 1층 101호 2등 2 상호 썬마트 소재지 충북 청주시 흥덕구 복대동 2719번지 1등 8 2등 8 상호 로또복권 소재지 충남 공주시 옥룡동 338-3 2등 4 상호 영약국 소재지 충남 금산군 금산읍 중도리 361-4번지 1등 1 2등 13 상호 팡팡복권마트.잡화슈퍼 소재지 전북 전주시 덕진구 금암1동 460-30 1등 6 2등 20 상호 동아전업사 소재지 전북 전주시 덕진구 팔복동2가 247-13번지 2등 20 상호 아리랑복권방 소재지 전북 전주시 완산구 효자동1가 622-8번지 2등 7 상호 복권천국 소재지 전남 목포시 상동 1013-10번지 복권천국 1등 2 2등 4 상호 동그라미 소재지 경북 구미시 원평2동 159-6 2등 4 상호 GS25(왜관우방점) 소재지 경북 칠곡군 왜관읍 왜관리 774 GS25왜관우방점 2등 9 상호 삼호판매점 소재지 경남 양산시 서창동 782-8 복권판매점 2등 5 상호 노다지복권방 소재지 경남 진주시 평거동 582-5번지 2등 5]]></summary><content type="html"><![CDATA[
 <article id="cArticle" class="hentry">
 	<div class="dTitle">
 		<h2 class="entry-title"><span>로또6/45</span> <strong>900</strong> 회 당첨결과</h2>
@@ -5765,7 +7406,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">147</dd>
+					<dd class="count">148</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -5901,7 +7542,7 @@
 			<div class="winners">
 							<dl class="win1">
 					<dt>1등</dt>
-					<dd class="count">2</dd>
+					<dd class="count">3</dd>
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
@@ -6170,7 +7811,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">12</dd>
+					<dd class="count">13</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -6422,7 +8063,7 @@
 	</dl>
 	<dl class="address">
 		<dt>소재지</dt>
-		<dd>충남 공주시 옥룡동 308-1번지</dd>
+		<dd>충남 공주시 옥룡동 338-3</dd>
 	</dl>
 			<div class="winners">
 										<dl class="win2">
@@ -7809,7 +9450,7 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/898%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 898회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/898%ED%9A%8C%EC%B0%A8/"/><published>2020-02-15T20:40:00+09:00</published><updated>2020-02-15T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 898 회 당첨결과 2020년 02월 15일 2020년 02월 15일 아사마루 로또6/45 898회 당첨 결과 당첨번호 18 21 28 35 37 42 보너스 번호 17 총합 181 홀짝 3:3 저고 4:2 연속번호 0 AC값 7 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 로또6/45 898회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 8 2,639,313,235 원 21,114,505,880 원 2등 56 62,840,792 원 3,519,084,352 원 3등 3,240 1,086,138 원 3,519,087,120 원 4등 137,051 50,000 원 6,852,550,000 원 5등 2,005,739 5,000 원 10,028,695,000 원 총 판매액 90,067,839,000 원 로또6/45 898회 1등 당첨판매점 구분 수동 상호 행운의복권방 소재지 서울 관악구 봉천동 899-20 1등 1 2등 2 구분 수동 상호 행운로또복권판매점 소재지 서울 구로구 개봉제1동 124-13 1등 2 2등 4 구분 자동 상호 토큰판매소 소재지 서울 송파구 풍납동 480번지 1등 6 2등 34 구분 자동 상호 CU(입석강변점) 소재지 대구 동구 입석동 933-2번지 1등 2 2등 3 구분 반자동 상호 흥건슈퍼 소재지 전북 전주시 완산구 삼천3동 300-3 흥건슈퍼 1등 4 2등 15 구분 자동 상호 하당복권방 소재지 전남 목포시 옥암동 998번지 1등 4 2등 11 구분 자동 상호 토토복권장흥점 소재지 전남 장흥군 장흥읍 건산리 720-13번지 1등 1 2등 3 구분 수동 상호 공단로또점 소재지 경남 함안군 칠서면 대치리 325-1 슈퍼 옆 1층 1등 2 2등 3 로또6/45 898회 2등 당첨판매점 상호 길동방 소재지 서울 강동구 길동 249-1번지 3호 1등 1 2등 10 상호 방화식품 소재지 서울 강서구 방화동 562-23번지 2등 3 상호 천하명당 소재지 서울 관악구 신림동 613-3 1등 1 2등 5 상호 천하명당 소재지 서울 관악구 신림동 613-3 1등 1 2등 5 상호 복권마을 소재지 서울 광진구 자양동 45-1번지 2등 3 상호 오로라복권방 소재지 서울 광진구 자양동 616-33번지 국민은행자양동지점 50m 1등 2 2등 5 상호 해피데이 소재지 서울 구로구 구로동 612-9 1층 1등 1 2등 4 상호 행운로또복권판매점 소재지 서울 구로구 개봉제1동 124-13 1등 2 2등 4 상호 굿데이 소재지 서울 노원구 공릉동 683-16번지 106호 2등 2 상호 스파 소재지 서울 노원구 상계동 666-3 주공10단지종합상가111 1등 35 2등 147 상호 행운로또 소재지 서울 도봉구 방학동 646-41 2등 1 상호 제일복권 소재지 서울 동대문구 휘경동 319-1번지 1등 1 2등 2 상호 산성슈퍼 소재지 서울 송파구 거여동 577번지 2등 2 상호 석촌한솔점 소재지 서울 송파구 석촌동 173-6 CU 2등 5 상호 혜안마트 소재지 서울 은평구 역촌동 42-34 2등 1 상호 축복마트 소재지 서울 중랑구 면목동 151-7 2등 4 상호 남경슈퍼 소재지 부산 연제구 연산제3동 1833-8번지 1등 2 2등 1 상호 청구마트 소재지 대구 북구 복현동 539-113번지 청구아파트상가108동102호 1등 1 2등 9 상호 짱25시 소재지 대구 수성구 만촌동 1040-15번지 2등 12 상호 왕대박 소재지 인천 남구 숭의동 105호 2등 6 상호 로또복권방 소재지 인천 연수구 옥련동 462-12번지 103호 1등 1 2등 4 상호 라이프마트 소재지 인천 중구 항동7가 58-98번지 5호 1등 9 2등 13 상호 대박나라 소재지 광주 광산구 산정동 976-9 1층 1등 1 2등 4 상호 천하명당복권방역전점 소재지 대전 동구 정동 15-23번지 1등 2 2등 7 상호 지에스25 울산동구남목점 소재지 울산 동구 남목3동 259-13 1등 2 2등 4 상호 에스에프마트 소재지 울산 북구 농소1동 257-2 1등 1 2등 6 상호 오렌지25 소재지 경기 고양시 일산서구 일산동 555-1번지 양우에이스스타디움109 1등 3 2등 8 상호 역곡중앙슈퍼 소재지 경기 부천시 원미구 역곡동 79-5번지 1등 2 2등 14 상호 대호상사 소재지 경기 성남시 분당구 야탑동 355-1 GS25 1등 2 2등 10 상호 아름드리(쉬어가기) 소재지 경기 시흥시 목감동 662 2등 2 상호 로또명당 소재지 경기 시흥시 포동 1-13번지 101호 1등 3 2등 8 상호 사격장매표소 소재지 경기 시흥시 은행동 37-22 1등 1 2등 6 상호 로또판매점 소재지 경기 여주시 능서면 신지리 802-3 2등 3 상호 세븐일레븐의왕삼동점 소재지 경기 의왕시 삼동 208-28 1등 1 2등 5 상호 복권닷컴 소재지 경기 의정부시 의정부동 145-17번지 2등 1 상호 으뜸복권방 소재지 경기 의정부시 송산2동 732-1 105호 2등 7 상호 예술로또 소재지 강원 영월군 영월읍 영흥리 945-43번지 1등 3 2등 5 상호 돈벼락복권 소재지 강원 태백시 황지동 621-28번지 1통4반 1등 1 2등 12 상호 대일마켓 소재지 충북 증평군 증평읍 중동리 1-3번지 2등 10 상호 대일마켓 소재지 충북 증평군 증평읍 중동리 1-3번지 2등 10 상호 로또복권방분평점 소재지 충북 청주시 서원구 분평동 1258번지 1등 3 2등 6 상호 오창돼지토토 소재지 충북 청주시 청원구 오창읍 주성리 547 101호 2등 2 상호 행운을주는사람들 소재지 충북 충주시 연수동 923번지 1층 복권방 1등 4 2등 10 상호 내포복권방 소재지 충남 예산군 덕산면 신평리 344-3 2등 1 상호 신천하명당 소재지 충남 예산군 예산읍 발연리 324-2 1등 1 2등 3 상호 스크린멀티복권방 소재지 충남 천안시 서북구 성거읍 송남리 13 이마트24편의점 2등 7 상호 이로동복권판매점 소재지 전남 목포시 용해동 239-1 1층 2등 4 상호 세방매점 소재지 경북 경주시 용강동 754-3 1등 5 2등 45 상호 CU로또 상주터미널점 소재지 경북 상주시 무양동 281번지 CU편의점 내 2등 3 상호 황금복권 소재지 경북 영주시 영주동 504-4번지 1등 1 2등 5 상호 초이스복권카페 소재지 경남 김해시 진영읍 진영리 1614-9 105호 CU편의점 내 2등 3 상호 목화휴게소 소재지 경남 사천시 용현면 주문리 4 1등 12 2등 61 상호 서광로또 소재지 경남 창원시 마산회원구 봉암동 277 상가동 101호 2등 2 상호 서원탑훼미리합성점 소재지 경남 창원시 마산회원구 합성2동 269-2번지 2등 7 상호 은정슈퍼 소재지 경남 창원시 성산구 가음동 23-1 은정상가101호 GS편의점 2등 7 상호 행복복권방 소재지 경남 창원시 의창구 팔용동 106-10번지 1등 4 2등 2]]></summary><content type="html"><![CDATA[
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/898%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 898회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/898%ED%9A%8C%EC%B0%A8/"/><published>2020-02-15T20:40:00+09:00</published><updated>2020-02-15T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 898 회 당첨결과 2020년 02월 15일 2020년 02월 15일 아사마루 로또6/45 898회 당첨 결과 당첨번호 18 21 28 35 37 42 보너스 번호 17 총합 181 홀짝 3:3 저고 4:2 연속번호 0 AC값 7 소수 1 합성수 5 색상 파랑 1 빨강 2 검정 2 초록 1 로또6/45 898회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 8 2,639,313,235 원 21,114,505,880 원 2등 56 62,840,792 원 3,519,084,352 원 3등 3,240 1,086,138 원 3,519,087,120 원 4등 137,051 50,000 원 6,852,550,000 원 5등 2,005,739 5,000 원 10,028,695,000 원 총 판매액 90,067,839,000 원 로또6/45 898회 1등 당첨판매점 구분 수동 상호 행운의복권방 소재지 서울 관악구 봉천동 899-20 1등 1 2등 2 구분 수동 상호 행운로또복권판매점 소재지 서울 구로구 개봉제1동 124-13 1등 2 2등 4 구분 자동 상호 토큰판매소 소재지 서울 송파구 풍납동 480번지 1등 6 2등 34 구분 자동 상호 CU(입석강변점) 소재지 대구 동구 입석동 933-2번지 1등 2 2등 3 구분 반자동 상호 흥건슈퍼 소재지 전북 전주시 완산구 삼천3동 300-3 흥건슈퍼 1등 4 2등 15 구분 자동 상호 하당복권방 소재지 전남 목포시 옥암동 998번지 1등 4 2등 11 구분 자동 상호 토토복권장흥점 소재지 전남 장흥군 장흥읍 건산리 720-13번지 1등 1 2등 3 구분 수동 상호 공단로또점 소재지 경남 함안군 칠서면 대치리 325-1 슈퍼 옆 1층 1등 2 2등 3 로또6/45 898회 2등 당첨판매점 상호 길동방 소재지 서울 강동구 길동 249-1번지 3호 1등 1 2등 10 상호 방화식품 소재지 서울 강서구 방화동 562-23번지 2등 3 상호 천하명당 소재지 서울 관악구 신림동 613-3 1등 1 2등 5 상호 천하명당 소재지 서울 관악구 신림동 613-3 1등 1 2등 5 상호 복권마을 소재지 서울 광진구 자양동 45-1번지 2등 3 상호 오로라복권방 소재지 서울 광진구 자양동 616-33번지 국민은행자양동지점 50m 1등 2 2등 5 상호 해피데이 소재지 서울 구로구 구로동 612-9 1층 1등 1 2등 4 상호 행운로또복권판매점 소재지 서울 구로구 개봉제1동 124-13 1등 2 2등 4 상호 굿데이 소재지 서울 노원구 공릉동 683-16번지 106호 2등 2 상호 스파 소재지 서울 노원구 상계동 666-3 주공10단지종합상가111 1등 35 2등 148 상호 행운로또 소재지 서울 도봉구 방학동 646-41 2등 1 상호 제일복권 소재지 서울 동대문구 휘경동 319-1번지 1등 1 2등 2 상호 산성슈퍼 소재지 서울 송파구 거여동 577번지 2등 2 상호 석촌한솔점 소재지 서울 송파구 석촌동 173-6 CU 2등 5 상호 혜안마트 소재지 서울 은평구 역촌동 42-34 2등 1 상호 축복마트 소재지 서울 중랑구 면목동 151-7 2등 4 상호 남경슈퍼 소재지 부산 연제구 연산제3동 1833-8번지 1등 2 2등 1 상호 청구마트 소재지 대구 북구 복현동 539-113번지 청구아파트상가108동102호 1등 1 2등 9 상호 짱25시 소재지 대구 수성구 만촌동 1040-15번지 2등 12 상호 왕대박 소재지 인천 남구 숭의동 105호 2등 6 상호 로또복권방 소재지 인천 연수구 옥련동 462-12번지 103호 1등 1 2등 4 상호 라이프마트 소재지 인천 중구 항동7가 58-98번지 5호 1등 9 2등 13 상호 대박나라 소재지 광주 광산구 산정동 976-9 1층 1등 1 2등 4 상호 천하명당복권방역전점 소재지 대전 동구 정동 15-23번지 1등 2 2등 8 상호 지에스25 울산동구남목점 소재지 울산 동구 남목3동 259-13 1등 2 2등 4 상호 에스에프마트 소재지 울산 북구 농소1동 257-2 1등 1 2등 6 상호 오렌지25 소재지 경기 고양시 일산서구 일산동 555-1번지 양우에이스스타디움109 1등 3 2등 8 상호 역곡중앙슈퍼 소재지 경기 부천시 원미구 역곡동 79-5번지 1등 2 2등 14 상호 대호상사 소재지 경기 성남시 분당구 야탑동 355-1 GS25 1등 2 2등 10 상호 아름드리(쉬어가기) 소재지 경기 시흥시 목감동 662 2등 2 상호 로또명당 소재지 경기 시흥시 포동 1-13번지 101호 1등 3 2등 9 상호 사격장매표소 소재지 경기 시흥시 은행동 37-22 1등 1 2등 6 상호 로또판매점 소재지 경기 여주시 능서면 신지리 802-3 2등 3 상호 세븐일레븐의왕삼동점 소재지 경기 의왕시 삼동 208-28 1등 1 2등 5 상호 복권닷컴 소재지 경기 의정부시 의정부동 145-17번지 2등 1 상호 으뜸복권방 소재지 경기 의정부시 송산2동 732-1 105호 2등 7 상호 예술로또 소재지 강원 영월군 영월읍 영흥리 945-43번지 1등 3 2등 5 상호 돈벼락복권 소재지 강원 태백시 황지동 621-28번지 1통4반 1등 1 2등 12 상호 대일마켓 소재지 충북 증평군 증평읍 중동리 1-3번지 2등 10 상호 대일마켓 소재지 충북 증평군 증평읍 중동리 1-3번지 2등 10 상호 로또복권방분평점 소재지 충북 청주시 서원구 분평동 1258번지 1등 3 2등 6 상호 오창돼지토토 소재지 충북 청주시 청원구 오창읍 주성리 547 101호 2등 2 상호 행운을주는사람들 소재지 충북 충주시 연수동 923번지 1층 복권방 1등 4 2등 10 상호 내포복권방 소재지 충남 예산군 덕산면 신평리 344-3 2등 1 상호 신천하명당 소재지 충남 예산군 예산읍 발연리 324-2 1등 1 2등 3 상호 스크린멀티복권방 소재지 충남 천안시 서북구 성거읍 송남리 13 이마트24편의점 2등 7 상호 이로동복권판매점 소재지 전남 목포시 용해동 239-1 1층 2등 4 상호 세방매점 소재지 경북 경주시 용강동 754-3 1등 5 2등 45 상호 CU로또 상주터미널점 소재지 경북 상주시 무양동 281번지 CU편의점 내 2등 3 상호 황금복권 소재지 경북 영주시 영주동 504-4번지 1등 1 2등 5 상호 초이스복권카페 소재지 경남 김해시 진영읍 진영리 1614-9 105호 CU편의점 내 2등 3 상호 목화휴게소 소재지 경남 사천시 용현면 주문리 4 1등 12 2등 62 상호 서광로또 소재지 경남 창원시 마산회원구 봉암동 277 상가동 101호 2등 2 상호 서원탑훼미리합성점 소재지 경남 창원시 마산회원구 합성2동 269-2번지 2등 7 상호 은정슈퍼 소재지 경남 창원시 성산구 가음동 23-1 은정상가101호 GS편의점 2등 7 상호 행복복권방 소재지 경남 창원시 의창구 팔용동 106-10번지 1등 4 2등 2]]></summary><content type="html"><![CDATA[
 <article id="cArticle" class="hentry">
 	<div class="dTitle">
 		<h2 class="entry-title"><span>로또6/45</span> <strong>898</strong> 회 당첨결과</h2>
@@ -8297,7 +9938,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">147</dd>
+					<dd class="count">148</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -8535,7 +10176,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">7</dd>
+					<dd class="count">8</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -8664,7 +10305,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">8</dd>
+					<dd class="count">9</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -9019,7 +10660,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">61</dd>
+					<dd class="count">62</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -10606,1082 +12247,6 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/896%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 896회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/896%ED%9A%8C%EC%B0%A8/"/><published>2020-02-01T20:40:00+09:00</published><updated>2020-02-01T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 896 회 당첨결과 2020년 02월 01일 2020년 02월 01일 아사마루 로또6/45 896회 당첨 결과 당첨번호 5 12 25 26 38 45 보너스 번호 23 총합 151 홀짝 3:3 저고 4:2 연속번호 1 AC값 6 소수 1 합성수 5 색상 노랑 1 파랑 1 빨강 2 검정 1 초록 1 로또6/45 896회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 7 3,053,222,036 원 21,372,554,252 원 2등 46 77,436,791 원 3,562,092,386 원 3등 2,586 1,377,453 원 3,562,093,458 원 4등 128,068 50,000 원 6,403,400,000 원 5등 2,066,172 5,000 원 10,330,860,000 원 총 판매액 90,461,998,000 원 로또6/45 896회 1등 당첨판매점 구분 수동 상호 노다지훼밀리 소재지 서울 강동구 천호동 393-7번지 1등 2 2등 1 구분 자동 상호 모닝마트 소재지 울산 남구 야음장생포동 170번지 1등 1 2등 2 구분 자동 상호 세븐일레븐남양주차산점 소재지 경기 남양주시 화도읍 차산리 75 1층 편의점 1등 1 2등 3 구분 자동 상호 유방매표소 소재지 경기 용인시 처인구 유방동 310-10 1등 3 2등 2 구분 자동 상호 축복큰대운집 소재지 경기 파주시 금촌동 312-4 1층 1등 1 2등 4 구분 자동 상호 우두로또 소재지 강원 춘천시 우두동 691-14 1층 1등 2 구분 수동 상호 썬마트 소재지 충북 청주시 흥덕구 복대동 2719번지 1등 8 2등 8 로또6/45 896회 2등 당첨판매점 상호 대림슈퍼복권방 소재지 서울 강서구 화곡동 370-55번지 2등 3 상호 호미복권방 소재지 서울 관악구 봉천동 1638-6 1등 1 2등 2 상호 가로매점 소재지 서울 광진구 군자동 361-28번지 2등 2 상호 스포츠토토 소재지 서울 구로구 구로동 1123-3 103호 2등 4 상호 나눔의 로또 소재지 서울 노원구 상계동 173-1 109동 1층 36호 1등 1 2등 2 상호 천하명당복권방 소재지 서울 동대문구 답십리동 99-22번지 1등 1 2등 2 상호 종합가판점 소재지 서울 동대문구 전농동 620-69 청량리역 4번출구 가판점 1등 7 2등 48 상호 대박복권 소재지 서울 성북구 장위제1동 238-142 1층 2등 1 상호 훼미리마트방이오피스점 소재지 서울 송파구 방이동 187-8번지 1층CU편의점내 2등 3 상호 원스탑 소재지 서울 송파구 잠실동 183-1 1등 5 2등 17 상호 노다지복권방 소재지 서울 종로구 창신동 302-5 1등 4 2등 28 상호 평안당 소재지 서울 종로구 종로5가 80-1번지 1등 5 2등 13 상호 신문가판대 소재지 서울 중구 남대문로5가 63-13 2등 7 상호 로또복권 소재지 부산 기장군 기장읍 대라리 129-1 기장아름공원점내 2등 9 상호 가인안경 소재지 대구 동구 효목동 120-48번지 1등 1 2등 4 상호 메트로센터점 소재지 대구 중구 덕산동 88번지 메트로센터C412호 1등 4 2등 12 상호 미니스톱인천효성점 소재지 인천 계양구 효성동 63-2번지 1등 2 2등 8 상호 올림픽체육관앞매표소 소재지 인천 남동구 구월동 1244-12번지 올림픽체육관앞매표소 2등 4 상호 복권전문점 소재지 인천 부평구 청천동 236-20번지 1등 7 2등 25 상호 운수대통 소재지 인천 부평구 십정2동 408-15 1층 A호 1등 2 2등 7 상호 행복나눔복권방 소재지 광주 광산구 하남동 785 105호 GS편의점 2등 2 상호 알리바이 소재지 광주 광산구 신가동 986-4번지 1층 알리바이 1등 5 2등 34 상호 GS25(대전큰마을점) 소재지 대전 서구 갈마동 1129 2등 2 상호 대박복권방 소재지 대전 서구 갈마동 378-4번지 2등 5 상호 행복한사람들 (흥부네) 소재지 경기 광주시 곤지암읍 삼리 399-18번지 1등 6 2등 21 상호 씨유 김포풍무역점 소재지 경기 김포시 풍무동 271-1 1층 2등 1 상호 로또도곡점 소재지 경기 남양주시 와부읍 도곡리 1064-3 1층 복권판매점 2등 1 상호 팬시코아 소재지 경기 남양주시 퇴계원면 퇴계원리 255-24번지 2등 11 상호 찻잔에담긴행운 소재지 경기 남양주시 와부읍 덕소리 615번지 나동 102호 2등 2 상호 복권방 소재지 경기 수원시 장안구 영화동 274-19 미니스톱 수원영화점 2등 2 상호 웅진 소재지 경기 수원시 팔달구 인계동 1045 동수원홈플러스 1층 1등 2 2등 16 상호 휴먼복권방 소재지 경기 안양시 만안구 안양동 622-253번지 2등 2 상호 포유25다농점 소재지 경기 오산시 오산동 924-1번지 거성그린프라자114호 1등 2 2등 21 상호 포유25다농점 소재지 경기 오산시 오산동 924-1번지 거성그린프라자114호 1등 2 2등 21 상호 파주복권랜드 소재지 경기 파주시 청암로17번길 63 장은프라자 2등 3 상호 파주복권랜드 소재지 경기 파주시 청암로17번길 63 장은프라자 2등 3 상호 오세갑 로또복권 소재지 경기 평택시 신장동 263-43 포유편의점 내 2등 3 상호 필로또복권 소재지 충남 서산시 석남동 1280-1 1층 1등 2 2등 16 상호 행운복권방 소재지 전북 고창군 고창읍 월곡리 636번지 2등 7 상호 로또마트 소재지 전남 목포시 옥암동 1027번지 부영아파트상가109호 1등 1 2등 16 상호 큐마트학동점로또 소재지 전남 여수시 학동 58-20 큐마트내 1등 1 2등 2 상호 그린시스템 소재지 경북 경주시 황오동 115-24번지 2등 5 상호 왕대박(원평점) 소재지 경북 구미시 지산동 87-2 2등 4 상호 CU(사천평화점) 소재지 경남 사천시 사천읍 평화리 134번지 2등 4 상호 GS25(양산혜인점) 소재지 경남 양산시 평산동 31-5번지 1등 12 2등 30 상호 금돼지 소재지 경남 진주시 충무공동 322-7 더원프라자 1층 2등 3]]></summary><content type="html"><![CDATA[
-<article id="cArticle" class="hentry">
-	<div class="dTitle">
-		<h2 class="entry-title"><span>로또6/45</span> <strong>896</strong> 회 당첨결과</h2>
-		<time class="published" datetime="2020-02-01T20:40:00+0900">2020년 02월 01일</time>
-		<time class="updated hide" datetime="2020-02-01T21:00:00+0900">2020년 02월 01일</time>
-		<span class="vcard author hide"><span class="fn">아사마루</span></span>
-	</div>
-	<div class="entry-content">
-
-		<div class="result">
-	<h3>로또6/45 896회 당첨 결과</h3>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">5</b></dd>
-		<dd class="dN2"><b class="dBall color1">12</b></dd>
-		<dd class="dN3"><b class="dBall color2">25</b></dd>
-		<dd class="dN4"><b class="dBall color2">26</b></dd>
-		<dd class="dN5"><b class="dBall color3">38</b></dd>
-		<dd class="dN6"><b class="dBall color4">45</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color2">23</b></dd>
-	</dl>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>151</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>3:3</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>4:2</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>6</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>5</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>1</dd>
-																<dt>파랑</dt>
-						<dd>1</dd>
-																<dt>빨강</dt>
-						<dd>2</dd>
-																<dt>검정</dt>
-						<dd>1</dd>
-																<dt>초록</dt>
-						<dd>1</dd>
-									</dl>
-			</dd>
-		</dl>
-	</div>
-</div>		<table class="winner">
-	<caption>로또6/45 896회 당첨자</caption>
-	<thead>
-	<tr>
-		<th class="ranking">순위</th>
-		<th class="count">당첨게임 수</th>
-		<th class="reward">당첨금액</th>
-		<th class="total-reward">총 당첨금액</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td class="ranking">1등</td>
-		<td class="count">7</td>
-		<td class="reward">3,053,222,036 원</td>
-		<td class="total-reward">21,372,554,252 원</td>
-	</tr>
-	<tr>
-		<td class="ranking">2등</td>
-		<td class="count">46</td>
-		<td class="reward">77,436,791 원</td>
-		<td class="total-reward">3,562,092,386 원</td>
-	</tr>
-	<tr>
-		<td class="ranking">3등</td>
-		<td class="count">2,586</td>
-		<td class="reward">1,377,453 원</td>
-		<td class="total-reward">3,562,093,458 원</td>
-	</tr>
-	<tr>
-		<td class="ranking">4등</td>
-		<td class="count">128,068</td>
-		<td class="reward">50,000 원</td>
-		<td class="total-reward">6,403,400,000 원</td>
-	</tr>
-	<tr>
-		<td class="ranking">5등</td>
-		<td class="count">2,066,172</td>
-		<td class="reward">5,000 원</td>
-		<td class="total-reward">10,330,860,000 원</td>
-	</tr>
-	</tbody>
-	<tfoot>
-	<tr>
-		<td colspan="100%">
-			<dl>
-				<dt>총 판매액</dt>
-				<dd>90,461,998,000 원</dd>
-			</dl>
-		</td>
-	</tr>
-	</tfoot>
-</table>
-		<div class="stores">
-							<h3><span>로또6/45 896회</span> 1등 당첨판매점</h3>
-				<ol class="win-stores-1">
-																		<li class="store-row">
-			<dl class="type ">
-			<dt>구분</dt>
-			<dd>수동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강동구/노다지훼밀리-kx2L/">노다지훼밀리</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 강동구 천호동 393-7번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">1</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-			<dl class="type  auto ">
-			<dt>구분</dt>
-			<dd>자동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/울산광역시/남구/모닝마트-tLKQ/">모닝마트</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>울산 남구 야음장생포동 170번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-			<dl class="type  auto ">
-			<dt>구분</dt>
-			<dd>자동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/남양주시/세븐일레븐남양주차산점-xKUg/">세븐일레븐남양주차산점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 남양주시 화도읍 차산리 75 1층 편의점</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-			<dl class="type  auto ">
-			<dt>구분</dt>
-			<dd>자동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/용인시/유방매표소-xKVJ/">유방매표소</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 용인시 처인구 유방동 310-10</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">3</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-			<dl class="type  auto ">
-			<dt>구분</dt>
-			<dd>자동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/파주시/축복큰대운집-xKVi/">축복큰대운집</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 파주시 금촌동 312-4 1층</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">4</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-			<dl class="type  auto ">
-			<dt>구분</dt>
-			<dd>자동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/강원도/춘천시/우두로또-xkTR/">우두로또</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>강원 춘천시 우두동 691-14 1층</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-								</div>
-	</li>																								<li class="store-row">
-			<dl class="type ">
-			<dt>구분</dt>
-			<dd>수동</dd>
-		</dl>
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/청주시/썬마트-yNVG/">썬마트</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>충북 청주시 흥덕구 복대동 2719번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">8</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">8</dd>
-				</dl>
-					</div>
-	</li>															</ol>
-			
-							<h3><span>로또6/45 896회</span> 2등 당첨판매점</h3>
-				<ol class="win-stores-2">
-																							<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강서구/대림슈퍼복권방-keov/">대림슈퍼복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 강서구 화곡동 370-55번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/관악구/호미복권방-kx2X/">호미복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 관악구 봉천동 1638-6</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/광진구/가로매점-kZw6/">가로매점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 광진구 군자동 361-28번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/구로구/스포츠토토-kx2m/">스포츠토토</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 구로구 구로동 1123-3 103호</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">4</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/노원구/나눔의-로또-khQI/">나눔의 로또</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 노원구 상계동 173-1 109동 1층 36호</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/동대문구/천하명당복권방-kx2z/">천하명당복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 동대문구 답십리동 99-22번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/동대문구/종합가판점-kZqd/">종합가판점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 동대문구 전농동 620-69 청량리역 4번출구 가판점</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">7</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">48</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/성북구/대박복권-kk31/">대박복권</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 성북구 장위제1동 238-142 1층</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">1</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/송파구/훼미리마트방이오피스점-kcPG/">훼미리마트방이오피스점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 송파구 방이동 187-8번지 1층CU편의점내</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/송파구/원스탑-kx5l/">원스탑</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 송파구 잠실동 183-1</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">5</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">17</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/종로구/노다지복권방-ka3T/">노다지복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 종로구 창신동 302-5</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">4</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">28</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/종로구/평안당-ka26/">평안당</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 종로구 종로5가 80-1번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">5</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">13</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/중구/신문가판대-kZrA/">신문가판대</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>서울 중구 남대문로5가 63-13</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">7</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/기장군/로또복권-quUW/">로또복권</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>부산 기장군 기장읍 대라리 129-1 기장아름공원점내</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">9</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/동구/가인안경-rHw1/">가인안경</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>대구 동구 효목동 120-48번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">4</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/중구/메트로센터점-rHvv/">메트로센터점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>대구 중구 덕산동 88번지 메트로센터C412호</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">4</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">12</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/계양구/미니스톱인천효성점-rhuO/">미니스톱인천효성점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>인천 계양구 효성동 63-2번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">8</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/남동구/올림픽체육관앞매표소-rkVK/">올림픽체육관앞매표소</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>인천 남동구 구월동 1244-12번지 올림픽체육관앞매표소</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">4</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/부평구/복권전문점-rhsj/">복권전문점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>인천 부평구 청천동 236-20번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">7</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">25</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/부평구/운수대통-rsHB/">운수대통</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>인천 부평구 십정2동 408-15 1층 A호</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">7</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/광산구/행복나눔복권방-sIHw/">행복나눔복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>광주 광산구 하남동 785 105호 GS편의점</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/광산구/알리바이-s7uw/">알리바이</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>광주 광산구 신가동 986-4번지 1층 알리바이</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">5</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">34</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대전광역시/서구/gs25-대전큰마을점-1YVLv/">GS25(대전큰마을점)</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>대전 서구 갈마동 1129</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대전광역시/서구/대박복권방-saVR/">대박복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>대전 서구 갈마동 378-4번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">5</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/광주시/행복한사람들-흥부네-xAG9/">행복한사람들 (흥부네)</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 광주시 곤지암읍 삼리 399-18번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">6</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">21</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/김포시/아이스크림싸다구-서암점-로또판매-xKWL/">씨유 김포풍무역점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 김포시 풍무동 271-1 1층</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">1</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/남양주시/로또도곡점-xHsw/">로또도곡점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 남양주시 와부읍 도곡리 1064-3 1층 복권판매점</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">1</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/남양주시/팬시코아-xAEZ/">팬시코아</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 남양주시 퇴계원면 퇴계원리 255-24번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">11</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/남양주시/찻잔에담긴행운-xAGT/">찻잔에담긴행운</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 남양주시 와부읍 덕소리 615번지 나동 102호</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/수원시/복권방-xHrG/">복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 수원시 장안구 영화동 274-19 미니스톱 수원영화점</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/수원시/웅진-xAFk/">웅진</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 수원시 팔달구 인계동 1045 동수원홈플러스 1층</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">16</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/안양시/휴먼복권방-xXV3/">휴먼복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 안양시 만안구 안양동 622-253번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/오산시/포유25다농점-xAAN/">포유25다농점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 오산시 오산동 924-1번지 거성그린프라자114호</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">21</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/오산시/포유25다농점-xAAN/">포유25다농점</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 오산시 오산동 924-1번지 거성그린프라자114호</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">21</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/파주시/파주복권랜드-xFHp/">파주복권랜드</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 파주시 청암로17번길 63 장은프라자</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/파주시/파주복권랜드-xFHp/">파주복권랜드</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 파주시 청암로17번길 63 장은프라자</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/평택시/오세갑-로또복권-xKTv/">오세갑 로또복권</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경기 평택시 신장동 263-43 포유편의점 내</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/서산시/필로또복권-yShk/">필로또복권</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>충남 서산시 석남동 1280-1 1층</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">2</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">16</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라북도/고창군/행운복권방-zDWj/">행운복권방</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>전북 고창군 고창읍 월곡리 636번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">7</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/목포시/로또마트-zdY4/">로또마트</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>전남 목포시 옥암동 1027번지 부영아파트상가109호</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">16</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/여수시/큐마트학동점로또-zLKf/">큐마트학동점로또</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>전남 여수시 학동 58-20 큐마트내</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">1</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">2</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/경주시/그린시스템-zgB9/">그린시스템</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경북 경주시 황오동 115-24번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">5</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/구미시/왕대박-원평점-103Yc/">왕대박(원평점)</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경북 구미시 지산동 87-2</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">4</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/사천시/cu-사천평화점-1g3d5/">CU(사천평화점)</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경남 사천시 사천읍 평화리 134번지</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">4</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/양산시/gs25-양산혜인점-1g3cN/">GS25(양산혜인점)</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경남 양산시 평산동 31-5번지</dd>
-	</dl>
-			<div class="winners">
-							<dl class="win1">
-					<dt>1등</dt>
-					<dd class="count">12</dd>
-				</dl>
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">30</dd>
-				</dl>
-					</div>
-	</li>																								<li class="store-row">
-		<dl class="name">
-		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/진주시/금돼지-106CN/">금돼지</a></dd>
-	</dl>
-	<dl class="address">
-		<dt>소재지</dt>
-		<dd>경남 진주시 충무공동 322-7 더원프라자 1층</dd>
-	</dl>
-			<div class="winners">
-										<dl class="win2">
-					<dt>2등</dt>
-					<dd class="count">3</dd>
-				</dl>
-					</div>
-	</li>															</ol>
-					</div>
-	</div>
-
-	
-	
-
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</article>]]></content></entry>
 
 
 </feed>
