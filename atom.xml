@@ -1,7 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-04-24T06:15:51+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-04-25T06:16:13+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B6%80%EA%B0%95%EB%A6%AC/%EB%B6%80%EA%B0%95%EB%A1%9C%EB%98%90-tT7r/</id><title type="html">부강로또 / 세종 부강리 431번지 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B6%80%EA%B0%95%EB%A6%AC/%EB%B6%80%EA%B0%95%EB%A1%9C%EB%98%90-tT7r/"/><published>2020-04-25T02:08:02+09:00</published><updated>2020-04-25T02:08:02+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[부강로또 연락처 주소 세종 부강리 431번지 1등 당첨 내역 2 2 상세보기 로또6/45 756회 당첨 결과 2017.05.27 당첨번호 10 14 16 18 27 28 보너스 번호 4 1등 당첨 5 3,414,434,700 2등 당첨 53 53,686,081 총합 113 홀짝 1:5 저고 2:4 연속번호 1 AC값 8 소수 0 합성수 6 색상 노랑 1 파랑 3 빨강 2 상세보기 로또6/45 684회 당첨 결과 2016.01.09 당첨번호 1 11 15 17 25 39 보너스 번호 40 1등 당첨 9 1,688,815,709 2등 당첨 62 40,858,445 총합 108 홀짝 6:0 저고 2:4 연속번호 0 AC값 6 소수 2 합성수 3 색상 노랑 1 파랑 3 빨강 1 검정 1 2등 당첨 내역 1 상세보기 로또6/45 833회 당첨 결과 2018.11.17 당첨번호 12 18 30 39 41 42 보너스 번호 19 1등 당첨 8 2,356,317,282 2등 당첨 53 59,278,423 총합 182 홀짝 2:4 저고 4:2 연속번호 1 AC값 9 소수 1 합성수 5 색상 파랑 2 빨강 1 검정 1 초록 2]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		부강로또
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>세종 부강리 431번지</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="36.529217" data-lng="127.366503"></div>
+	</div>
+
+			<h3>
+			1등 당첨 내역
+			<span class="total">2</span>
+							<span class="win-type auto">2</span>
+											</h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/756회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">756회</span>
+		<span>당첨 결과</span>
+		<time>2017.05.27</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">10</b></dd>
+		<dd class="dN2"><b class="dBall color1">14</b></dd>
+		<dd class="dN3"><b class="dBall color1">16</b></dd>
+		<dd class="dN4"><b class="dBall color1">18</b></dd>
+		<dd class="dN5"><b class="dBall color2">27</b></dd>
+		<dd class="dN6"><b class="dBall color2">28</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color0">4</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">5</dd>
+				<dd class="reward">3,414,434,700</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">53</dd>
+				<dd class="reward">53,686,081</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>113</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>1:5</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>8</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>6</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>3</dd>
+																<dt>빨강</dt>
+						<dd>2</dd>
+																			</dl>
+			</dd>
+		</dl>
+	</div>
+</li>															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/684회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">684회</span>
+		<span>당첨 결과</span>
+		<time>2016.01.09</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">1</b></dd>
+		<dd class="dN2"><b class="dBall color1">11</b></dd>
+		<dd class="dN3"><b class="dBall color1">15</b></dd>
+		<dd class="dN4"><b class="dBall color1">17</b></dd>
+		<dd class="dN5"><b class="dBall color2">25</b></dd>
+		<dd class="dN6"><b class="dBall color3">39</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color3">40</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">9</dd>
+				<dd class="reward">1,688,815,709</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">62</dd>
+				<dd class="reward">40,858,445</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>108</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>6:0</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>6</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>2</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>3</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+														</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+			<h3>2등 당첨 내역 <span class="total">1</span></h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/833회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">833회</span>
+		<span>당첨 결과</span>
+		<time>2018.11.17</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color1">12</b></dd>
+		<dd class="dN2"><b class="dBall color1">18</b></dd>
+		<dd class="dN3"><b class="dBall color2">30</b></dd>
+		<dd class="dN4"><b class="dBall color3">39</b></dd>
+		<dd class="dN5"><b class="dBall color4">41</b></dd>
+		<dd class="dN6"><b class="dBall color4">42</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color1">19</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">8</dd>
+				<dd class="reward">2,356,317,282</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">53</dd>
+				<dd class="reward">59,278,423</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>182</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>9</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>5</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+																<dt>파랑</dt>
+						<dd>2</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+																<dt>초록</dt>
+						<dd>2</dd>
+									</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</id><title type="html">950회차-901회차</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/"/><published>2020-04-18T20:40:00+09:00</published><updated>2020-04-18T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[회차별 당첨번호 상세보기 로또6/45 907회 당첨 결과 2020.04.18 당첨번호 21 27 29 38 40 44 보너스 번호 37 1등 당첨 7 3,165,059,036 2등 당첨 67 55,112,969 총합 199 홀짝 3:3 저고 5:1 연속번호 0 AC값 6 소수 1 합성수 5 색상 빨강 3 검정 2 초록 1 상세보기 로또6/45 906회 당첨 결과 2020.04.11 당첨번호 2 5 14 28 31 32 보너스 번호 20 1등 당첨 9 2,472,607,250 2등 당첨 63 58,871,602 총합 112 홀짝 2:4 저고 3:3 연속번호 1 AC값 8 소수 3 합성수 3 색상 노랑 2 파랑 1 빨강 1 검정 2 상세보기 로또6/45 905회 당첨 결과 2020.04.04 당첨번호 3 4 16 27 38 40 보너스 번호 20 1등 당첨 7 3,017,862,536 2등 당첨 77 45,725,190 총합 128 홀짝 2:4 저고 3:3 연속번호 1 AC값 7 소수 1 합성수 5 색상 노랑 2 파랑 1 빨강 1 검정 2 상세보기 로또6/45 904회 당첨 결과 2020.03.28 당첨번호 2 6 8 26 43 45 보너스 번호 11 1등 당첨 8 2,718,077,813 2등 당첨 92 39,392,433 총합 130 홀짝 2:4 저고 3:3 연속번호 0 AC값 8 소수 2 합성수 4 색상 노랑 3 빨강 1 초록 2 상세보기 로또6/45 903회 당첨 결과 2020.03.21 당첨번호 2 15 16 21 22 28 보너스 번호 45 1등 당첨 13 1,684,582,212 2등 당첨 49 74,488,330 총합 104 홀짝 2:4 저고 1:5 연속번호 2 AC값 5 소수 1 합성수 5 색상 노랑 1 파랑 2 빨강 3 상세보기 로또6/45 902회 당첨 결과 2020.03.14 당첨번호 7 19 23 24 36 39 보너스 번호 30 1등 당첨 13 1,619,317,529 2등 당첨 67 52,365,990 총합 148 홀짝 4:2 저고 4:2 연속번호 1 AC값 7 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 2 검정 2 상세보기 로또6/45 901회 당첨 결과 2020.03.07 당첨번호 5 18 20 23 30 34 보너스 번호 21 1등 당첨 9 2,267,974,667 2등 당첨 67 50,775,553 총합 130 홀짝 2:4 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 2 빨강 2 검정 1 900회차-851회차]]></summary><content type="html"><![CDATA[<section class="cGamesBox">
 	<h2>회차별 당첨번호</h2>
 
@@ -7520,182 +7784,6 @@
 																<dt>빨강</dt>
 						<dd>2</dd>
 																			</dl>
-			</dd>
-		</dl>
-	</div>
-</li>					</ol>
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/cu-%EC%9D%B8%ED%95%98%EB%8C%80%EC%A0%90-1XfKb/</id><title type="html">CU(인하대점) / 인천 미추홀구 용현1,4동 81-38 5호12 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/cu-%EC%9D%B8%ED%95%98%EB%8C%80%EC%A0%90-1XfKb/"/><published>2020-03-27T02:07:01+09:00</published><updated>2020-03-27T02:07:01+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[CU(인하대점) 연락처 032-875-5443 주소 인천 미추홀구 용현1,4동 81-38 5호12 2등 당첨 내역 2 상세보기 로또6/45 716회 당첨 결과 2016.08.20 당첨번호 2 6 13 16 29 30 보너스 번호 21 1등 당첨 12 1,358,752,157 2등 당첨 35 77,642,981 총합 96 홀짝 2:4 저고 2:4 연속번호 1 AC값 9 소수 3 합성수 3 색상 노랑 2 파랑 2 빨강 2 상세보기 로또6/45 458회 당첨 결과 2011.09.10 당첨번호 4 9 10 32 36 40 보너스 번호 18 1등 당첨 8 1,608,812,625 2등 당첨 52 41,251,606 총합 131 홀짝 1:5 저고 3:3 연속번호 1 AC값 9 소수 0 합성수 6 색상 노랑 3 검정 3]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		CU(인하대점)
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd>032-875-5443</dd>
-		<dt>주소</dt>
-		<dd>인천 미추홀구 용현1,4동 81-38 5호12</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.449689" data-lng="126.661344"></div>
-	</div>
-
-	
-			<h3>2등 당첨 내역 <span class="total">2</span></h3>
-		<ol>
-															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/716회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">716회</span>
-		<span>당첨 결과</span>
-		<time>2016.08.20</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">2</b></dd>
-		<dd class="dN2"><b class="dBall color0">6</b></dd>
-		<dd class="dN3"><b class="dBall color1">13</b></dd>
-		<dd class="dN4"><b class="dBall color1">16</b></dd>
-		<dd class="dN5"><b class="dBall color2">29</b></dd>
-		<dd class="dN6"><b class="dBall color2">30</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color2">21</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">12</dd>
-				<dd class="reward">1,358,752,157</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">35</dd>
-				<dd class="reward">77,642,981</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>96</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>9</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>3</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>3</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>2</dd>
-																<dt>파랑</dt>
-						<dd>2</dd>
-																<dt>빨강</dt>
-						<dd>2</dd>
-																			</dl>
-			</dd>
-		</dl>
-	</div>
-</li>															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/458회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">458회</span>
-		<span>당첨 결과</span>
-		<time>2011.09.10</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">4</b></dd>
-		<dd class="dN2"><b class="dBall color0">9</b></dd>
-		<dd class="dN3"><b class="dBall color0">10</b></dd>
-		<dd class="dN4"><b class="dBall color3">32</b></dd>
-		<dd class="dN5"><b class="dBall color3">36</b></dd>
-		<dd class="dN6"><b class="dBall color3">40</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color1">18</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">8</dd>
-				<dd class="reward">1,608,812,625</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">52</dd>
-				<dd class="reward">41,251,606</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>131</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>1:5</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>3:3</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>9</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>0</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>6</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>3</dd>
-																										<dt>검정</dt>
-						<dd>3</dd>
-														</dl>
 			</dd>
 		</dl>
 	</div>
