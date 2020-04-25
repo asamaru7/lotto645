@@ -1,232 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>로또6/45 당첨 정보</title><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description><image><title>로또6/45 당첨 정보</title><url>https://lotto.asamaru.net/res/img/icon/icon.png</url><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Sat, 25 Apr 2020 06:16:13 +0900</pubDate><item><title>부강로또 / 세종 부강리 431번지 - 로또 판매점</title><pubDate>Sat, 25 Apr 2020 02:08:02 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B6%80%EA%B0%95%EB%A6%AC/%EB%B6%80%EA%B0%95%EB%A1%9C%EB%98%90-tT7r/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B6%80%EA%B0%95%EB%A6%AC/%EB%B6%80%EA%B0%95%EB%A1%9C%EB%98%90-tT7r/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
-	<h2>
-		부강로또
-			</h2>
+<title>로또6/45 당첨 정보</title><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description><image><title>로또6/45 당첨 정보</title><url>https://lotto.asamaru.net/res/img/icon/icon.png</url><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Sun, 26 Apr 2020 06:16:55 +0900</pubDate><item><title>950회차-901회차</title><pubDate>Sat, 25 Apr 2020 20:40:00 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cGamesBox">
+	<h2>회차별 당첨번호</h2>
 
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>세종 부강리 431번지</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="36.529217" data-lng="127.366503"></div>
-	</div>
-
-			<h3>
-			1등 당첨 내역
-			<span class="total">2</span>
-							<span class="win-type auto">2</span>
-											</h3>
-		<ol>
-															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/756회차/" class="detail">상세보기</a>
+	<ul class="list">
+					<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/908회차/" class="detail">상세보기</a>
 	<h4>
 		<span>로또6/45</span>
-		<span class="no">756회</span>
+		<span class="no">908회</span>
 		<span>당첨 결과</span>
-		<time>2017.05.27</time>
+		<time>2020.04.25</time>
 	</h4>
 	<dl class="dWinNumbers">
 		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">10</b></dd>
-		<dd class="dN2"><b class="dBall color1">14</b></dd>
-		<dd class="dN3"><b class="dBall color1">16</b></dd>
-		<dd class="dN4"><b class="dBall color1">18</b></dd>
-		<dd class="dN5"><b class="dBall color2">27</b></dd>
-		<dd class="dN6"><b class="dBall color2">28</b></dd>
+		<dd class="dN1"><b class="dBall color0">3</b></dd>
+		<dd class="dN2"><b class="dBall color1">16</b></dd>
+		<dd class="dN3"><b class="dBall color2">21</b></dd>
+		<dd class="dN4"><b class="dBall color2">22</b></dd>
+		<dd class="dN5"><b class="dBall color2">23</b></dd>
+		<dd class="dN6"><b class="dBall color4">44</b></dd>
 
 		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color0">4</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">5</dd>
-				<dd class="reward">3,414,434,700</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">53</dd>
-				<dd class="reward">53,686,081</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>113</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>1:5</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>8</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>0</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>6</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>1</dd>
-																<dt>파랑</dt>
-						<dd>3</dd>
-																<dt>빨강</dt>
-						<dd>2</dd>
-																			</dl>
-			</dd>
-		</dl>
-	</div>
-</li>															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/684회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">684회</span>
-		<span>당첨 결과</span>
-		<time>2016.01.09</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">1</b></dd>
-		<dd class="dN2"><b class="dBall color1">11</b></dd>
-		<dd class="dN3"><b class="dBall color1">15</b></dd>
-		<dd class="dN4"><b class="dBall color1">17</b></dd>
-		<dd class="dN5"><b class="dBall color2">25</b></dd>
-		<dd class="dN6"><b class="dBall color3">39</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color3">40</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">9</dd>
-				<dd class="reward">1,688,815,709</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">62</dd>
-				<dd class="reward">40,858,445</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>108</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>6:0</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>0</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>6</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>2</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>3</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>1</dd>
-																<dt>파랑</dt>
-						<dd>3</dd>
-																<dt>빨강</dt>
-						<dd>1</dd>
-																<dt>검정</dt>
-						<dd>1</dd>
-														</dl>
-			</dd>
-		</dl>
-	</div>
-</li>					</ol>
-	
-			<h3>2등 당첨 내역 <span class="total">1</span></h3>
-		<ol>
-															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/833회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">833회</span>
-		<span>당첨 결과</span>
-		<time>2018.11.17</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color1">12</b></dd>
-		<dd class="dN2"><b class="dBall color1">18</b></dd>
-		<dd class="dN3"><b class="dBall color2">30</b></dd>
-		<dd class="dN4"><b class="dBall color3">39</b></dd>
-		<dd class="dN5"><b class="dBall color4">41</b></dd>
-		<dd class="dN6"><b class="dBall color4">42</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color1">19</b></dd>
+		<dd class="dNb"><b class="dBall color2">30</b></dd>
 	</dl>
 	<div class="dWinners">
 					<dl class="win1">
 				<dt>1등 당첨</dt>
 				<dd class="count">8</dd>
-				<dd class="reward">2,356,317,282</dd>
+				<dd class="reward">2,834,856,141</dd>
 			</dl>
 							<dl class="win2">
 				<dt>2등 당첨</dt>
-				<dd class="count">53</dd>
-				<dd class="reward">59,278,423</dd>
+				<dd class="count">57</dd>
+				<dd class="reward">66,312,425</dd>
 			</dl>
 			</div>
 	<div class="dWinAnal">
 		<dl class="total">
 			<dt>총합</dt>
-			<dd>182</dd>
+			<dd>129</dd>
 		</dl>
 		<dl class="odd-even">
 			<dt>홀짝</dt>
-			<dd>2:4</dd>
+			<dd>3:3</dd>
 		</dl>
 		<dl class="high-low">
 			<dt>저고</dt>
-			<dd>4:2</dd>
+			<dd>2:4</dd>
 		</dl>
 		<dl class="continuous">
 			<dt>연속번호</dt>
-			<dd>1</dd>
+			<dd>2</dd>
 		</dl>
 		<dl class="ac-value">
 			<dt>AC값</dt>
@@ -234,41 +60,29 @@
 		</dl>
 		<dl class="prime">
 			<dt>소수</dt>
-			<dd>1</dd>
+			<dd>2</dd>
 		</dl>
 		<dl class="composite">
 			<dt>합성수</dt>
-			<dd>5</dd>
+			<dd>4</dd>
 		</dl>
 		<dl class="color">
 			<dt>색상</dt>
 			<dd>
 				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
 																<dt>파랑</dt>
-						<dd>2</dd>
+						<dd>1</dd>
 																<dt>빨강</dt>
+						<dd>3</dd>
+																					<dt>초록</dt>
 						<dd>1</dd>
-																<dt>검정</dt>
-						<dd>1</dd>
-																<dt>초록</dt>
-						<dd>2</dd>
 									</dl>
 			</dd>
 		</dl>
 	</div>
-</li>					</ol>
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>950회차-901회차</title><pubDate>Sat, 18 Apr 2020 20:40:00 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cGamesBox">
-	<h2>회차별 당첨번호</h2>
-
-	<ul class="list">
-					<li class="game-row">
+</li>					<li class="game-row">
 	<a href="https://lotto.asamaru.net/로또645/당첨결과/907회차/" class="detail">상세보기</a>
 	<h4>
 		<span>로또6/45</span>
@@ -812,6 +626,1563 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></description></item><item><title>로또6/45 908회차 당첨 번호</title><pubDate>Sat, 25 Apr 2020 20:40:00 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/908%ED%9A%8C%EC%B0%A8/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/908%ED%9A%8C%EC%B0%A8/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[
+<article id="cArticle" class="hentry">
+	<div class="dTitle">
+		<h2 class="entry-title"><span>로또6/45</span> <strong>908</strong> 회 당첨결과</h2>
+		<time class="published" datetime="2020-04-25T20:40:00+0900">2020년 04월 25일</time>
+		<time class="updated hide" datetime="2020-04-25T21:00:00+0900">2020년 04월 25일</time>
+		<span class="vcard author hide"><span class="fn">아사마루</span></span>
+	</div>
+	<div class="entry-content">
+
+		<div class="result">
+	<h3>로또6/45 908회 당첨 결과</h3>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">3</b></dd>
+		<dd class="dN2"><b class="dBall color1">16</b></dd>
+		<dd class="dN3"><b class="dBall color2">21</b></dd>
+		<dd class="dN4"><b class="dBall color2">22</b></dd>
+		<dd class="dN5"><b class="dBall color2">23</b></dd>
+		<dd class="dN6"><b class="dBall color4">44</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color2">30</b></dd>
+	</dl>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>129</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>3:3</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>2</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>9</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>2</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>4</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																<dt>빨강</dt>
+						<dd>3</dd>
+																					<dt>초록</dt>
+						<dd>1</dd>
+									</dl>
+			</dd>
+		</dl>
+	</div>
+</div>		<table class="winner">
+	<caption>로또6/45 908회 당첨자</caption>
+	<thead>
+	<tr>
+		<th class="ranking">순위</th>
+		<th class="count">당첨게임 수</th>
+		<th class="reward">당첨금액</th>
+		<th class="total-reward">총 당첨금액</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td class="ranking">1등</td>
+		<td class="count">8</td>
+		<td class="reward">2,834,856,141 원</td>
+		<td class="total-reward">22,678,849,128 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">2등</td>
+		<td class="count">57</td>
+		<td class="reward">66,312,425 원</td>
+		<td class="total-reward">3,779,808,225 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">3등</td>
+		<td class="count">2,161</td>
+		<td class="reward">1,749,102 원</td>
+		<td class="total-reward">3,779,809,422 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">4등</td>
+		<td class="count">108,610</td>
+		<td class="reward">50,000 원</td>
+		<td class="total-reward">5,430,500,000 원</td>
+	</tr>
+	<tr>
+		<td class="ranking">5등</td>
+		<td class="count">1,858,567</td>
+		<td class="reward">5,000 원</td>
+		<td class="total-reward">9,292,835,000 원</td>
+	</tr>
+	</tbody>
+	<tfoot>
+	<tr>
+		<td colspan="100%">
+			<dl>
+				<dt>총 판매액</dt>
+				<dd>89,923,601,000 원</dd>
+			</dl>
+		</td>
+	</tr>
+	</tfoot>
+</table>
+		<div class="stores">
+							<h3><span>로또6/45 908회</span> 1등 당첨판매점</h3>
+				<ol class="win-stores-1">
+																		<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/광진구/자양사거리가로매점-kZwH/">자양사거리가로매점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 광진구 자양동 219-2번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">14</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/서초구/오케이상사-kZsC/">오케이상사</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 서초구 반포동 19-3번지 센트럴시티내100호매점</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">7</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">31</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/강서구/씨스페이스-죽림점-1WpID/">씨스페이스(죽림점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 강서구 죽림동 590번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type ">
+			<dt>구분</dt>
+			<dd>수동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/기장군/다인로또-r2FZ/">다인로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 기장군 정관읍 예림리 846-3</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+								</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/동래구/터서점-qruc/">터서점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 동래구 온천제3동 1249-14번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+			<dl class="type ">
+			<dt>구분</dt>
+			<dd>수동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/천안시/콘테인복권판매점-yaWm/">콘테인복권판매점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 천안시 동남구 496 건물 뒤편 콘테인커피숍 내</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+								</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/영암군/영암로또복권-zQXH/">영암로또복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전남 영암군 영암읍 남풍리 4-1 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+								</div>
+	</li>																								<li class="store-row">
+			<dl class="type  auto ">
+			<dt>구분</dt>
+			<dd>자동</dd>
+		</dl>
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/창원시/은정슈퍼-10TaD/">은정슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 창원시 성산구 가음동 23-1 은정상가101호 GS편의점</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>															</ol>
+			
+							<h3><span>로또6/45 908회</span> 2등 당첨판매점</h3>
+				<ol class="win-stores-2">
+																							<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강동구/동원마트-kZmn/">동원마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 강동구 성내동 412-6번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/강동구/복권마을-kx2J/">복권마을</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 강동구 성내제2동 408-12</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/관악구/복권나라-kZgC/">복권나라</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 관악구 은천동 926-25</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">5</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">17</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/관악구/가로판매점-kZvC/">가로판매점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 관악구 남현동 1060-11</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">12</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/구로구/로또-光복권-khQU/">로또 光복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 구로구 개봉제1동 173-3</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/노원구/스파-kZoj/">스파</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 노원구 상계동 666-3 주공10단지종합상가111</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">35</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">151</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/노원구/동아슈퍼-kZmc/">동아슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 노원구 상계동 673번지 9단지유치원104호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/도봉구/가판점-kZsu/">가판점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 도봉구 도봉동 616-19번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/동대문구/천하명당복권방-kx2z/">천하명당복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 동대문구 답십리동 99-22번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																																			<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/영등포구/g마트-kZii/">G마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 영등포구 대림동 862-6번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/은평구/월드24시-kZjG/">월드24시</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 은평구 갈현동 398-1번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">8</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">33</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/종로구/코사마트-평창점-kZdP/">코사마트 평창점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>서울 종로구 평창동 339번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/남구/복권천국-rFFb/">복권천국</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 남구 대연제6동 1761-2번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/부산진구/슈퍼복권나라-qrqA/">슈퍼복권나라</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 부산진구 범천제1동 845-95 1층 복권방</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/부산광역시/연제구/오렌지데이연산점-rFGR/">오렌지데이연산점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>부산 연제구 연산제5동 1141-8번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/달서구/일등복권편의점-rKU5/">일등복권편의점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대구 달서구 본리동 2-16번지 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">24</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">64</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/동구/로또복권-rKSH/">로또복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대구 동구 입석동 1006-19번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대구광역시/동구/복권천국-rfGh/">복권천국</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대구 동구 방촌동 1118-116번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">9</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/미추홀구/씨스페이스-주안1-2-1XfJy/">씨스페이스(주안1-2)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 미추홀구 주안동 224-1</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">11</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/부평구/만복래-rkTo/">만복래</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 부평구 부평동 370-1번지 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/부평구/만복래-rkTo/">만복래</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 부평구 부평동 370-1번지 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/부평구/만복래-rkTo/">만복래</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 부평구 부평동 370-1번지 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/인천광역시/부평구/만복래-rkTo/">만복래</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>인천 부평구 부평동 370-1번지 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대전광역시/동구/노다지복권방-svJE/">노다지복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대전 동구 홍도동 2-26</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대전광역시/동구/노다지복권방-svJH/">노다지복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대전 동구 가오동 236-22번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/대전광역시/유성구/대한민국마트-sXuy/">대한민국마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>대전 유성구 전민동 458-9번지 다세대주택 1층</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/세종특별자치시/조치원읍/행운복권-tVj9/">행운복권</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>세종 조치원읍 죽림리 234-5</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">7</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/고양시/현대25시편의점-xAAf/">현대25시편의점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 고양시 덕양구 토당동 373-1번지 101호</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/고양시/마두역상행선-가판대-xABy/">마두역상행선 가판대</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 고양시 일산동구 장항동 893 마두역상행선가판대</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">8</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">24</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/고양시/흥일슈퍼-xA8t/">흥일슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 고양시 일산서구 일산동 640-28번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/광주시/복돼지-xHuZ/">만복이네복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 광주시 송정동 128-1</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/광주시/대박-xHuX/">대박</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 광주시 송정동 560 105호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/구리시/gs25-구리공원점-1d7ZJ/">GS25(구리공원점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 구리시 수택3동 876</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/남양주시/캠프코리아-유마트-xA8O/">캠프코리아/유마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 남양주시 와부읍 덕소리 193-9번지 새루상가10호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/부천시/씨스페이스-중앙공원점-1d7ag/">씨스페이스(중앙공원점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 부천시 원미구 중동 1160-1번지 대우마이빌센트럴파크107호</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/오산시/백마점-xKUp/">백마점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 오산시 원동 774-31</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/의왕시/명진슈퍼-xA9F/">명진슈퍼</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 의왕시 고천동 295-26</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/평택시/서정천하명당-xXVX/">서정천하명당</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 평택시 서정동 262-11</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">4</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">15</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/포천시/훼미리마트-xXWl/">훼미리마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 포천시 신읍동 202-25번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/포천시/훼미리마트-xXWl/">훼미리마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 포천시 신읍동 202-25번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경기도/화성시/플러스로또-xFIL/">플러스로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경기 화성시 마도면 두곡리 452-6</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/강원도/강릉시/cu-포남뷰티점-1dcjX/">CU(포남뷰티점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>강원 강릉시 포남1동 1150</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/옥천군/서울로또방-y2gt/">서울로또방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 옥천군 옥천읍 금구리 142-8번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">3</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">11</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청북도/청주시/오창구룡점로또복권-y5Ht/">럭키로또복권판매점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충북 청주시 상당구 용암2동 1763</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">3</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/서천군/삼팔로또-yShN/">삼팔로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 서천군 서천읍 군사리 696-5번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">13</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/충청남도/아산시/행운마트-ySjJ/">행운마트</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>충남 아산시 인주면 공세리 114-18</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">16</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라북도/부안군/정관장홍삼부안점-zDWw/">정관장홍삼부안점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전북 부안군 부안읍 선은리 131-6번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라북도/부안군/정관장홍삼부안점-zDWw/">정관장홍삼부안점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전북 부안군 부안읍 선은리 131-6번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라북도/익산시/운수대통복권방-yq7p/">운수대통복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전북 익산시 부송동 710-23</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">6</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/나주시/빛가람희망로또-zNvr/">빛가람희망로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전남 나주시 빛가람동 288-7 110호 포시즌마트</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/전라남도/순천시/복권명당-순천산단점-zNvo/">이마트24 순천산단점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>전남 순천시 서면 선평리 300-2</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상북도/영주시/세븐일레븐영주가흥로또점-zlLo/">세븐일레븐영주가흥로또점</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경북 영주시 가흥동 1976-2번지</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">5</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/사천시/돈방석-로또-10BMV/">돈방석(로또)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 사천시 사남면 월성리 9-4번지 이마트24편의점</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">4</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/창원시/프리코너로또방-106BM/">프리코너로또방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 창원시 마산회원구 석전동 247-2번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">1</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">2</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/창원시/로또복권방-10GaL/">로또복권방</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 창원시 성산구 중앙동 89-1</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/경상남도/창원시/천하명당-팔용점-106C2/">천하명당(팔용점)</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>경남 창원시 의창구 팔용동 134-2번지</dd>
+	</dl>
+			<div class="winners">
+							<dl class="win1">
+					<dt>1등</dt>
+					<dd class="count">2</dd>
+				</dl>
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">8</dd>
+				</dl>
+					</div>
+	</li>															</ol>
+					</div>
+	</div>
+
+	
+	
+
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</article>]]></description></item><item><title>부강로또 / 세종 부강리 431번지 - 로또 판매점</title><pubDate>Sat, 25 Apr 2020 02:08:02 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B6%80%EA%B0%95%EB%A6%AC/%EB%B6%80%EA%B0%95%EB%A1%9C%EB%98%90-tT7r/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B6%80%EA%B0%95%EB%A6%AC/%EB%B6%80%EA%B0%95%EB%A1%9C%EB%98%90-tT7r/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+	<h2>
+		부강로또
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>세종 부강리 431번지</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="36.529217" data-lng="127.366503"></div>
+	</div>
+
+			<h3>
+			1등 당첨 내역
+			<span class="total">2</span>
+							<span class="win-type auto">2</span>
+											</h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/756회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">756회</span>
+		<span>당첨 결과</span>
+		<time>2017.05.27</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">10</b></dd>
+		<dd class="dN2"><b class="dBall color1">14</b></dd>
+		<dd class="dN3"><b class="dBall color1">16</b></dd>
+		<dd class="dN4"><b class="dBall color1">18</b></dd>
+		<dd class="dN5"><b class="dBall color2">27</b></dd>
+		<dd class="dN6"><b class="dBall color2">28</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color0">4</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">5</dd>
+				<dd class="reward">3,414,434,700</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">53</dd>
+				<dd class="reward">53,686,081</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>113</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>1:5</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>8</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>6</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>3</dd>
+																<dt>빨강</dt>
+						<dd>2</dd>
+																			</dl>
+			</dd>
+		</dl>
+	</div>
+</li>															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/684회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">684회</span>
+		<span>당첨 결과</span>
+		<time>2016.01.09</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">1</b></dd>
+		<dd class="dN2"><b class="dBall color1">11</b></dd>
+		<dd class="dN3"><b class="dBall color1">15</b></dd>
+		<dd class="dN4"><b class="dBall color1">17</b></dd>
+		<dd class="dN5"><b class="dBall color2">25</b></dd>
+		<dd class="dN6"><b class="dBall color3">39</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color3">40</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">9</dd>
+				<dd class="reward">1,688,815,709</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">62</dd>
+				<dd class="reward">40,858,445</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>108</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>6:0</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>6</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>2</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>3</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+														</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+			<h3>2등 당첨 내역 <span class="total">1</span></h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/833회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">833회</span>
+		<span>당첨 결과</span>
+		<time>2018.11.17</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color1">12</b></dd>
+		<dd class="dN2"><b class="dBall color1">18</b></dd>
+		<dd class="dN3"><b class="dBall color2">30</b></dd>
+		<dd class="dN4"><b class="dBall color3">39</b></dd>
+		<dd class="dN5"><b class="dBall color4">41</b></dd>
+		<dd class="dN6"><b class="dBall color4">42</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color1">19</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">8</dd>
+				<dd class="reward">2,356,317,282</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">53</dd>
+				<dd class="reward">59,278,423</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>182</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>9</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>5</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+																<dt>파랑</dt>
+						<dd>2</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+																<dt>초록</dt>
+						<dd>2</dd>
+									</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </section>]]></description></item><item><title>로또6/45 907회차 당첨 번호</title><pubDate>Sat, 18 Apr 2020 20:40:00 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/907%ED%9A%8C%EC%B0%A8/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/907%ED%9A%8C%EC%B0%A8/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[
 <article id="cArticle" class="hentry">
 	<div class="dTitle">
@@ -1062,7 +2433,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">5</dd>
+					<dd class="count">6</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -1392,7 +2763,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">63</dd>
+					<dd class="count">64</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -1634,7 +3005,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">23</dd>
+					<dd class="count">24</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -2005,7 +3376,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">5</dd>
+					<dd class="count">6</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -2645,7 +4016,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">11</dd>
+					<dd class="count">12</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -2679,7 +4050,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">150</dd>
+					<dd class="count">151</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -2757,11 +4128,11 @@
 	</li>																								<li class="store-row">
 		<dl class="name">
 		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/성북구/황금알나눔로또-ka1s/">황금알나눔로또</a></dd>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/성북구/황금알나눔로또-ka1s/">황금알대박동행로또방</a></dd>
 	</dl>
 	<dl class="address">
 		<dt>소재지</dt>
-		<dd>서울 성북구 상월곡동 26-5 코너 부동산</dd>
+		<dd>서울 성북구 월곡제2동 26-5 코너 부동산</dd>
 	</dl>
 			<div class="winners">
 										<dl class="win2">
@@ -2917,7 +4288,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">63</dd>
+					<dd class="count">64</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -3091,7 +4462,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">23</dd>
+					<dd class="count">24</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -4402,7 +5773,7 @@
 				</dl>
 										<dl class="win2">
 					<dt>2등</dt>
-					<dd class="count">150</dd>
+					<dd class="count">151</dd>
 				</dl>
 					</div>
 	</li>																								<li class="store-row">
@@ -4412,7 +5783,7 @@
 	</dl>
 	<dl class="address">
 		<dt>소재지</dt>
-		<dd>서울 노원구 상계동 751-1번지 상계주공4단지 라상가 106호</dd>
+		<dd>서울 노원구 상계6.7동 751-1번지 상계주공4단지 라상가 106호</dd>
 	</dl>
 			<div class="winners">
 										<dl class="win2">
@@ -4427,7 +5798,7 @@
 	</dl>
 	<dl class="address">
 		<dt>소재지</dt>
-		<dd>서울 노원구 상계동 155-13번지</dd>
+		<dd>서울 노원구 상계5동 155-13번지</dd>
 	</dl>
 			<div class="winners">
 										<dl class="win2">
@@ -5957,7 +7328,7 @@
 	</dl>
 	<dl class="address">
 		<dt>소재지</dt>
-		<dd>서울 관악구 신림동 518-11</dd>
+		<dd>서울 관악구 조원동 518-11</dd>
 	</dl>
 			<div class="winners">
 							<dl class="win1">
@@ -7529,262 +8900,6 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</article>]]></description></item><item><title>천금복권방 / 인천 미추홀구 도화1동 cu편의점내 - 로또 판매점</title><pubDate>Fri, 27 Mar 2020 02:07:04 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%EC%B2%9C%EA%B8%88%EB%B3%B5%EA%B6%8C%EB%B0%A9-rhvh/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%EC%B2%9C%EA%B8%88%EB%B3%B5%EA%B6%8C%EB%B0%A9-rhvh/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
-	<h2>
-		천금복권방
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd>032-873-8943</dd>
-		<dt>주소</dt>
-		<dd>인천 미추홀구 도화1동 cu편의점내</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.4654" data-lng="126.663194"></div>
-	</div>
-
-	
-			<h3>2등 당첨 내역 <span class="total">3</span></h3>
-		<ol>
-															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/796회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">796회</span>
-		<span>당첨 결과</span>
-		<time>2018.03.03</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">1</b></dd>
-		<dd class="dN2"><b class="dBall color2">21</b></dd>
-		<dd class="dN3"><b class="dBall color2">26</b></dd>
-		<dd class="dN4"><b class="dBall color3">36</b></dd>
-		<dd class="dN5"><b class="dBall color3">40</b></dd>
-		<dd class="dN6"><b class="dBall color4">41</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color0">5</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">7</dd>
-				<dd class="reward">2,763,490,340</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">46</dd>
-				<dd class="reward">70,088,524</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>165</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>3:3</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>4:2</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>7</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>4</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>1</dd>
-																					<dt>빨강</dt>
-						<dd>2</dd>
-																<dt>검정</dt>
-						<dd>2</dd>
-																<dt>초록</dt>
-						<dd>1</dd>
-									</dl>
-			</dd>
-		</dl>
-	</div>
-</li>															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/723회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">723회</span>
-		<span>당첨 결과</span>
-		<time>2016.10.08</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color1">20</b></dd>
-		<dd class="dN2"><b class="dBall color2">30</b></dd>
-		<dd class="dN3"><b class="dBall color3">33</b></dd>
-		<dd class="dN4"><b class="dBall color3">35</b></dd>
-		<dd class="dN5"><b class="dBall color3">36</b></dd>
-		<dd class="dN6"><b class="dBall color4">44</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color2">22</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">8</dd>
-				<dd class="reward">2,114,365,360</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">40</dd>
-				<dd class="reward">70,478,846</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>198</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>5:1</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>1</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>9</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>0</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>6</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-																<dt>파랑</dt>
-						<dd>1</dd>
-																<dt>빨강</dt>
-						<dd>1</dd>
-																<dt>검정</dt>
-						<dd>3</dd>
-																<dt>초록</dt>
-						<dd>1</dd>
-									</dl>
-			</dd>
-		</dl>
-	</div>
-</li>															<li class="game-row">
-	<a href="https://lotto.asamaru.net/로또645/당첨결과/389회차/" class="detail">상세보기</a>
-	<h4>
-		<span>로또6/45</span>
-		<span class="no">389회</span>
-		<span>당첨 결과</span>
-		<time>2010.05.15</time>
-	</h4>
-	<dl class="dWinNumbers">
-		<dt>당첨번호</dt>
-		<dd class="dN1"><b class="dBall color0">7</b></dd>
-		<dd class="dN2"><b class="dBall color1">16</b></dd>
-		<dd class="dN3"><b class="dBall color1">18</b></dd>
-		<dd class="dN4"><b class="dBall color1">20</b></dd>
-		<dd class="dN5"><b class="dBall color2">23</b></dd>
-		<dd class="dN6"><b class="dBall color2">26</b></dd>
-
-		<dt>보너스 번호</dt>
-		<dd class="dNb"><b class="dBall color0">3</b></dd>
-	</dl>
-	<div class="dWinners">
-					<dl class="win1">
-				<dt>1등 당첨</dt>
-				<dd class="count">5</dd>
-				<dd class="reward">2,119,027,020</dd>
-			</dl>
-							<dl class="win2">
-				<dt>2등 당첨</dt>
-				<dd class="count">36</dd>
-				<dd class="reward">49,051,552</dd>
-			</dl>
-			</div>
-	<div class="dWinAnal">
-		<dl class="total">
-			<dt>총합</dt>
-			<dd>110</dd>
-		</dl>
-		<dl class="odd-even">
-			<dt>홀짝</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="high-low">
-			<dt>저고</dt>
-			<dd>2:4</dd>
-		</dl>
-		<dl class="continuous">
-			<dt>연속번호</dt>
-			<dd>0</dd>
-		</dl>
-		<dl class="ac-value">
-			<dt>AC값</dt>
-			<dd>8</dd>
-		</dl>
-		<dl class="prime">
-			<dt>소수</dt>
-			<dd>2</dd>
-		</dl>
-		<dl class="composite">
-			<dt>합성수</dt>
-			<dd>4</dd>
-		</dl>
-		<dl class="color">
-			<dt>색상</dt>
-			<dd>
-				<dl>
-											<dt>노랑</dt>
-						<dd>1</dd>
-																<dt>파랑</dt>
-						<dd>3</dd>
-																<dt>빨강</dt>
-						<dd>2</dd>
-																			</dl>
-			</dd>
-		</dl>
-	</div>
-</li>					</ol>
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item>
+</article>]]></description></item>
 </channel>
 </rss>
