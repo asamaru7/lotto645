@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-07-24T06:17:36+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-07-25T06:17:26+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90-siJO/</id><title type="html">복권판매점 / 대전 서구 괴정동 81-19 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90-siJO/"/><published>2020-07-25T02:07:16+09:00</published><updated>2020-07-25T02:07:16+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[복권판매점 연락처 주소 대전 서구 괴정동 81-19]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		복권판매점
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>대전 서구 괴정동 81-19</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="36.337099" data-lng="127.385843"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC-rsIu/</id><title type="html">대박복권나라 / 인천 미추홀구 용현5동 627-410 105호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%EB%8C%80%EB%B0%95%EB%B3%B5%EA%B6%8C%EB%82%98%EB%9D%BC-rsIu/"/><published>2020-07-24T02:07:43+09:00</published><updated>2020-07-24T02:07:43+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[대박복권나라 연락처 주소 인천 미추홀구 용현5동 627-410 105호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		대박복권나라
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="35.930254" data-lng="128.54786"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%E4%BF%A1%EB%B6%80%EC%82%B0%EB%AA%A8%EB%B0%94%EC%9D%BC-r2Gj/</id><title type="html">信부산모바일 / 부산 동구 수정제2동 554-5 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%E4%BF%A1%EB%B6%80%EC%82%B0%EB%AA%A8%EB%B0%94%EC%9D%BC-r2Gj/"/><published>2020-07-22T02:11:57+09:00</published><updated>2020-07-22T02:11:57+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[信부산모바일 연락처 주소 부산 동구 수정제2동 554-5 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		信부산모바일
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>부산 동구 수정제2동 554-5 1층</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.130972" data-lng="129.0451"></div>
 	</div>
 
 	
