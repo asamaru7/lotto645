@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-08-03T06:19:34+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-08-04T06:18:38+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%EC%A0%9C%EC%A3%BC%EC%8B%9C/%EC%A0%9C%EC%9D%BC%EB%B3%B5%EA%B6%8C-10gaZ/</id><title type="html">제일복권 / 제주 제주시 삼도2동 903 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%EC%A0%9C%EC%A3%BC%EC%8B%9C/%EC%A0%9C%EC%9D%BC%EB%B3%B5%EA%B6%8C-10gaZ/"/><published>2020-08-04T02:09:03+09:00</published><updated>2020-08-04T02:09:03+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[제일복권 연락처 주소 제주 제주시 삼도2동 903]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		제일복권
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>제주 제주시 삼도2동 903</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="33.512746" data-lng="126.520278"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84/%EC%A7%84%EC%A3%BC%EC%8B%9C/%EA%B8%88%EC%82%B0%EB%B3%B5%EA%B6%8C%EB%B0%A9-10Gbq/</id><title type="html">금산복권방 / 경남 진주시 금산면 장사리 948-2 102호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84/%EC%A7%84%EC%A3%BC%EC%8B%9C/%EA%B8%88%EC%82%B0%EB%B3%B5%EA%B6%8C%EB%B0%A9-10Gbq/"/><published>2020-08-03T02:10:26+09:00</published><updated>2020-08-03T02:10:26+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[금산복권방 연락처 주소 경남 진주시 금산면 장사리 948-2 102호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		금산복권방
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="36.820638" data-lng="128.605083"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84/%EA%B2%BD%EC%82%B0%EC%8B%9C/%EC%98%A4%EB%8A%98%EB%8F%841%EB%93%B1-zqYu/</id><title type="html">오늘도1등 / 경북 경산시 진량읍 봉회리 52-4 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84/%EA%B2%BD%EC%82%B0%EC%8B%9C/%EC%98%A4%EB%8A%98%EB%8F%841%EB%93%B1-zqYu/"/><published>2020-08-02T02:10:01+09:00</published><updated>2020-08-02T02:10:01+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[오늘도1등 연락처 주소 경북 경산시 진량읍 봉회리 52-4]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		오늘도1등
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경북 경산시 진량읍 봉회리 52-4</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.884655" data-lng="128.82021"></div>
 	</div>
 
 	
