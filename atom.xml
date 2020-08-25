@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-08-25T06:17:59+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-08-26T06:17:59+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%81%EA%B5%AC/%EC%97%B0%EA%B2%BD%EB%B3%B5%EA%B6%8C-rSGu/</id><title type="html">연경복권 / 대구 북구 연경동 987 상가301동121호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%81%EA%B5%AC/%EC%97%B0%EA%B2%BD%EB%B3%B5%EA%B6%8C-rSGu/"/><published>2020-08-26T02:07:26+09:00</published><updated>2020-08-26T02:07:26+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[연경복권 연락처 주소 대구 북구 연경동 987 상가301동121호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		연경복권
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>대구 북구 연경동 987 상가301동121호</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.939863" data-lng="128.612173"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%98%81%EB%8F%84%EA%B5%AC/%EA%B9%8C%EC%B9%98%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2IE/</id><title type="html">까치복권방 / 부산 영도구 영선동3가 118-4 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%98%81%EB%8F%84%EA%B5%AC/%EA%B9%8C%EC%B9%98%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2IE/"/><published>2020-08-25T02:07:35+09:00</published><updated>2020-08-25T02:07:35+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[까치복권방 연락처 주소 부산 영도구 영선동3가 118-4 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		까치복권방
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="37.643201" data-lng="126.789721"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/%EC%A7%80%EC%97%90%EC%8A%A425%EC%9E%A5%ED%95%AD%EC%9B%A8%EC%8A%A4%ED%84%B4%EC%A0%90-xKbO/</id><title type="html">지에스25장항웨스턴점 / 경기 고양시 일산동구 장항동 853-1 1층 108호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/%EC%A7%80%EC%97%90%EC%8A%A425%EC%9E%A5%ED%95%AD%EC%9B%A8%EC%8A%A4%ED%84%B4%EC%A0%90-xKbO/"/><published>2020-08-24T02:12:10+09:00</published><updated>2020-08-24T02:12:10+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[지에스25장항웨스턴점 연락처 주소 경기 고양시 일산동구 장항동 853-1 1층 108호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		지에스25장항웨스턴점
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 고양시 일산동구 장항동 853-1 1층 108호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.655448" data-lng="126.773212"></div>
 	</div>
 
 	
