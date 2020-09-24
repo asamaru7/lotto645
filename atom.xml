@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-09-24T06:20:10+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-09-25T06:19:43+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B3%B4%EB%9E%8C%EB%8F%99/gs25%EC%84%B8%EC%A2%85%EC%97%AC%EC%9A%B8%EC%A0%90-tYKf/</id><title type="html">GS25세종여울점 / 세종 보람동 664-99 호려울2단지 내 상가 GS25 편의점 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EB%B3%B4%EB%9E%8C%EB%8F%99/gs25%EC%84%B8%EC%A2%85%EC%97%AC%EC%9A%B8%EC%A0%90-tYKf/"/><published>2020-09-25T02:09:24+09:00</published><updated>2020-09-25T02:09:24+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[GS25세종여울점 연락처 주소 세종 보람동 664-99 호려울2단지 내 상가 GS25 편의점]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		GS25세종여울점
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>세종 보람동 664-99 호려울2단지 내 상가 GS25 편의점</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="36.475563" data-lng="127.28441"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%EC%A0%9C%EC%A3%BC%EC%8B%9C/%EC%86%8C%EB%B3%B5%EC%86%8C%EB%B3%B5-10gaH/</id><title type="html">소복소복 / 제주 제주시 이도이동 1981-20 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%EC%A0%9C%EC%A3%BC%EC%8B%9C/%EC%86%8C%EB%B3%B5%EC%86%8C%EB%B3%B5-10gaH/"/><published>2020-09-24T02:09:33+09:00</published><updated>2020-09-24T02:09:33+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[소복소복 연락처 주소 제주 제주시 이도이동 1981-20 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		소복소복
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="35.386883" data-lng="129.144156"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84/%ED%8F%AC%ED%95%AD%EC%8B%9C/%EB%8C%80%EB%B0%95%EB%AA%85%EB%8B%B9-zqZz/</id><title type="html">대박명당 / 경북 포항시 북구 죽도동 2-65 오른쪽 상가 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84/%ED%8F%AC%ED%95%AD%EC%8B%9C/%EB%8C%80%EB%B0%95%EB%AA%85%EB%8B%B9-zqZz/"/><published>2020-09-22T02:10:06+09:00</published><updated>2020-09-22T02:10:06+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[대박명당 연락처 054-000-0000 주소 경북 포항시 북구 죽도동 2-65 오른쪽 상가]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		대박명당
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd>054-000-0000</dd>
-		<dt>주소</dt>
-		<dd>경북 포항시 북구 죽도동 2-65 오른쪽 상가</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="36.036397" data-lng="129.36751"></div>
 	</div>
 
 	
