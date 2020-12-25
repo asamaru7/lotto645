@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-12-25T06:19:00+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2020-12-26T06:19:08+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9A%B8%EC%A3%BC%EA%B5%B0/%EC%8B%B8%EA%B0%80%EC%A7%80%EA%B3%A0%EA%B0%80%EA%B2%8C-%EB%B2%94%EC%84%9C%EC%A0%90-t8Ke/</id><title type="html">싸가지고가게 범서점 / 울산 울주군 범서읍 굴화리 231 1층 102호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9A%B8%EC%A3%BC%EA%B5%B0/%EC%8B%B8%EA%B0%80%EC%A7%80%EA%B3%A0%EA%B0%80%EA%B2%8C-%EB%B2%94%EC%84%9C%EC%A0%90-t8Ke/"/><published>2020-12-26T02:08:06+09:00</published><updated>2020-12-26T02:08:06+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[싸가지고가게 범서점 연락처 주소 울산 울주군 범서읍 굴화리 231 1층 102호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		싸가지고가게 범서점
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>울산 울주군 범서읍 굴화리 231 1층 102호</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.551876" data-lng="129.251584"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%80%ED%8F%89%EA%B5%AC/1%EB%93%B1%EB%B3%B5%EA%B6%8C-rsJE/</id><title type="html">1등복권 / 인천 부평구 삼산동 460-9 118호&amp;amp;&amp;amp;#35;40;삼산동, 삼사프라자&amp;amp;&amp;amp;#35;41; - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%80%ED%8F%89%EA%B5%AC/1%EB%93%B1%EB%B3%B5%EA%B6%8C-rsJE/"/><published>2020-12-24T02:08:53+09:00</published><updated>2020-12-24T02:08:53+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[1등복권 연락처 주소 인천 부평구 삼산동 460-9 118호&&#35;40;삼산동, 삼사프라자&&#35;41;]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		1등복권
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="37.504391" data-lng="126.781298"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%95%98%EB%82%A8%EC%8B%9C/%EB%B2%A0%EB%B2%A0%ED%95%98%EC%97%98-xKif/</id><title type="html">베베하엘 / 경기 하남시 덕풍동 818-1 102호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%95%98%EB%82%A8%EC%8B%9C/%EB%B2%A0%EB%B2%A0%ED%95%98%EC%97%98-xKif/"/><published>2020-12-21T02:12:44+09:00</published><updated>2020-12-21T02:12:44+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[베베하엘 연락처 주소 경기 하남시 덕풍동 818-1 102호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		베베하엘
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 하남시 덕풍동 818-1 102호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.547083" data-lng="127.210219"></div>
 	</div>
 
 	
