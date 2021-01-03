@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-03T06:19:07+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-04T06:19:01+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%EC%A0%9C%EC%A3%BC%EC%8B%9C/%EC%9D%80%ED%98%9C%EC%8A%88%ED%8D%BC-10gaP/</id><title type="html">은혜슈퍼 / 제주 제주시 연동 284-33 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%9C%EC%A3%BC%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84/%EC%A0%9C%EC%A3%BC%EC%8B%9C/%EC%9D%80%ED%98%9C%EC%8A%88%ED%8D%BC-10gaP/"/><published>2021-01-04T02:09:36+09:00</published><updated>2021-01-04T02:09:36+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[은혜슈퍼 연락처 주소 제주 제주시 연동 284-33]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		은혜슈퍼
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>제주 제주시 연동 284-33</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="33.4841" data-lng="126.49202"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4-10Gcc/</id><title type="html">복권판매 / 경남 창원시 마산합포구 월남동4가 11-2 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84/%EC%B0%BD%EC%9B%90%EC%8B%9C/%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4-10Gcc/"/><published>2021-01-03T02:13:52+09:00</published><updated>2021-01-03T02:13:52+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[복권판매 연락처 주소 경남 창원시 마산합포구 월남동4가 11-2 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		복권판매
@@ -5349,31 +5374,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="36.351382" data-lng="126.600315"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%B6%A9%EC%B2%AD%EB%B6%81%EB%8F%84/%EC%98%81%EB%8F%99%EA%B5%B0/%EB%8C%80%EC%9A%B4%EB%B3%B5%EA%B6%8C-yAVP/</id><title type="html">대운복권 / 충북 영동군 영동읍 계산리 672-19 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%B6%A9%EC%B2%AD%EB%B6%81%EB%8F%84/%EC%98%81%EB%8F%99%EA%B5%B0/%EB%8C%80%EC%9A%B4%EB%B3%B5%EA%B6%8C-yAVP/"/><published>2020-12-28T02:08:21+09:00</published><updated>2020-12-28T02:08:21+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[대운복권 연락처 주소 충북 영동군 영동읍 계산리 672-19]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		대운복권
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>충북 영동군 영동읍 계산리 672-19</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="36.173793" data-lng="127.7801"></div>
 	</div>
 
 	
