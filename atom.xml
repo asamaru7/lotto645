@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-08T06:19:17+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-09T06:19:17+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%88%98%EC%84%B1%EA%B5%AC/%EC%95%A0%EB%8B%88%EC%BD%9C-%EB%A1%9C%EB%98%90%ED%86%B5%EC%8B%A0-rSH0/</id><title type="html">애니콜 로또통신 / 대구 수성구 범어동 29-1 5동18호&amp;amp;&amp;amp;#35;40;범어동&amp;amp;&amp;amp;#35;41; - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%88%98%EC%84%B1%EA%B5%AC/%EC%95%A0%EB%8B%88%EC%BD%9C-%EB%A1%9C%EB%98%90%ED%86%B5%EC%8B%A0-rSH0/"/><published>2021-01-09T02:07:55+09:00</published><updated>2021-01-09T02:07:55+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[애니콜 로또통신 연락처 053-0000-0000 주소 대구 수성구 범어동 29-1 5동18호&&#35;40;범어동&&#35;41;]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		애니콜 로또통신
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd>053-0000-0000</dd>
+		<dt>주소</dt>
+		<dd>대구 수성구 범어동 29-1 5동18호&amp;&amp;#35;40;범어동&amp;&amp;#35;41;</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="36.86275" data-lng="128.625075"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B8%88%EC%A0%95%EA%B5%AC/%EB%8B%A4%EC%98%A8%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2GQ/</id><title type="html">다온복권방 / 부산 금정구 부곡동 295-15 좌측 복권판매점 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B8%88%EC%A0%95%EA%B5%AC/%EB%8B%A4%EC%98%A8%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2GQ/"/><published>2021-01-08T02:08:12+09:00</published><updated>2021-01-08T02:08:12+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[다온복권방 연락처 주소 부산 금정구 부곡동 295-15 좌측 복권판매점]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		다온복권방
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="37.2833" data-lng="126.81902"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%EB%A1%9C%EB%98%90%EB%A1%9C%EB%98%90-xKdy/</id><title type="html">로또로또 / 경기 성남시 수정구 창곡동 505 1층 1100호 &amp;amp;&amp;amp;#35;40;위례한화오벨리스크 센트럴스퀘어&amp;amp;&amp;amp;#35;41; - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%EB%A1%9C%EB%98%90%EB%A1%9C%EB%98%90-xKdy/"/><published>2021-01-07T02:12:54+09:00</published><updated>2021-01-07T02:12:54+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또로또 연락처 주소 경기 성남시 수정구 창곡동 505 1층 1100호 &&#35;40;위례한화오벨리스크 센트럴스퀘어&&#35;41;]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		로또로또
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 성남시 수정구 창곡동 505 1층 1100호 &amp;&amp;#35;40;위례한화오벨리스크 센트럴스퀘어&amp;&amp;#35;41;</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.473339" data-lng="127.141012"></div>
 	</div>
 
 	
