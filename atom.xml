@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-10T06:19:16+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-11T06:19:13+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EA%B1%B4%EC%9A%B0%EB%A1%9C%EB%98%90-siJC/</id><title type="html">건우로또 / 대전 서구 둔산동 909 수정타운 상가동 휴대폰 가게 119호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EA%B1%B4%EC%9A%B0%EB%A1%9C%EB%98%90-siJC/"/><published>2021-01-11T02:08:06+09:00</published><updated>2021-01-11T02:08:06+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[건우로또 연락처 042-483-6620 주소 대전 서구 둔산동 909 수정타운 상가동 휴대폰 가게 119호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		건우로또
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd>042-483-6620</dd>
+		<dt>주소</dt>
+		<dd>대전 서구 둔산동 909 수정타운 상가동 휴대폰 가게 119호</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="36.359189" data-lng="127.395469"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B3%84%EC%96%91%EA%B5%AC/%EC%9D%BC%EB%93%B1%EB%8B%A4%EB%B0%A9-%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90-rsIQ/</id><title type="html">일등다방 복권판매점 / 인천 계양구 계산동 1081-6 107호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B3%84%EC%96%91%EA%B5%AC/%EC%9D%BC%EB%93%B1%EB%8B%A4%EB%B0%A9-%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90-rsIQ/"/><published>2021-01-10T02:08:58+09:00</published><updated>2021-01-10T02:08:58+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[일등다방 복권판매점 연락처 주소 인천 계양구 계산동 1081-6 107호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		일등다방 복권판매점
@@ -5227,31 +5252,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="35.118292" data-lng="129.111798"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%99%94%EC%84%B1%EC%8B%9C/%EB%8F%99%ED%83%84%EC%8B%A0%EB%8B%A8%EC%A0%90-xKil/</id><title type="html">동탄신단점 / 경기 화성시 방교동 829-1 108호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%99%94%EC%84%B1%EC%8B%9C/%EB%8F%99%ED%83%84%EC%8B%A0%EB%8B%A8%EC%A0%90-xKil/"/><published>2021-01-07T02:13:01+09:00</published><updated>2021-01-07T02:13:01+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[동탄신단점 연락처 주소 경기 화성시 방교동 829-1 108호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		동탄신단점
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 화성시 방교동 829-1 108호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.17287" data-lng="127.08917"></div>
 	</div>
 
 	
