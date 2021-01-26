@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-26T06:18:55+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2021-01-27T06:19:17+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%EB%A1%9C%ED%84%B0%EB%A6%AC-%ED%81%B4%EB%9F%BD-rsIw/</id><title type="html">로터리 클럽 / 인천 미추홀구 주안동 844-51 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%AF%B8%EC%B6%94%ED%99%80%EA%B5%AC/%EB%A1%9C%ED%84%B0%EB%A6%AC-%ED%81%B4%EB%9F%BD-rsIw/"/><published>2021-01-27T02:08:38+09:00</published><updated>2021-01-27T02:08:38+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로터리 클럽 연락처 주소 인천 미추홀구 주안동 844-51 1층]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		로터리 클럽
+			</h2>
+
+	<dl class="dInfo">
+		<dt>연락처</dt>
+		<dd></dd>
+		<dt>주소</dt>
+		<dd>인천 미추홀구 주안동 844-51 1층</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.448122" data-lng="126.675943"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EA%B8%B0%EC%95%84%EC%86%8C%EB%A6%AC%EC%82%AC-rSGx/</id><title type="html">기아소리사 / 대구 서구 비산동 1609-3 1층 기아소리사 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%84%9C%EA%B5%AC/%EA%B8%B0%EC%95%84%EC%86%8C%EB%A6%AC%EC%82%AC-rSGx/"/><published>2021-01-26T02:07:54+09:00</published><updated>2021-01-26T02:07:54+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[기아소리사 연락처 주소 대구 서구 비산동 1609-3 1층 기아소리사]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		기아소리사
@@ -216,31 +241,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="37.01383" data-lng="127.20855"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90-xKeR/</id><title type="html">행운로또 / 경기 성남시 분당구 수내동 33-2 궁전프라자 제3동 제1층 127호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90-xKeR/"/><published>2021-01-24T02:13:22+09:00</published><updated>2021-01-24T02:13:22+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행운로또 연락처 주소 경기 성남시 분당구 수내동 33-2 궁전프라자 제3동 제1층 127호]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		행운로또
-			</h2>
-
-	<dl class="dInfo">
-		<dt>연락처</dt>
-		<dd></dd>
-		<dt>주소</dt>
-		<dd>경기 성남시 분당구 수내동 33-2 궁전프라자 제3동 제1층 127호</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.37734" data-lng="127.11582"></div>
 	</div>
 
 	
