@@ -1,7 +1,568 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2022-02-09T06:31:53+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2022-02-10T06:35:03+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%88%98%EC%84%B1%EA%B5%AC/%D0%BC%D1%9C%D1%91%D0%BB%D1%91%D1%91-summer-lotto-rSH2/</id><title type="html">썸머(summer)lotto / 대구 수성구 수성동1가 649-81 1층(수성동1가) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%88%98%EC%84%B1%EA%B5%AC/%D0%BC%D1%9C%D1%91%D0%BB%D1%91%D1%91-summer-lotto-rSH2/"/><published>2022-02-10T02:09:25+09:00</published><updated>2022-02-10T02:09:25+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[썸머(summer)lotto 연락처 053-0000-0000 주소 대구 수성구 신천동로 294 1층(수성동1가) ( 대구 수성구 수성동1가 649-81 1층(수성동1가) [지도보기] ) 2등 당첨 내역 1 상세보기 로또6/45 970회 당첨 결과 2021.07.03 당첨번호 9 11 16 21 28 36 보너스 번호 5 1등 당첨 14 1,611,544,045 2등 당첨 87 43,221,488 총합 121 홀짝 3:3 저고 2:4 연속번호 0 AC값 7 소수 1 합성수 5 색상 노랑 1 파랑 2 빨강 2 검정 1]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		썸머(summer)lotto
+			</h2>
+
+	<dl class="dInfo">
+					<dt>연락처</dt>
+			<dd>053-0000-0000</dd>
+				<dt>주소</dt>
+		<dd>
+							대구 수성구 신천동로 294 1층(수성동1가)
+									<p class="sub">( 대구 수성구 수성동1가 649-81 1층(수성동1가) <a href="https://map.naver.com/v5/search/%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EC%88%98%EC%84%B1%EB%8F%991%EA%B0%80%20649-81%201%EC%B8%B5" data-addr="%EB%8C%80%EA%B5%AC%20%EC%88%98%EC%84%B1%EA%B5%AC%20%EC%88%98%EC%84%B1%EB%8F%991%EA%B0%80%20649-81%201%EC%B8%B5" class="map-link" target="_blank">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.851154" data-lng="128.608849"></div>
+	</div>
+
+	
+			<h3>2등 당첨 내역 <span class="total">1</span></h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/970회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">970회</span>
+		<span>당첨 결과</span>
+		<time>2021.07.03</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">9</b></dd>
+		<dd class="dN2"><b class="dBall color1">11</b></dd>
+		<dd class="dN3"><b class="dBall color1">16</b></dd>
+		<dd class="dN4"><b class="dBall color2">21</b></dd>
+		<dd class="dN5"><b class="dBall color2">28</b></dd>
+		<dd class="dN6"><b class="dBall color3">36</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color0">5</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">14</dd>
+				<dd class="reward">1,611,544,045</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">87</dd>
+				<dd class="reward">43,221,488</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>121</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>3:3</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>7</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>5</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>2</dd>
+																<dt>빨강</dt>
+						<dd>2</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+														</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC/%C3%B2%C3%AA-cspace-%C3%BD%C3%B2-%C3%BD%C3%B6%C3%B6%C3%BD-%C3%BF%C3%B9%C3%A5%C3%A4%C3%BD%C3%A1%C3%A9-1WpKA/</id><title type="html">㈜ Cspace 한화콘도점 / 부산 해운대구 우동 1410-3 5-2블럭 (폐점) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC/%C3%B2%C3%AA-cspace-%C3%BD%C3%B2-%C3%BD%C3%B6%C3%B6%C3%BD-%C3%BF%C3%B9%C3%A5%C3%A4%C3%BD%C3%A1%C3%A9-1WpKA/"/><published>2022-02-10T02:09:03+09:00</published><updated>2022-02-10T02:09:03+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[㈜ Cspace 한화콘도점 폐점 연락처 051-749-5333 주소 부산 해운대구 우동 1410-3 5-2블럭 [지도보기]]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		㈜ Cspace 한화콘도점
+					<strong>폐점</strong>
+			</h2>
+
+	<dl class="dInfo">
+					<dt>연락처</dt>
+			<dd>051-749-5333</dd>
+				<dt>주소</dt>
+		<dd>
+							부산 해운대구 우동 1410-3 5-2블럭
+				<a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC%20%EC%9A%B0%EB%8F%99%201410-3%205-2%EB%B8%94%EB%9F%AD" data-addr="%EB%B6%80%EC%82%B0%20%ED%95%B4%EC%9A%B4%EB%8C%80%EA%B5%AC%20%EC%9A%B0%EB%8F%99%201410-3%205-2%EB%B8%94%EB%9F%AD" class="map-link" target="_blank">[지도보기]</a>
+					</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.154493" data-lng="129.145102"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%A2%85%EB%A1%9C%EA%B5%AC/%E4%B9%93-kcJw/</id><title type="html">NS / 서울 종로구 숭인동 24-3 (폐점) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%A2%85%EB%A1%9C%EA%B5%AC/%E4%B9%93-kcJw/"/><published>2022-02-10T02:05:43+09:00</published><updated>2022-02-10T02:05:43+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[NS 폐점 연락처 02-764-6631 주소 서울 종로구 숭인동 24-3 [지도보기]]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		NS
+					<strong>폐점</strong>
+			</h2>
+
+	<dl class="dInfo">
+					<dt>연락처</dt>
+			<dd>02-764-6631</dd>
+				<dt>주소</dt>
+		<dd>
+							서울 종로구 숭인동 24-3
+				<a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%88%AD%EC%9D%B8%EB%8F%99%2024-3" data-addr="%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%88%AD%EC%9D%B8%EB%8F%99%2024-3" class="map-link" target="_blank">[지도보기]</a>
+					</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.580103" data-lng="127.017265"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%A2%85%EB%A1%9C%EA%B5%AC/%D0%B3-%D1%9Ask%D0%BC-%D1%92%D0%BB-%D0%BC-%D1%92-1QcHC/</id><title type="html">㈜SK에너지 / 서울 종로구 서린동 99 (폐점) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%A2%85%EB%A1%9C%EA%B5%AC/%D0%B3-%D1%9Ask%D0%BC-%D1%92%D0%BB-%D0%BC-%D1%92-1QcHC/"/><published>2022-02-10T02:05:42+09:00</published><updated>2022-02-10T02:05:42+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[㈜SK에너지 폐점 주소 서울 종로구 서린동 99 [지도보기]]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		㈜SK에너지
+					<strong>폐점</strong>
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							서울 종로구 서린동 99
+				<a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%84%9C%EB%A6%B0%EB%8F%99%2099" data-addr="%EC%84%9C%EC%9A%B8%20%EC%A2%85%EB%A1%9C%EA%B5%AC%20%EC%84%9C%EB%A6%B0%EB%8F%99%2099" class="map-link" target="_blank">[지도보기]</a>
+					</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.569651" data-lng="126.980291"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%A4%91%EA%B5%AC/%C3%B2%C3%AA-%C3%B9%C2%AA-%C3%B9-%C3%AE%C3%B9%C3%AD-%C3%BD%C3%B8%C3%A4%C3%BD%C2%BA%C3%A7%C3%BD%C3%A4-%C3%BD%C3%A1%C3%BC-1QX4c/</id><title type="html">㈜리브로을지서적 / 서울 중구 을지로2가 6번지 (폐점) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%A4%91%EA%B5%AC/%C3%B2%C3%AA-%C3%B9%C2%AA-%C3%B9-%C3%AE%C3%B9%C3%AD-%C3%BD%C3%B8%C3%A4%C3%BD%C2%BA%C3%A7%C3%BD%C3%A4-%C3%BD%C3%A1%C3%BC-1QX4c/"/><published>2022-02-10T02:05:40+09:00</published><updated>2022-02-10T02:05:40+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[㈜리브로을지서적 폐점 연락처 02-757-8100 주소 서울 중구 을지로2가 6번지 [지도보기]]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		㈜리브로을지서적
+					<strong>폐점</strong>
+			</h2>
+
+	<dl class="dInfo">
+					<dt>연락처</dt>
+			<dd>02-757-8100</dd>
+				<dt>주소</dt>
+		<dd>
+							서울 중구 을지로2가 6번지
+				<a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%9D%84%EC%A7%80%EB%A1%9C2%EA%B0%80%206%EB%B2%88%EC%A7%80" data-addr="%EC%84%9C%EC%9A%B8%20%EC%A4%91%EA%B5%AC%20%EC%9D%84%EC%A7%80%EB%A1%9C2%EA%B0%80%206%EB%B2%88%EC%A7%80" class="map-link" target="_blank">[지도보기]</a>
+					</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.566454" data-lng="126.983667"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%9D%80%ED%8F%89%EA%B5%AC/%D0%BC-%D1%9A%D0%BB-%D1%92%D0%BD%D1%9C%D2%91%D0%BC-%D0%B3-%D1%9A-kZjF/</id><title type="html">수색마트 복권방 / 서울 은평구 수색동 106-1 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%9D%80%ED%8F%89%EA%B5%AC/%D0%BC-%D1%9A%D0%BB-%D1%92%D0%BD%D1%9C%D2%91%D0%BC-%D0%B3-%D1%9A-kZjF/"/><published>2022-02-10T02:04:31+09:00</published><updated>2022-02-10T02:04:31+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[수색마트 복권방 연락처 02-302-9000 주소 서울 은평구 수색로 256 ( 서울 은평구 수색동 106-1 [지도보기] ) 2등 당첨 내역 4 상세보기 로또6/45 967회 당첨 결과 2021.06.12 당첨번호 1 6 13 37 38 40 보너스 번호 9 1등 당첨 4 5,809,776,094 2등 당첨 69 56,133,103 총합 135 홀짝 3:3 저고 3:3 연속번호 1 AC값 10 소수 2 합성수 3 색상 노랑 2 파랑 1 검정 3 상세보기 로또6/45 927회 당첨 결과 2020.09.05 당첨번호 4 15 22 38 41 43 보너스 번호 26 1등 당첨 6 3,714,203,875 2등 당첨 63 58,955,618 총합 163 홀짝 3:3 저고 3:3 연속번호 0 AC값 10 소수 2 합성수 4 색상 노랑 1 파랑 1 빨강 1 검정 1 초록 2 상세보기 로또6/45 623회 당첨 결과 2014.11.08 당첨번호 7 13 30 39 41 45 보너스 번호 25 1등 당첨 8 1,813,702,594 2등 당첨 35 69,093,433 총합 175 홀짝 5:1 저고 4:2 연속번호 0 AC값 8 소수 3 합성수 3 색상 노랑 1 파랑 1 빨강 1 검정 1 초록 2 상세보기 로또6/45 372회 당첨 결과 2010.01.16 당첨번호 8 11 14 16 18 21 보너스 번호 13 1등 당첨 9 1,192,593,200 2등 당첨 37 48,348,373 총합 88 홀짝 2:4 저고 0:6 연속번호 0 AC값 4 소수 1 합성수 5 색상 노랑 1 파랑 4 빨강 1]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		수색마트 복권방
+			</h2>
+
+	<dl class="dInfo">
+					<dt>연락처</dt>
+			<dd>02-302-9000</dd>
+				<dt>주소</dt>
+		<dd>
+							서울 은평구 수색로 256
+									<p class="sub">( 서울 은평구 수색동 106-1 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%88%98%EC%83%89%EB%8F%99%20106-1" data-addr="%EC%84%9C%EC%9A%B8%20%EC%9D%80%ED%8F%89%EA%B5%AC%20%EC%88%98%EC%83%89%EB%8F%99%20106-1" class="map-link" target="_blank">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.582196" data-lng="126.895948"></div>
+	</div>
+
+	
+			<h3>2등 당첨 내역 <span class="total">4</span></h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/967회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">967회</span>
+		<span>당첨 결과</span>
+		<time>2021.06.12</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">1</b></dd>
+		<dd class="dN2"><b class="dBall color0">6</b></dd>
+		<dd class="dN3"><b class="dBall color1">13</b></dd>
+		<dd class="dN4"><b class="dBall color3">37</b></dd>
+		<dd class="dN5"><b class="dBall color3">38</b></dd>
+		<dd class="dN6"><b class="dBall color3">40</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color0">9</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">4</dd>
+				<dd class="reward">5,809,776,094</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">69</dd>
+				<dd class="reward">56,133,103</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>135</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>3:3</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>3:3</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>10</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>2</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>2</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																					<dt>검정</dt>
+						<dd>3</dd>
+														</dl>
+			</dd>
+		</dl>
+	</div>
+</li>															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/927회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">927회</span>
+		<span>당첨 결과</span>
+		<time>2020.09.05</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">4</b></dd>
+		<dd class="dN2"><b class="dBall color1">15</b></dd>
+		<dd class="dN3"><b class="dBall color2">22</b></dd>
+		<dd class="dN4"><b class="dBall color3">38</b></dd>
+		<dd class="dN5"><b class="dBall color4">41</b></dd>
+		<dd class="dN6"><b class="dBall color4">43</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color2">26</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">6</dd>
+				<dd class="reward">3,714,203,875</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">63</dd>
+				<dd class="reward">58,955,618</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>163</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>3:3</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>3:3</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>10</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>2</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>4</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+																<dt>초록</dt>
+						<dd>2</dd>
+									</dl>
+			</dd>
+		</dl>
+	</div>
+</li>															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/623회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">623회</span>
+		<span>당첨 결과</span>
+		<time>2014.11.08</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">7</b></dd>
+		<dd class="dN2"><b class="dBall color1">13</b></dd>
+		<dd class="dN3"><b class="dBall color2">30</b></dd>
+		<dd class="dN4"><b class="dBall color3">39</b></dd>
+		<dd class="dN5"><b class="dBall color4">41</b></dd>
+		<dd class="dN6"><b class="dBall color4">45</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color2">25</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">8</dd>
+				<dd class="reward">1,813,702,594</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">35</dd>
+				<dd class="reward">69,093,433</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>175</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>5:1</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>8</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>1</dd>
+																<dt>초록</dt>
+						<dd>2</dd>
+									</dl>
+			</dd>
+		</dl>
+	</div>
+</li>															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/372회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">372회</span>
+		<span>당첨 결과</span>
+		<time>2010.01.16</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">8</b></dd>
+		<dd class="dN2"><b class="dBall color1">11</b></dd>
+		<dd class="dN3"><b class="dBall color1">14</b></dd>
+		<dd class="dN4"><b class="dBall color1">16</b></dd>
+		<dd class="dN5"><b class="dBall color1">18</b></dd>
+		<dd class="dN6"><b class="dBall color2">21</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color1">13</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">9</dd>
+				<dd class="reward">1,192,593,200</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">37</dd>
+				<dd class="reward">48,348,373</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>88</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>2:4</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>0:6</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>4</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>1</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>5</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>4</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																			</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</id><title type="html">1050회차-1001회차</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/"/><published>2022-02-05T20:40:00+09:00</published><updated>2022-02-05T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[회차별 당첨번호 상세보기 로또6/45 1001회 당첨 결과 2022.02.05 당첨번호 6 10 12 14 20 42 보너스 번호 15 1등 당첨 12 2,077,279,594 2등 당첨 66 62,947,867 총합 104 홀짝 0:6 저고 1:5 연속번호 0 AC값 6 소수 0 합성수 6 색상 노랑 2 파랑 3 초록 1 1000회차-951회차]]></summary><content type="html"><![CDATA[<section class="cGamesBox">
 	<h2>회차별 당첨번호</h2>
 
@@ -1685,164 +2246,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="35.85844" data-lng="128.5565"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8B%AC%EC%84%9C%EA%B5%AC/%EC%9D%B4%EB%A7%88%ED%8A%B824-%EC%86%A1%ED%98%84-%EC%95%9E%EC%82%B0%EC%A0%90-rSHN/</id><title type="html">이마트24 송현 앞산점 / 대구 달서구 송현동 1963-12 1층 이마트24편의점 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8B%AC%EC%84%9C%EA%B5%AC/%EC%9D%B4%EB%A7%88%ED%8A%B824-%EC%86%A1%ED%98%84-%EC%95%9E%EC%82%B0%EC%A0%90-rSHN/"/><published>2022-02-04T02:09:43+09:00</published><updated>2022-02-04T02:09:43+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[이마트24 송현 앞산점 연락처 053-657-2316 주소 대구 달서구 송현로8길 88 1층 이마트24편의점 ( 대구 달서구 송현동 1963-12 1층 이마트24편의점 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		이마트24 송현 앞산점
-			</h2>
-
-	<dl class="dInfo">
-					<dt>연락처</dt>
-			<dd>053-657-2316</dd>
-				<dt>주소</dt>
-		<dd>
-							대구 달서구 송현로8길 88 1층  이마트24편의점
-									<p class="sub">( 대구 달서구 송현동 1963-12 1층 이마트24편의점 <a href="https://map.naver.com/v5/search/%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EC%86%A1%ED%98%84%EB%8F%99%201963-12%201%EC%B8%B5%20%EC%9D%B4%EB%A7%88%ED%8A%B824%ED%8E%B8%EC%9D%98%EC%A0%90" data-addr="%EB%8C%80%EA%B5%AC%20%EB%8B%AC%EC%84%9C%EA%B5%AC%20%EC%86%A1%ED%98%84%EB%8F%99%201963-12%201%EC%B8%B5%20%EC%9D%B4%EB%A7%88%ED%8A%B824%ED%8E%B8%EC%9D%98%EC%A0%90" class="map-link" target="_blank">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.82537" data-lng="128.55106"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC/%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4-%EC%82%BC%EA%B1%B0%EB%A6%AC%EC%A0%90-r2JX/</id><title type="html">복권판매 삼거리점 / 부산 부산진구 부전동 262-10 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC/%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4-%EC%82%BC%EA%B1%B0%EB%A6%AC%EC%A0%90-r2JX/"/><published>2022-02-03T02:10:00+09:00</published><updated>2022-02-03T02:10:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[복권판매 삼거리점 주소 부산 부산진구 새싹로8번길 11 ( 부산 부산진구 부전동 262-10 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		복권판매 삼거리점
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							부산 부산진구 새싹로8번길 11
-									<p class="sub">( 부산 부산진구 부전동 262-10 <a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%B6%80%EC%A0%84%EB%8F%99%20262-10" data-addr="%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%B6%80%EC%A0%84%EB%8F%99%20262-10" class="map-link" target="_blank">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.15928" data-lng="129.05886"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%A4%91%EA%B5%AC/%EC%9D%B8%EC%9A%B0-r2Ki/</id><title type="html">인우 / 부산 중구 신창동1가 2-1 상가 102호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%A4%91%EA%B5%AC/%EC%9D%B8%EC%9A%B0-r2Ki/"/><published>2022-02-03T02:09:59+09:00</published><updated>2022-02-03T02:09:59+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[인우 주소 부산 중구 광복중앙로 31 상가 102호 ( 부산 중구 신창동1가 2-1 상가 102호 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		인우
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							부산 중구 광복중앙로 31 상가 102호
-									<p class="sub">( 부산 중구 신창동1가 2-1 상가 102호 <a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EC%8B%A0%EC%B0%BD%EB%8F%991%EA%B0%80%202-1%20%EC%83%81%EA%B0%80%20102%ED%98%B8" data-addr="%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EC%8B%A0%EC%B0%BD%EB%8F%991%EA%B0%80%202-1%20%EC%83%81%EA%B0%80%20102%ED%98%B8" class="map-link" target="_blank">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.102067" data-lng="129.030813"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%9A%A9%EC%9D%B8%EC%8B%9C/%EC%A7%80%EC%97%90%EC%8A%A425-gs25-%EC%9A%A9%EC%9D%B8%EC%98%81%EB%AC%B8%EB%A1%9C%EC%A0%90-xKqj/</id><title type="html">지에스25(GS25) 용인영문로점 / 경기 용인시 처인구 유방동 187 102호, 103호 (유방동) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%9A%A9%EC%9D%B8%EC%8B%9C/%EC%A7%80%EC%97%90%EC%8A%A425-gs25-%EC%9A%A9%EC%9D%B8%EC%98%81%EB%AC%B8%EB%A1%9C%EC%A0%90-xKqj/"/><published>2022-02-02T02:15:18+09:00</published><updated>2022-02-02T02:15:18+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[지에스25(GS25) 용인영문로점 주소 경기 용인시 처인구 영문로29번길 4 102호, 103호 (유방동) ( 경기 용인시 처인구 유방동 187 102호, 103호 (유방동) [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		지에스25(GS25) 용인영문로점
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							경기 용인시 처인구 영문로29번길 4 102호, 103호 (유방동)
-									<p class="sub">( 경기 용인시 처인구 유방동 187 102호, 103호 (유방동) <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%9C%A0%EB%B0%A9%EB%8F%99%20187%20102%ED%98%B8%2C%20103%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EC%B2%98%EC%9D%B8%EA%B5%AC%20%EC%9C%A0%EB%B0%A9%EB%8F%99%20187%20102%ED%98%B8%2C%20103%ED%98%B8" class="map-link" target="_blank">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.26807" data-lng="127.20921"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%8F%89%ED%83%9D%EC%8B%9C/%EC%86%A1%ED%83%84%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9-xKsI/</id><title type="html">송탄복권명당 / 경기 평택시 독곡동 360-15 104호 CU편의점 내 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%ED%8F%89%ED%83%9D%EC%8B%9C/%EC%86%A1%ED%83%84%EB%B3%B5%EA%B6%8C%EB%AA%85%EB%8B%B9-xKsI/"/><published>2022-02-02T02:15:14+09:00</published><updated>2022-02-02T02:15:14+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[송탄복권명당 주소 경기 평택시 경기대로 1581 104호 CU편의점 내 ( 경기 평택시 독곡동 360-15 104호 CU편의점 내 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		송탄복권명당
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							경기 평택시 경기대로 1581 104호 CU편의점 내
-									<p class="sub">( 경기 평택시 독곡동 360-15 104호 CU편의점 내 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EB%8F%85%EA%B3%A1%EB%8F%99%20360-15%20104%ED%98%B8%20CU%ED%8E%B8%EC%9D%98%EC%A0%90%20%EB%82%B4" data-addr="%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EB%8F%85%EA%B3%A1%EB%8F%99%20360-15%20104%ED%98%B8%20CU%ED%8E%B8%EC%9D%98%EC%A0%90%20%EB%82%B4" class="map-link" target="_blank">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.085571" data-lng="127.061936"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EB%B6%80%EC%B2%9C%EC%8B%9C/%EB%B3%B5%EA%B6%8C%EA%B1%B0%EB%B6%81%EB%B0%A9-xKm6/</id><title type="html">복권거북방 / 경기 부천시 심곡동 132-6 1층 일부 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EB%B6%80%EC%B2%9C%EC%8B%9C/%EB%B3%B5%EA%B6%8C%EA%B1%B0%EB%B6%81%EB%B0%A9-xKm6/"/><published>2022-02-02T02:15:04+09:00</published><updated>2022-02-02T02:15:04+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[복권거북방 주소 경기 부천시 원미로 41 1층 일부 ( 경기 부천시 심곡동 132-6 1층 일부 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		복권거북방
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							경기 부천시 원미로 41 1층 일부
-									<p class="sub">( 경기 부천시 심곡동 132-6 1층 일부 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%8B%AC%EA%B3%A1%EB%8F%99%20132-6%201%EC%B8%B5%20%EC%9D%BC%EB%B6%80" data-addr="%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%8B%AC%EA%B3%A1%EB%8F%99%20132-6%201%EC%B8%B5%20%EC%9D%BC%EB%B6%80" class="map-link" target="_blank">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="37.486483" data-lng="126.789249"></div>
 	</div>
 
 	
