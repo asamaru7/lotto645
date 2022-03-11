@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+#DaumWebMasterTool:0594d2e60dabe012b001ecb4d8004506490f470b31e1278e8c010ed228252d7a:RvGn9fKfg9WHzcFkIPO1fw==
+
 Sitemap: https://lotto.asamaru.net/sitemap.xml
