@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2022-07-03T08:05:25+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2022-07-04T04:34:06+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B4%91%EC%A7%84%EA%B5%AC/%EB%8C%80%EB%B0%95%EC%A7%91-kkEN/</id><title type="html">대박집 / 서울 광진구 중곡동 172-74 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B4%91%EC%A7%84%EA%B5%AC/%EB%8C%80%EB%B0%95%EC%A7%91-kkEN/"/><published>2022-07-04T02:07:36+09:00</published><updated>2022-07-04T02:07:36+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[대박집 주소 서울 광진구 능동로53길 41 1층 ( 서울 광진구 중곡동 172-74 1층 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		대박집
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							서울 광진구 능동로53길 41 1층
+									<p class="sub">( 서울 광진구 중곡동 172-74 1층 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EC%A4%91%EA%B3%A1%EB%8F%99%20172-74%201%EC%B8%B5" data-addr="%EC%84%9C%EC%9A%B8%20%EA%B4%91%EC%A7%84%EA%B5%AC%20%EC%A4%91%EA%B3%A1%EB%8F%99%20172-74%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.566943" data-lng="127.082193"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EC%A1%B0%EC%B9%98%EC%9B%90%EC%9D%8D/%EB%8D%94%ED%99%8D-tYL5/</id><title type="html">더홍 / 세종 조치원읍 죽림리 21-2 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%B8%EC%A2%85%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EC%8B%9C/%EC%A1%B0%EC%B9%98%EC%9B%90%EC%9D%8D/%EB%8D%94%ED%99%8D-tYL5/"/><published>2022-07-03T07:21:04+09:00</published><updated>2022-07-03T07:21:04+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[더홍 주소 세종 충현로 72 ( 세종 조치원읍 죽림리 21-2 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		더홍
@@ -3178,7 +3204,7 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/1021%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 1021회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/1021%ED%9A%8C%EC%B0%A8/"/><published>2022-06-25T20:40:00+09:00</published><updated>2022-06-25T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 1021 회 당첨결과 2022년 06월 25일 2022.06.25. 21:00 아사마루 로또6/45 1021회 당첨 결과 당첨번호 12 15 17 24 29 45 보너스 번호 16 총합 142 홀짝 4:2 저고 3:3 연속번호 0 AC값 8 소수 2 합성수 4 색상 파랑 3 빨강 2 초록 1 로또6/45 1021회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 12 2,108,962,250 원 25,307,547,000 원 2등 56 75,320,081 원 4,217,924,536 원 3등 2,461 1,713,907 원 4,217,925,127 원 4등 126,484 50,000 원 6,324,200,000 원 5등 2,182,497 5,000 원 10,912,485,000 원 총 판매액 101,960,162,000 원 로또6/45 1021회 1등 당첨판매점 구분 자동 상호 황금대박점 소재지 서울 노원구 하계동 180-11번지 1등 1 2등 15 구분 자동 상호 대만상사 소재지 서울 성북구 정릉동 394-3 1등 2 2등 10 구분 자동 상호 G마트 소재지 서울 영등포구 대림동 862-6 1등 5 2등 12 구분 자동 상호 야단법석 소재지 대구 북구 칠성동2가 127 123동112호(성광우방상가 내) 1등 1 구분 자동 상호 유연마트 소재지 대전 동구 신흥동 11-7번지 1등 2 2등 5 구분 자동 상호 대운복권 소재지 경기 성남시 중원구 성남동 4159 1등 4 2등 13 구분 수동 상호 스타복권방 소재지 충남 논산시 연무읍 마산리 531-22 1등 3 2등 4 구분 자동 상호 오복로또 소재지 충남 부여군 임천면 구교리 599-1 1등 1 구분 자동 상호 로또명당인주점 소재지 충남 아산시 인주면 신성리 430-2 1등 18 2등 85 구분 자동 상호 롯데마트 소재지 전북 군산시 나운동 345 1등 3 2등 18 구분 자동 상호 불타는복권 소재지 경북 영주시 풍기읍 성내리 33-1 1등 1 2등 7 구분 자동 상호 목화휴게소 소재지 경남 사천시 용현면 주문리 4 1등 17 2등 88 로또6/45 1021회 2등 당첨판매점 상호 소리로또복권방 소재지 서울 강북구 미아동 189-23 1층 101호 2등 2 상호 혜성슈퍼 소재지 서울 관악구 신림동 1535 2등 9 상호 로또 光복권 소재지 서울 구로구 개봉동 173-3 2등 6 상호 명당복권 소재지 서울 동대문구 용두동 711-4 가판 1등 4 2등 11 상호 종합가판점 소재지 서울 동대문구 전농동 620-67 청량리역 4번출구 가판점 1등 8 2등 62 상호 신문가판대뚝섬역에스콰이야본사앞 소재지 서울 성동구 성수동1가 656-297 2등 6 상호 황금알대박동행로또방 소재지 서울 성북구 상월곡동 26-5 코너 부동산 2등 3 상호 G마트 소재지 서울 영등포구 대림동 862-6 1등 5 2등 12 상호 종로3가1호선역2번출구가로판매점82호 소재지 서울 종로구 종로3가 23-1 가판 1등 4 2등 31 상호 대박찬스 소재지 서울 중랑구 면목동 103-7 1등 1 2등 6 상호 신암편의점 소재지 부산 금정구 남산동 225-13 복권판매점 1등 1 2등 11 상호 일등복권편의점 소재지 대구 달서구 본리동 2-16 1층 1등 27 2등 102 상호 일등복권편의점 소재지 대구 달서구 본리동 2-16 1층 1등 27 2등 102 상호 토큰박스(하나백화점앞) 소재지 대구 북구 노원동2가 386-5 1등 1 2등 3 상호 용현시장로또복권 소재지 인천 미추홀구 용현동 459-30 1등 2 2등 6 상호 로또앤커피 소재지 인천 미추홀구 학익동 260-47 2등 4 상호 희망로또 판매점 소재지 인천 부평구 산곡동 369-272 2등 4 상호 운수대통복권방 소재지 인천 서구 석남동 512-6 2등 17 상호 현대설비 소재지 인천 중구 중산동 1875-12 114호 2등 3 상호 좋은열매복권방 소재지 광주 북구 용봉동 1102-1 105호(용봉동) 2등 1 상호 행운로또방 소재지 광주 서구 풍암동 1132 우미아파트상가117동101호 2등 6 상호 영화유통(1등복권방) 소재지 울산 남구 달동 758 삼성아파트 상가 204-101 1등 7 2등 48 상호 보경복권 소재지 울산 북구 진장동 836 1등 3 2등 11 상호 김포로또 소재지 경기 김포시 사우동 944 한솔프라자101 1등 7 2등 7 상호 영진슈퍼 소재지 경기 성남시 분당구 야탑동 353-1 1등 1 2등 7 상호 삼일사 소재지 경기 성남시 중원구 상대원동 2980-19 2등 7 상호 매탄동슈퍼 소재지 경기 수원시 영통구 매탄동 111-1 1등 2 2등 7 상호 도깨비복권 소재지 경기 수원시 장안구 영화동 340-2 1층(영화동) 2등 3 상호 메가마트 소재지 경기 시흥시 정왕동 1861-3 메가쇼핑몰1층123호 1등 1 2등 5 상호 관양수촌가판점 소재지 경기 안양시 동안구 관양동 1439-5 건물 옆 버스정거장 앞 가판점 2등 1 상호 로또휴게실 소재지 경기 용인시 기흥구 보라동 378-1 1등 21 2등 82 상호 다된다로또복권 소재지 경기 평택시 청룡동 224-23 A동 4호(청룡동) 2등 3 상호 복돼지복권방 소재지 경기 화성시 우정읍 조암리 290-12 1등 1 2등 5 상호 기린로또 소재지 강원 인제군 기린면 현리 684-1 2등 1 상호 오대산복권 소재지 강원 평창군 진부면 하진부리 42-8 1층 1호 2등 2 상호 행운복권방공단오거리점 소재지 충북 청주시 흥덕구 복대동 107-11 1등 1 2등 5 상호 썬마트 소재지 충북 청주시 흥덕구 복대동 2719 1등 10 2등 24 상호 행운을주는사람들 소재지 충북 충주시 연수동 923 1층 복권방 1등 4 2등 17 상호 중앙사무기 소재지 충남 금산군 금산읍 중도리 503-4 2등 2 상호 로또명당해미점 소재지 충남 서산시 해미면 읍내리 295-4 1등 5 2등 25 상호 로또명당인주점 소재지 충남 아산시 인주면 신성리 430-2 1등 18 2등 85 상호 빛가람나눔슈퍼 소재지 전남 나주시 빛가람동 756-3 103호 1등 2 2등 10 상호 J스테이션복권방 소재지 전남 순천시 장천동 52-2 이마트24 시청점 2등 3 상호 우일슈퍼 소재지 전남 순천시 장천동 85-35 2등 4 상호 알짜마트왕지점 소재지 전남 순천시 조례동 1804 중흥파크상가 309-101호 1등 2 2등 6 상호 부흥청과식품점 소재지 경북 경산시 하양읍 금락리 118 우방3차상가 1등 4 2등 19 상호 세븐일레븐 구미구평센터점 소재지 경북 구미시 구평동 437-15 세븐일레븐구미구평센터점내 2등 1 상호 문경로또 소재지 경북 문경시 문경읍 하리 209-6 2등 1 상호 천하명당복권방 소재지 경남 거제시 옥포동 582 1등 7 2등 26 상호 이(E)24 삼계로또점 소재지 경남 김해시 삼계동 1462-9 102호 이마트편의점 2등 3 상호 행운드림스토어 소재지 경남 양산시 동면 석산리 1472-23 복권판매점 2등 5 상호 진양호 소재지 경남 진주시 평거동 660-28 1층 1등 2 2등 12 상호 로또플렉스 소재지 경남 창원시 의창구 소답동 133-21 2등 1]]></summary><content type="html"><![CDATA[
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/1021%ED%9A%8C%EC%B0%A8/</id><title type="html">로또6/45 1021회차 당첨 번호</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/1021%ED%9A%8C%EC%B0%A8/"/><published>2022-06-25T20:40:00+09:00</published><updated>2022-06-25T20:40:00+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또6/45 1021 회 당첨결과 2022년 06월 25일 2022.06.25. 21:00 아사마루 로또6/45 1021회 당첨 결과 당첨번호 12 15 17 24 29 45 보너스 번호 16 총합 142 홀짝 4:2 저고 3:3 연속번호 0 AC값 8 소수 2 합성수 4 색상 파랑 3 빨강 2 초록 1 로또6/45 1021회 당첨자 순위 당첨게임 수 당첨금액 총 당첨금액 1등 12 2,108,962,250 원 25,307,547,000 원 2등 56 75,320,081 원 4,217,924,536 원 3등 2,461 1,713,907 원 4,217,925,127 원 4등 126,484 50,000 원 6,324,200,000 원 5등 2,182,497 5,000 원 10,912,485,000 원 총 판매액 101,960,162,000 원 로또6/45 1021회 1등 당첨판매점 구분 자동 상호 황금대박점 소재지 서울 노원구 하계동 180-11번지 1등 1 2등 15 구분 자동 상호 대만상사 소재지 서울 성북구 정릉동 394-3 1등 2 2등 10 구분 자동 상호 G마트 소재지 서울 영등포구 대림동 862-6 1등 5 2등 12 구분 자동 상호 야단법석 소재지 대구 북구 칠성동2가 127 123동112호(성광우방상가 내) 1등 1 구분 자동 상호 유연마트 소재지 대전 동구 신흥동 11-7번지 1등 2 2등 5 구분 자동 상호 대운복권 소재지 경기 성남시 중원구 성남동 4159 1등 4 2등 13 구분 수동 상호 스타복권방 소재지 충남 논산시 연무읍 마산리 531-22 1등 3 2등 4 구분 자동 상호 오복로또 소재지 충남 부여군 임천면 구교리 599-1 1등 1 구분 자동 상호 로또명당인주점 소재지 충남 아산시 인주면 신성리 430-2 1등 18 2등 85 구분 자동 상호 롯데마트 소재지 전북 군산시 나운동 345 1등 3 2등 18 구분 자동 상호 불타는복권 소재지 경북 영주시 풍기읍 성내리 33-1 1등 1 2등 7 구분 자동 상호 목화휴게소 소재지 경남 사천시 용현면 주문리 4 1등 17 2등 88 로또6/45 1021회 2등 당첨판매점 상호 소리로또복권방 소재지 서울 강북구 미아동 189-23 1층 101호 2등 2 상호 혜성슈퍼 소재지 서울 관악구 신림동 1535 2등 9 상호 로또 光복권 소재지 서울 구로구 개봉동 173-3 2등 6 상호 명당복권 소재지 서울 동대문구 용두동 711-4 가판 1등 4 2등 11 상호 종합가판점 소재지 서울 동대문구 전농동 620-67 청량리역 4번출구 가판점 1등 8 2등 62 상호 신문가판대뚝섬역에스콰이야본사앞 소재지 서울 성동구 성수동1가 656-297 2등 6 상호 돈벼락맞는 황금알대박동행 로또방 소재지 서울 성북구 상월곡동 26-5 코너 부동산 2등 3 상호 G마트 소재지 서울 영등포구 대림동 862-6 1등 5 2등 12 상호 종로3가1호선역2번출구가로판매점82호 소재지 서울 종로구 종로3가 23-1 가판 1등 4 2등 31 상호 대박찬스 소재지 서울 중랑구 면목동 103-7 1등 1 2등 6 상호 신암편의점 소재지 부산 금정구 남산동 225-13 복권판매점 1등 1 2등 11 상호 일등복권편의점 소재지 대구 달서구 본리동 2-16 1층 1등 27 2등 102 상호 일등복권편의점 소재지 대구 달서구 본리동 2-16 1층 1등 27 2등 102 상호 토큰박스(하나백화점앞) 소재지 대구 북구 노원동2가 386-5 1등 1 2등 3 상호 용현시장로또복권 소재지 인천 미추홀구 용현동 459-30 1등 2 2등 6 상호 로또앤커피 소재지 인천 미추홀구 학익동 260-47 2등 4 상호 희망로또 판매점 소재지 인천 부평구 산곡동 369-272 2등 4 상호 운수대통복권방 소재지 인천 서구 석남동 512-6 2등 17 상호 현대설비 소재지 인천 중구 중산동 1875-12 114호 2등 3 상호 좋은열매복권방 소재지 광주 북구 용봉동 1102-1 105호(용봉동) 2등 1 상호 행운로또방 소재지 광주 서구 풍암동 1132 우미아파트상가117동101호 2등 6 상호 영화유통(1등복권방) 소재지 울산 남구 달동 758 삼성아파트 상가 204-101 1등 7 2등 48 상호 보경복권 소재지 울산 북구 진장동 836 1등 3 2등 11 상호 김포로또 소재지 경기 김포시 사우동 944 한솔프라자101 1등 7 2등 7 상호 영진슈퍼 소재지 경기 성남시 분당구 야탑동 353-1 1등 1 2등 7 상호 삼일사 소재지 경기 성남시 중원구 상대원동 2980-19 2등 7 상호 매탄동슈퍼 소재지 경기 수원시 영통구 매탄동 111-1 1등 2 2등 7 상호 도깨비복권 소재지 경기 수원시 장안구 영화동 340-2 1층(영화동) 2등 3 상호 메가마트 소재지 경기 시흥시 정왕동 1861-3 메가쇼핑몰1층123호 1등 1 2등 5 상호 관양수촌가판점 소재지 경기 안양시 동안구 관양동 1439-5 건물 옆 버스정거장 앞 가판점 2등 1 상호 로또휴게실 소재지 경기 용인시 기흥구 보라동 378-1 1등 21 2등 82 상호 다된다로또복권 소재지 경기 평택시 청룡동 224-23 A동 4호(청룡동) 2등 3 상호 복돼지복권방 소재지 경기 화성시 우정읍 조암리 290-12 1등 1 2등 5 상호 기린로또 소재지 강원 인제군 기린면 현리 684-1 2등 1 상호 오대산복권 소재지 강원 평창군 진부면 하진부리 42-8 1층 1호 2등 2 상호 행운복권방공단오거리점 소재지 충북 청주시 흥덕구 복대동 107-11 1등 1 2등 5 상호 썬마트 소재지 충북 청주시 흥덕구 복대동 2719 1등 10 2등 24 상호 행운을주는사람들 소재지 충북 충주시 연수동 923 1층 복권방 1등 4 2등 17 상호 중앙사무기 소재지 충남 금산군 금산읍 중도리 503-4 2등 2 상호 로또명당해미점 소재지 충남 서산시 해미면 읍내리 295-4 1등 5 2등 25 상호 로또명당인주점 소재지 충남 아산시 인주면 신성리 430-2 1등 18 2등 85 상호 빛가람나눔슈퍼 소재지 전남 나주시 빛가람동 756-3 103호 1등 2 2등 10 상호 J스테이션복권방 소재지 전남 순천시 장천동 52-2 이마트24 시청점 2등 3 상호 우일슈퍼 소재지 전남 순천시 장천동 85-35 2등 4 상호 알짜마트왕지점 소재지 전남 순천시 조례동 1804 중흥파크상가 309-101호 1등 2 2등 6 상호 부흥청과식품점 소재지 경북 경산시 하양읍 금락리 118 우방3차상가 1등 4 2등 19 상호 세븐일레븐 구미구평센터점 소재지 경북 구미시 구평동 437-15 세븐일레븐구미구평센터점내 2등 1 상호 문경로또 소재지 경북 문경시 문경읍 하리 209-6 2등 1 상호 천하명당복권방 소재지 경남 거제시 옥포동 582 1등 7 2등 26 상호 이(E)24 삼계로또점 소재지 경남 김해시 삼계동 1462-9 102호 이마트편의점 2등 3 상호 행운드림스토어 소재지 경남 양산시 동면 석산리 1472-23 복권판매점 2등 5 상호 진양호 소재지 경남 진주시 평거동 660-28 1층 1등 2 2등 12 상호 로또플렉스 소재지 경남 창원시 의창구 소답동 133-21 2등 1]]></summary><content type="html"><![CDATA[
 <article id="cArticle" class="hentry">
 	<div class="dTitle">
 		<h2 class="entry-title daum-wm-title"><span>로또6/45</span> <strong>1021</strong> 회 당첨결과</h2>
@@ -3674,7 +3700,7 @@
 	</li>																								<li class="store-row">
 		<dl class="name">
 		<dt>상호</dt>
-		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/성북구/황금알나눔로또-ka1s/">황금알대박동행로또방</a></dd>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/서울특별시/성북구/황금알나눔로또-ka1s/">돈벼락맞는 황금알대박동행 로또방</a></dd>
 	</dl>
 	<dl class="address">
 		<dt>소재지</dt>
@@ -4494,32 +4520,6 @@
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
 </article>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9-t8L6/</id><title type="html">행운복권방 / 울산 남구 신정동 265-46 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9A%B8%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C%EB%B0%A9-t8L6/"/><published>2022-06-23T02:09:45+09:00</published><updated>2022-06-23T02:09:45+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행운복권방 주소 울산 남구 팔등로 124 ( 울산 남구 신정동 265-46 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		행운복권방
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							울산 남구 팔등로 124
-									<p class="sub">( 울산 남구 신정동 265-46 <a href="https://map.naver.com/v5/search/%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EC%8B%A0%EC%A0%95%EB%8F%99%20265-46" data-addr="%EC%9A%B8%EC%82%B0%20%EB%82%A8%EA%B5%AC%20%EC%8B%A0%EC%A0%95%EB%8F%99%20265-46" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.4422" data-lng="128.268059"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
 
 
 </feed>
