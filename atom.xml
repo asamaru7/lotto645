@@ -1,7 +1,163 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2022-12-07T04:36:38+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<title>로또6/45 당첨 정보</title><id>https://lotto.asamaru.net/</id><updated>2022-12-08T04:36:44+09:00</updated><subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle><link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" /><link href="https://lotto.asamaru.net/atom.xml" rel="self" type="application/atom+xml" /><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EB%8F%99%EA%B5%AC/%EB%AA%A8%EC%84%B8-%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90-rsMD/</id><title type="html">모세 로또판매점 / 인천 남동구 논현동 636-7 103호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EB%8F%99%EA%B5%AC/%EB%AA%A8%EC%84%B8-%EB%A1%9C%EB%98%90%ED%8C%90%EB%A7%A4%EC%A0%90-rsMD/"/><published>2022-12-08T02:10:45+09:00</published><updated>2022-12-08T02:10:45+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[모세 로또판매점 주소 인천 남동구 호구포로 210 103호 ( 인천 남동구 논현동 636-7 103호 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		모세 로또판매점
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							인천 남동구 호구포로 210 103호
+									<p class="sub">( 인천 남동구 논현동 636-7 103호 <a href="https://map.naver.com/v5/search/%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%8F%99%20636-7%20103%ED%98%B8" data-addr="%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EB%85%BC%ED%98%84%EB%8F%99%20636-7%20103%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.401538" data-lng="126.709753"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%ED%99%94%EC%88%98%EB%A1%9C%EB%98%90-rsMJ/</id><title type="html">화수로또 / 인천 동구 화수동 289-48 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%ED%99%94%EC%88%98%EB%A1%9C%EB%98%90-rsMJ/"/><published>2022-12-08T02:10:45+09:00</published><updated>2022-12-08T02:10:45+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[화수로또 주소 인천 동구 화도진로 106 1층 ( 인천 동구 화수동 289-48 1층 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		화수로또
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							인천 동구 화도진로 106 1층
+									<p class="sub">( 인천 동구 화수동 289-48 1층 <a href="https://map.naver.com/v5/search/%EC%9D%B8%EC%B2%9C%20%EB%8F%99%EA%B5%AC%20%ED%99%94%EC%88%98%EB%8F%99%20289-48%201%EC%B8%B5" data-addr="%EC%9D%B8%EC%B2%9C%20%EB%8F%99%EA%B5%AC%20%ED%99%94%EC%88%98%EB%8F%99%20289-48%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.480594" data-lng="126.628956"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%EB%91%90%EA%BA%BC%EB%B9%84%EB%A1%9C%EB%98%90-rsMK/</id><title type="html">두꺼비로또 / 인천 동구 송현동 100-135 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%EB%91%90%EA%BA%BC%EB%B9%84%EB%A1%9C%EB%98%90-rsMK/"/><published>2022-12-08T02:10:42+09:00</published><updated>2022-12-08T02:10:42+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[두꺼비로또 주소 인천 동구 화도진로43번길 15-2 1층 ( 인천 동구 송현동 100-135 1층 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		두꺼비로또
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							인천 동구 화도진로43번길 15-2 1층
+									<p class="sub">( 인천 동구 송현동 100-135 1층 <a href="https://map.naver.com/v5/search/%EC%9D%B8%EC%B2%9C%20%EB%8F%99%EA%B5%AC%20%EC%86%A1%ED%98%84%EB%8F%99%20100-135%201%EC%B8%B5" data-addr="%EC%9D%B8%EC%B2%9C%20%EB%8F%99%EA%B5%AC%20%EC%86%A1%ED%98%84%EB%8F%99%20100-135%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.475908" data-lng="126.632812"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EB%8F%99%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C-rsMC/</id><title type="html">행운복권 / 인천 남동구 간석동 617-30 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%82%A8%EB%8F%99%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%B3%B5%EA%B6%8C-rsMC/"/><published>2022-12-08T02:10:41+09:00</published><updated>2022-12-08T02:10:41+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행운복권 주소 인천 남동구 석정로 511 1층 ( 인천 남동구 간석동 617-30 1층 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		행운복권
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							인천 남동구 석정로 511 1층
+									<p class="sub">( 인천 남동구 간석동 617-30 1층 <a href="https://map.naver.com/v5/search/%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99%20617-30%201%EC%B8%B5" data-addr="%EC%9D%B8%EC%B2%9C%20%EB%82%A8%EB%8F%99%EA%B5%AC%20%EA%B0%84%EC%84%9D%EB%8F%99%20617-30%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.465881" data-lng="126.692523"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B3%84%EC%96%91%EA%B5%AC/%EB%B3%B5%EC%A3%BC%EB%A8%B8%EB%8B%88-%EC%9E%91%EC%A0%84%EC%A0%90-rsM6/</id><title type="html">복주머니 작전점 / 인천 계양구 작전동 862-51 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B3%84%EC%96%91%EA%B5%AC/%EB%B3%B5%EC%A3%BC%EB%A8%B8%EB%8B%88-%EC%9E%91%EC%A0%84%EC%A0%90-rsM6/"/><published>2022-12-08T02:10:38+09:00</published><updated>2022-12-08T02:10:38+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[복주머니 작전점 주소 인천 계양구 봉오대로691번길 13 1층 ( 인천 계양구 작전동 862-51 1층 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		복주머니 작전점
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							인천 계양구 봉오대로691번길 13 1층
+									<p class="sub">( 인천 계양구 작전동 862-51 1층 <a href="https://map.naver.com/v5/search/%EC%9D%B8%EC%B2%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%EC%9E%91%EC%A0%84%EB%8F%99%20862-51%201%EC%B8%B5" data-addr="%EC%9D%B8%EC%B2%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%EC%9E%91%EC%A0%84%EB%8F%99%20862-51%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.532032" data-lng="126.725703"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
+<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B3%84%EC%96%91%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C-rsM4/</id><title type="html">행운로또복권 / 인천 계양구 작전동 853-31 105호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%9D%B8%EC%B2%9C%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B3%84%EC%96%91%EA%B5%AC/%ED%96%89%EC%9A%B4%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C-rsM4/"/><published>2022-12-08T02:10:38+09:00</published><updated>2022-12-08T02:10:38+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[행운로또복권 주소 인천 계양구 계양대로 101 105호 ( 인천 계양구 작전동 853-31 105호 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
+	<h2>
+		행운로또복권
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							인천 계양구 계양대로 101 105호
+									<p class="sub">( 인천 계양구 작전동 853-31 105호 <a href="https://map.naver.com/v5/search/%EC%9D%B8%EC%B2%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%EC%9E%91%EC%A0%84%EB%8F%99%20853-31%20105%ED%98%B8" data-addr="%EC%9D%B8%EC%B2%9C%20%EA%B3%84%EC%96%91%EA%B5%AC%20%EC%9E%91%EC%A0%84%EB%8F%99%20853-31%20105%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="37.532752" data-lng="126.722244"></div>
+	</div>
+
+	
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></content></entry>
 <entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%A4%91%EA%B5%AC/%EC%84%BC%ED%8A%B8%EB%9F%B4-%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9-rSJW/</id><title type="html">센트럴 로또명당 / 대구 중구 대봉동 89-9 (폐점) - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%A4%91%EA%B5%AC/%EC%84%BC%ED%8A%B8%EB%9F%B4-%EB%A1%9C%EB%98%90%EB%AA%85%EB%8B%B9-rSJW/"/><published>2022-12-07T02:10:57+09:00</published><updated>2022-12-07T02:10:57+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[센트럴 로또명당 폐점 주소 대구 중구 대봉로 233 ( 대구 중구 대봉동 89-9 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
 	<h2>
 		센트럴 로또명당
@@ -96,162 +252,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="35.830879" data-lng="128.551511"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%81%EA%B5%AC/%ED%9E%88%ED%8A%B8%EB%A1%9C%EB%98%90-rSIy/</id><title type="html">히트로또 / 대구 북구 산격동 801-4 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%81%EA%B5%AC/%ED%9E%88%ED%8A%B8%EB%A1%9C%EB%98%90-rSIy/"/><published>2022-12-07T02:10:47+09:00</published><updated>2022-12-07T02:10:47+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[히트로또 주소 대구 북구 연암로 143-2 ( 대구 북구 산격동 801-4 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		히트로또
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							대구 북구 연암로 143-2
-									<p class="sub">( 대구 북구 산격동 801-4 <a href="https://map.naver.com/v5/search/%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%EC%82%B0%EA%B2%A9%EB%8F%99%20801-4" data-addr="%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%EC%82%B0%EA%B2%A9%EB%8F%99%20801-4" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.897483" data-lng="128.595281"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%81%EA%B5%AC/%ED%83%9C%EC%84%B1%EB%A1%9C%EB%98%90-rSJ5/</id><title type="html">태성로또 / 대구 북구 태전동 483-1 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%81%EA%B5%AC/%ED%83%9C%EC%84%B1%EB%A1%9C%EB%98%90-rSJ5/"/><published>2022-12-07T02:10:46+09:00</published><updated>2022-12-07T02:10:46+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[태성로또 주소 대구 북구 칠곡중앙대로 220 ( 대구 북구 태전동 483-1 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		태성로또
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							대구 북구 칠곡중앙대로 220
-									<p class="sub">( 대구 북구 태전동 483-1 <a href="https://map.naver.com/v5/search/%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%ED%83%9C%EC%A0%84%EB%8F%99%20483-1" data-addr="%EB%8C%80%EA%B5%AC%20%EB%B6%81%EA%B5%AC%20%ED%83%9C%EC%A0%84%EB%8F%99%20483-1" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.915685" data-lng="128.548681"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC/%EB%A1%9C%EB%98%90%EC%84%B1%EC%A7%80-r2Lf/</id><title type="html">로또성지 / 부산 부산진구 당감동 791 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC/%EB%A1%9C%EB%98%90%EC%84%B1%EC%A7%80-r2Lf/"/><published>2022-12-06T02:09:33+09:00</published><updated>2022-12-06T02:09:33+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[로또성지 주소 부산 부산진구 백양관문로 104-1 ( 부산 부산진구 당감동 791 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		로또성지
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							부산 부산진구 백양관문로 104-1
-									<p class="sub">( 부산 부산진구 당감동 791 <a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%8B%B9%EA%B0%90%EB%8F%99%20791" data-addr="%EB%B6%80%EC%82%B0%20%EB%B6%80%EC%82%B0%EC%A7%84%EA%B5%AC%20%EB%8B%B9%EA%B0%90%EB%8F%99%20791" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.168536" data-lng="129.028557"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B0%95%EC%84%9C%EA%B5%AC/%EB%AF%B8%EC%86%8C%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2L4/</id><title type="html">미소복권방 / 부산 강서구 명지동 3440-4 104호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EA%B0%95%EC%84%9C%EA%B5%AC/%EB%AF%B8%EC%86%8C%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2L4/"/><published>2022-12-06T02:09:31+09:00</published><updated>2022-12-06T02:09:31+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[미소복권방 주소 부산 강서구 명지국제8로 286 104호 ( 부산 강서구 명지동 3440-4 104호 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		미소복권방
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							부산 강서구 명지국제8로 286 104호
-									<p class="sub">( 부산 강서구 명지동 3440-4 104호 <a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%AA%85%EC%A7%80%EB%8F%99%203440-4%20104%ED%98%B8" data-addr="%EB%B6%80%EC%82%B0%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%AA%85%EC%A7%80%EB%8F%99%203440-4%20104%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.097452" data-lng="128.924022"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%A4%91%EA%B5%AC/%EC%9D%B8%EC%83%9D%EC%97%AD%EC%A0%84-%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2Mb/</id><title type="html">인생역전 복권방 / 부산 중구 신창동2가 2-12 1층 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%A4%91%EA%B5%AC/%EC%9D%B8%EC%83%9D%EC%97%AD%EC%A0%84-%EB%B3%B5%EA%B6%8C%EB%B0%A9-r2Mb/"/><published>2022-12-06T02:09:30+09:00</published><updated>2022-12-06T02:09:30+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[인생역전 복권방 주소 부산 중구 광복로39번길 34 1층 ( 부산 중구 신창동2가 2-12 1층 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		인생역전 복권방
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							부산 중구 광복로39번길 34 1층
-									<p class="sub">( 부산 중구 신창동2가 2-12 1층 <a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EC%8B%A0%EC%B0%BD%EB%8F%992%EA%B0%80%202-12%201%EC%B8%B5" data-addr="%EB%B6%80%EC%82%B0%20%EC%A4%91%EA%B5%AC%20%EC%8B%A0%EC%B0%BD%EB%8F%992%EA%B0%80%202-12%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="39.102294" data-lng="129.029207"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></content></entry>
-<entry><id>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%82%AC%ED%95%98%EA%B5%AC/%EC%82%BC%EC%9C%A1%EA%B5%AC-r2M6/</id><title type="html">삼육구 / 부산 사하구 괴정동 932-11 내제조표17445호 - 로또 판매점</title><link rel="alternate" type="text/html" href="https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%82%AC%ED%95%98%EA%B5%AC/%EC%82%BC%EC%9C%A1%EA%B5%AC-r2M6/"/><published>2022-12-06T02:09:27+09:00</published><updated>2022-12-06T02:09:27+09:00</updated><author><name>아사마루</name><uri>https://lotto.asamaru.net/</uri><email>asamaru@asamaru.net</email></author><summary><![CDATA[삼육구 주소 부산 사하구 낙동대로 236 내제조표17445호 ( 부산 사하구 괴정동 932-11 내제조표17445호 [지도보기] )]]></summary><content type="html"><![CDATA[<section class="cStoreBox">
-	<h2>
-		삼육구
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							부산 사하구 낙동대로 236 내제조표17445호
-									<p class="sub">( 부산 사하구 괴정동 932-11 내제조표17445호 <a href="https://map.naver.com/v5/search/%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EA%B4%B4%EC%A0%95%EB%8F%99%20932-11%20%EB%82%B4%EC%A0%9C%EC%A1%B0%ED%91%9C17445%ED%98%B8" data-addr="%EB%B6%80%EC%82%B0%20%EC%82%AC%ED%95%98%EA%B5%AC%20%EA%B4%B4%EC%A0%95%EB%8F%99%20932-11%20%EB%82%B4%EC%A0%9C%EC%A1%B0%ED%91%9C17445%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="35.099719" data-lng="128.991134"></div>
 	</div>
 
 	
