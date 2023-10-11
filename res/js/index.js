@@ -1,1 +1,1 @@
-$((function(){$.terminal.schedule.selector.init()}));
+"use strict";$((function(){$.terminal.schedule.selector.init()}));
