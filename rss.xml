@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>로또6/45 당첨 정보</title><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description><image><title>로또6/45 당첨 정보</title><url>https://lotto.asamaru.net/res/img/icon/icon.png</url><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Thu, 09 Nov 2023 04:35:05 +0900</pubDate><item><title>망리단길 / 서울 마포구 망원동 413-43 1층(망원동) - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:28 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EB%A7%88%ED%8F%AC%EA%B5%AC/%EB%A7%9D%EB%A6%AC%EB%8B%A8%EA%B8%B8-kkLn/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EB%A7%88%ED%8F%AC%EA%B5%AC/%EB%A7%9D%EB%A6%AC%EB%8B%A8%EA%B8%B8-kkLn/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+<title>로또6/45 당첨 정보</title><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description><image><title>로또6/45 당첨 정보</title><url>https://lotto.asamaru.net/res/img/icon/icon.png</url><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Fri, 10 Nov 2023 04:35:02 +0900</pubDate><item><title>망포역 로또복권방 / 경기 수원시 영통구 망포동 41-1 1동 114호 - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:11:19 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%88%98%EC%9B%90%EC%8B%9C/%EB%A7%9D%ED%8F%AC%EC%97%AD-%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL1J/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%88%98%EC%9B%90%EC%8B%9C/%EB%A7%9D%ED%8F%AC%EC%97%AD-%EB%A1%9C%EB%98%90%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL1J/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		망리단길
+		망포역 로또복권방
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 마포구 포은로 70-1 1층(망원동)
-									<p class="sub">( 서울 마포구 망원동 413-43 1층(망원동) <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EB%A7%9D%EC%9B%90%EB%8F%99%20413-43%201%EC%B8%B5" data-addr="%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EB%A7%9D%EC%9B%90%EB%8F%99%20413-43%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 수원시 영통구 덕영대로 1478 1동 114호
+									<p class="sub">( 경기 수원시 영통구 망포동 41-1 1동 114호 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EB%A7%9D%ED%8F%AC%EB%8F%99%2041-1%201%EB%8F%99%20114%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%98%81%ED%86%B5%EA%B5%AC%20%EB%A7%9D%ED%8F%AC%EB%8F%99%2041-1%201%EB%8F%99%20114%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.553539" data-lng="126.906135"></div>
+		<div id="map" class="dMap" data-lat="37.245165" data-lng="127.052486"></div>
 	</div>
 
 	
@@ -26,21 +26,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>청계산입구복권판매점/슈퍼 / 서울 서초구 신원동 662 106-2호 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:25 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%84%9C%EC%B4%88%EA%B5%AC/%EC%B2%AD%EA%B3%84%EC%82%B0%EC%9E%85%EA%B5%AC%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90-%EC%8A%88%ED%8D%BC-kkMR/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%84%9C%EC%B4%88%EA%B5%AC/%EC%B2%AD%EA%B3%84%EC%82%B0%EC%9E%85%EA%B5%AC%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%A0%90-%EC%8A%88%ED%8D%BC-kkMR/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>백억복권 / 경기 성남시 분당구 야탑동 151 상가동 1층 108,108-1호(야탑동, 분당테크노파크) - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:58 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%EB%B0%B1%EC%96%B5%EB%B3%B5%EA%B6%8C-xL0u/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%EB%B0%B1%EC%96%B5%EB%B3%B5%EA%B6%8C-xL0u/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		청계산입구복권판매점/슈퍼
+		백억복권
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 서초구 청계산로 217 106-2호
-									<p class="sub">( 서울 서초구 신원동 662 106-2호 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%8B%A0%EC%9B%90%EB%8F%99%20662%20106-2%ED%98%B8" data-addr="%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%8B%A0%EC%9B%90%EB%8F%99%20662%20106-2%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 성남시 분당구 판교로 700 상가동 1층 108,108-1호(야탑동, 분당테크노파크)
+									<p class="sub">( 경기 성남시 분당구 야탑동 151 상가동 1층 108,108-1호(야탑동, 분당테크노파크) <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%EC%95%BC%ED%83%91%EB%8F%99%20151%20%EC%83%81%EA%B0%80%EB%8F%99%201%EC%B8%B5%20108%2C108-1%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EB%B6%84%EB%8B%B9%EA%B5%AC%20%EC%95%BC%ED%83%91%EB%8F%99%20151%20%EC%83%81%EA%B0%80%EB%8F%99%201%EC%B8%B5%20108%2C108-1%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.446244" data-lng="127.057056"></div>
+		<div id="map" class="dMap" data-lat="37.404718" data-lng="127.151616"></div>
 	</div>
 
 	
@@ -51,21 +51,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>일조복권 / 서울 송파구 마천동 190-42 1층 2호 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:15 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%86%A1%ED%8C%8C%EA%B5%AC/%EC%9D%BC%EC%A1%B0%EB%B3%B5%EA%B6%8C-kkNh/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%86%A1%ED%8C%8C%EA%B5%AC/%EC%9D%BC%EC%A1%B0%EB%B3%B5%EA%B6%8C-kkNh/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>복돼지복권방 / 경기 용인시 기흥구 상하동 461 1층 110호(상하동, 조영프라자) - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:58 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%9A%A9%EC%9D%B8%EC%8B%9C/%EB%B3%B5%EB%8F%BC%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL39/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%9A%A9%EC%9D%B8%EC%8B%9C/%EB%B3%B5%EB%8F%BC%EC%A7%80%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL39/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		일조복권
+		복돼지복권방
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 송파구 마천로51가길 2 1층 2호
-									<p class="sub">( 서울 송파구 마천동 190-42 1층 2호 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EB%A7%88%EC%B2%9C%EB%8F%99%20190-42%201%EC%B8%B5%202%ED%98%B8" data-addr="%EC%84%9C%EC%9A%B8%20%EC%86%A1%ED%8C%8C%EA%B5%AC%20%EB%A7%88%EC%B2%9C%EB%8F%99%20190-42%201%EC%B8%B5%202%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 용인시 기흥구 어정로 100 1층 110호(상하동, 조영프라자)
+									<p class="sub">( 경기 용인시 기흥구 상하동 461 1층 110호(상하동, 조영프라자) <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EC%83%81%ED%95%98%EB%8F%99%20461%201%EC%B8%B5%20110%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%9A%A9%EC%9D%B8%EC%8B%9C%20%EA%B8%B0%ED%9D%A5%EA%B5%AC%20%EC%83%81%ED%95%98%EB%8F%99%20461%201%EC%B8%B5%20110%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.497278" data-lng="127.15364"></div>
+		<div id="map" class="dMap" data-lat="37.27437" data-lng="127.14081"></div>
 	</div>
 
 	
@@ -76,21 +76,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>미라클 로또 / 서울 서초구 서초동 1360-47 101호 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:14 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%84%9C%EC%B4%88%EA%B5%AC/%EB%AF%B8%EB%9D%BC%ED%81%B4-%EB%A1%9C%EB%98%90-kkMZ/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%84%9C%EC%B4%88%EA%B5%AC/%EB%AF%B8%EB%9D%BC%ED%81%B4-%EB%A1%9C%EB%98%90-kkMZ/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>신중동 진대운로또점 / 경기 부천시 중동 1137-5 1층 101호 - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:57 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EB%B6%80%EC%B2%9C%EC%8B%9C/%EC%8B%A0%EC%A4%91%EB%8F%99-%EC%A7%84%EB%8C%80%EC%9A%B4%EB%A1%9C%EB%98%90%EC%A0%90-xKzs/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EB%B6%80%EC%B2%9C%EC%8B%9C/%EC%8B%A0%EC%A4%91%EB%8F%99-%EC%A7%84%EB%8C%80%EC%9A%B4%EB%A1%9C%EB%98%90%EC%A0%90-xKzs/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		미라클 로또
+		신중동 진대운로또점
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 서초구 남부순환로347길 42-4 101호
-									<p class="sub">( 서울 서초구 서초동 1360-47 101호 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%84%9C%EC%B4%88%EB%8F%99%201360-47%20101%ED%98%B8" data-addr="%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%B4%88%EA%B5%AC%20%EC%84%9C%EC%B4%88%EB%8F%99%201360-47%20101%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 부천시 중동로248번길 121-9 1층 101호
+									<p class="sub">( 경기 부천시 중동 1137-5 1층 101호 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%A4%91%EB%8F%99%201137-5%201%EC%B8%B5%20101%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%A4%91%EB%8F%99%201137-5%201%EC%B8%B5%20101%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.48611" data-lng="127.03139"></div>
+		<div id="map" class="dMap" data-lat="37.501453" data-lng="126.775247"></div>
 	</div>
 
 	
@@ -101,21 +101,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>사러가 로또 명당 / 서울 영등포구 신길동 234-5 1층 제1호 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:14 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC/%EC%82%AC%EB%9F%AC%EA%B0%80-%EB%A1%9C%EB%98%90-%EB%AA%85%EB%8B%B9-kkOV/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC/%EC%82%AC%EB%9F%AC%EA%B0%80-%EB%A1%9C%EB%98%90-%EB%AA%85%EB%8B%B9-kkOV/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>동행(로또) / 경기 부천시 심곡본동 737-4 3호 - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:53 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EB%B6%80%EC%B2%9C%EC%8B%9C/%EB%8F%99%ED%96%89-%EB%A1%9C%EB%98%90-xKzV/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EB%B6%80%EC%B2%9C%EC%8B%9C/%EB%8F%99%ED%96%89-%EB%A1%9C%EB%98%90-xKzV/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		사러가 로또 명당
+		동행(로또)
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 영등포구 신길로 159 1층 제1호
-									<p class="sub">( 서울 영등포구 신길동 234-5 1층 제1호 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%8B%A0%EA%B8%B8%EB%8F%99%20234-5%201%EC%B8%B5%20%EC%A0%9C1%ED%98%B8" data-addr="%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%8B%A0%EA%B8%B8%EB%8F%99%20234-5%201%EC%B8%B5%20%EC%A0%9C1%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 부천시 경인로 246-1 3호
+									<p class="sub">( 경기 부천시 심곡본동 737-4 3호 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%8B%AC%EA%B3%A1%EB%B3%B8%EB%8F%99%20737-4%203%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EB%B6%80%EC%B2%9C%EC%8B%9C%20%EC%8B%AC%EA%B3%A1%EB%B3%B8%EB%8F%99%20737-4%203%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.506486" data-lng="126.910865"></div>
+		<div id="map" class="dMap" data-lat="37.482928" data-lng="126.782848"></div>
 	</div>
 
 	
@@ -126,21 +126,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>채채로터리 / 서울 강서구 방화동 830-1 1층 104호(에어뷰오피스텔) - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:11 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B0%95%EC%84%9C%EA%B5%AC/%EC%B1%84%EC%B1%84%EB%A1%9C%ED%84%B0%EB%A6%AC-kkJP/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B0%95%EC%84%9C%EA%B5%AC/%EC%B1%84%EC%B1%84%EB%A1%9C%ED%84%B0%EB%A6%AC-kkJP/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>대박로또 / 경기 안양시 동안구 호계동 967 1층 109호(호계동) - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:49 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%95%88%EC%96%91%EC%8B%9C/%EB%8C%80%EB%B0%95%EB%A1%9C%EB%98%90-xL2R/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%95%88%EC%96%91%EC%8B%9C/%EB%8C%80%EB%B0%95%EB%A1%9C%EB%98%90-xL2R/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		채채로터리
+		대박로또
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 강서구 금낭화로 136 1층 104호(에어뷰오피스텔)
-									<p class="sub">( 서울 강서구 방화동 830-1 1층 104호(에어뷰오피스텔) <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%B0%A9%ED%99%94%EB%8F%99%20830-1%201%EC%B8%B5%20104%ED%98%B8" data-addr="%EC%84%9C%EC%9A%B8%20%EA%B0%95%EC%84%9C%EA%B5%AC%20%EB%B0%A9%ED%99%94%EB%8F%99%20830-1%201%EC%B8%B5%20104%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 안양시 동안구 흥안대로 96 1층 109호(호계동)
+									<p class="sub">( 경기 안양시 동안구 호계동 967 1층 109호(호계동) <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%96%91%EC%8B%9C%20%EB%8F%99%EC%95%88%EA%B5%AC%20%ED%98%B8%EA%B3%84%EB%8F%99%20967%201%EC%B8%B5%20109%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%96%91%EC%8B%9C%20%EB%8F%99%EC%95%88%EA%B5%AC%20%ED%98%B8%EA%B3%84%EB%8F%99%20967%201%EC%B8%B5%20109%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.57726" data-lng="126.812804"></div>
+		<div id="map" class="dMap" data-lat="37.36947" data-lng="126.955718"></div>
 	</div>
 
 	
@@ -151,21 +151,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>마니팜 / 서울 관악구 신림동 1680-31 1층 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:09 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B4%80%EC%95%85%EA%B5%AC/%EB%A7%88%EB%8B%88%ED%8C%9C-kkJU/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B4%80%EC%95%85%EA%B5%AC/%EB%A7%88%EB%8B%88%ED%8C%9C-kkJU/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>호매실복권방 / 경기 수원시 권선구 금곡동 1118-3 1층 106호 - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:49 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%88%98%EC%9B%90%EC%8B%9C/%ED%98%B8%EB%A7%A4%EC%8B%A4%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL1c/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%88%98%EC%9B%90%EC%8B%9C/%ED%98%B8%EB%A7%A4%EC%8B%A4%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL1c/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		마니팜
+		호매실복권방
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 관악구 문성로 114 1층
-									<p class="sub">( 서울 관악구 신림동 1680-31 1층 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%8B%A0%EB%A6%BC%EB%8F%99%201680-31%201%EC%B8%B5" data-addr="%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%8B%A0%EB%A6%BC%EB%8F%99%201680-31%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 수원시 권선구 금곡로196번길 15 1층 106호
+									<p class="sub">( 경기 수원시 권선구 금곡동 1118-3 1층 106호 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EA%B8%88%EA%B3%A1%EB%8F%99%201118-3%201%EC%B8%B5%20106%ED%98%B8" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EA%B8%88%EA%B3%A1%EB%8F%99%201118-3%201%EC%B8%B5%20106%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.477702" data-lng="126.916208"></div>
+		<div id="map" class="dMap" data-lat="37.273046" data-lng="126.952712"></div>
 	</div>
 
 	
@@ -176,21 +176,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>씨유 관악해오름점 / 서울 관악구 신림동 1475-14 1층 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:08 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B4%80%EC%95%85%EA%B5%AC/%EC%94%A8%EC%9C%A0-%EA%B4%80%EC%95%85%ED%95%B4%EC%98%A4%EB%A6%84%EC%A0%90-kkJS/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B4%80%EC%95%85%EA%B5%AC/%EC%94%A8%EC%9C%A0-%EA%B4%80%EC%95%85%ED%95%B4%EC%98%A4%EB%A6%84%EC%A0%90-kkJS/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>으뜸복권판매장 / 경기 고양시 덕양구 삼송동 60-1 - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:48 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/%EC%9C%BC%EB%9C%B8%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%9E%A5-xKyK/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EA%B3%A0%EC%96%91%EC%8B%9C/%EC%9C%BC%EB%9C%B8%EB%B3%B5%EA%B6%8C%ED%8C%90%EB%A7%A4%EC%9E%A5-xKyK/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		씨유 관악해오름점
+		으뜸복권판매장
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 관악구 난곡로57길 4-11 1층
-									<p class="sub">( 서울 관악구 신림동 1475-14 1층 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%8B%A0%EB%A6%BC%EB%8F%99%201475-14%201%EC%B8%B5" data-addr="%EC%84%9C%EC%9A%B8%20%EA%B4%80%EC%95%85%EA%B5%AC%20%EC%8B%A0%EB%A6%BC%EB%8F%99%201475-14%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 고양시 덕양구 삼송로205번길 7
+									<p class="sub">( 경기 고양시 덕양구 삼송동 60-1 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EC%82%BC%EC%86%A1%EB%8F%99%2060-1" data-addr="%EA%B2%BD%EA%B8%B0%20%EA%B3%A0%EC%96%91%EC%8B%9C%20%EB%8D%95%EC%96%91%EA%B5%AC%20%EC%82%BC%EC%86%A1%EB%8F%99%2060-1" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.480173" data-lng="126.914428"></div>
+		<div id="map" class="dMap" data-lat="37.654087" data-lng="126.896225"></div>
 	</div>
 
 	
@@ -201,21 +201,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>행운 / 서울 영등포구 신길동 320-2 1층 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:08 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC/%ED%96%89%EC%9A%B4-kkOn/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC/%ED%96%89%EC%9A%B4-kkOn/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>에이치복권 / 경기 수원시 권선구 고색동 74-40 - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:44 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%88%98%EC%9B%90%EC%8B%9C/%EC%97%90%EC%9D%B4%EC%B9%98%EB%B3%B5%EA%B6%8C-xL1X/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%88%98%EC%9B%90%EC%8B%9C/%EC%97%90%EC%9D%B4%EC%B9%98%EB%B3%B5%EA%B6%8C-xL1X/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		행운
+		에이치복권
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 영등포구 가마산로65길 5 1층
-									<p class="sub">( 서울 영등포구 신길동 320-2 1층 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%8B%A0%EA%B8%B8%EB%8F%99%20320-2%201%EC%B8%B5" data-addr="%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%8B%A0%EA%B8%B8%EB%8F%99%20320-2%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 수원시 권선구 고산로16번길 3
+									<p class="sub">( 경기 수원시 권선구 고색동 74-40 <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EA%B3%A0%EC%83%89%EB%8F%99%2074-40" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EA%B6%8C%EC%84%A0%EA%B5%AC%20%EA%B3%A0%EC%83%89%EB%8F%99%2074-40" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.506407" data-lng="126.906783"></div>
+		<div id="map" class="dMap" data-lat="37.24807" data-lng="126.98222"></div>
 	</div>
 
 	
@@ -226,21 +226,21 @@
 	
 	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
 	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>이마트24 성내태성점 / 서울 강동구 성내동 434-13 103호 - 로또 판매점</title><pubDate>Thu, 09 Nov 2023 02:07:04 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B0%95%EB%8F%99%EA%B5%AC/%EC%9D%B4%EB%A7%88%ED%8A%B824-%EC%84%B1%EB%82%B4%ED%83%9C%EC%84%B1%EC%A0%90-kkIu/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C/%EA%B0%95%EB%8F%99%EA%B5%AC/%EC%9D%B4%EB%A7%88%ED%8A%B824-%EC%84%B1%EB%82%B4%ED%83%9C%EC%84%B1%EC%A0%90-kkIu/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+</section>]]></description></item><item><title>축복이네 복권방 / 경기 성남시 수정구 태평동 6833 1층 101호 우측(태평동) - 로또 판매점</title><pubDate>Fri, 10 Nov 2023 02:10:44 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%EC%B6%95%EB%B3%B5%EC%9D%B4%EB%84%A4-%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL0a/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B2%BD%EA%B8%B0%EB%8F%84/%EC%84%B1%EB%82%A8%EC%8B%9C/%EC%B6%95%EB%B3%B5%EC%9D%B4%EB%84%A4-%EB%B3%B5%EA%B6%8C%EB%B0%A9-xL0a/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
 	<h2>
-		이마트24 성내태성점
+		축복이네 복권방
 			</h2>
 
 	<dl class="dInfo">
 				<dt>주소</dt>
 		<dd>
-							서울 강동구 성내로 91 103호
-									<p class="sub">( 서울 강동구 성내동 434-13 103호 <a href="https://map.naver.com/v5/search/%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%84%B1%EB%82%B4%EB%8F%99%20434-13%20103%ED%98%B8" data-addr="%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%8F%99%EA%B5%AC%20%EC%84%B1%EB%82%B4%EB%8F%99%20434-13%20103%ED%98%B8" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+							경기 성남시 수정구 성남대로 1241-1 1층 101호 우측(태평동)
+									<p class="sub">( 경기 성남시 수정구 태평동 6833 1층 101호 우측(태평동) <a href="https://map.naver.com/v5/search/%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EC%88%98%EC%A0%95%EA%B5%AC%20%ED%83%9C%ED%8F%89%EB%8F%99%206833%201%EC%B8%B5%20101%ED%98%B8%20%EC%9A%B0%EC%B8%A1" data-addr="%EA%B2%BD%EA%B8%B0%20%EC%84%B1%EB%82%A8%EC%8B%9C%20%EC%88%98%EC%A0%95%EA%B5%AC%20%ED%83%9C%ED%8F%89%EB%8F%99%206833%201%EC%B8%B5%20101%ED%98%B8%20%EC%9A%B0%EC%B8%A1" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
 									</dd>
 	</dl>
 
 	<div class="map">
-		<div id="map" class="dMap" data-lat="37.526951" data-lng="127.129994"></div>
+		<div id="map" class="dMap" data-lat="37.440702" data-lng="127.127203"></div>
 	</div>
 
 	
