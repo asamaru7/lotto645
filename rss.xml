@@ -1,7 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-<title>로또6/45 당첨 정보</title><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description><image><title>로또6/45 당첨 정보</title><url>https://lotto.asamaru.net/res/img/icon/icon.png</url><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Wed, 28 Feb 2024 04:36:40 +0900</pubDate><item><title>1150회차-1101회차</title><pubDate>Sat, 24 Feb 2024 20:40:00 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cGamesBox">
+<title>로또6/45 당첨 정보</title><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description><image><title>로또6/45 당첨 정보</title><url>https://lotto.asamaru.net/res/img/icon/icon.png</url><link>https://lotto.asamaru.net</link><description>로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.</description></image><managingEditor>아사마루 (asamaru@asamaru.net)</managingEditor><pubDate>Thu, 29 Feb 2024 04:36:44 +0900</pubDate><item><title>쌍광로또 / 광주 동구 대인동 324-19 1층 - 로또 판매점</title><pubDate>Thu, 29 Feb 2024 02:12:04 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%EC%8C%8D%EA%B4%91%EB%A1%9C%EB%98%90-sIKV/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C/%EB%8F%99%EA%B5%AC/%EC%8C%8D%EA%B4%91%EB%A1%9C%EB%98%90-sIKV/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
+	<h2>
+		쌍광로또
+			</h2>
+
+	<dl class="dInfo">
+				<dt>주소</dt>
+		<dd>
+							광주 동구 제봉로222번길 2 1층
+									<p class="sub">( 광주 동구 대인동 324-19 1층 <a href="https://map.naver.com/v5/search/%EA%B4%91%EC%A3%BC%20%EB%8F%99%EA%B5%AC%20%EB%8C%80%EC%9D%B8%EB%8F%99%20324-19%201%EC%B8%B5" data-addr="%EA%B4%91%EC%A3%BC%20%EB%8F%99%EA%B5%AC%20%EB%8C%80%EC%9D%B8%EB%8F%99%20324-19%201%EC%B8%B5" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
+									</dd>
+	</dl>
+
+	<div class="map">
+		<div id="map" class="dMap" data-lat="35.155013" data-lng="126.9395"></div>
+	</div>
+
+	
+			<h3>2등 당첨 내역 <span class="total">1</span></h3>
+		<ol>
+															<li class="game-row">
+	<a href="https://lotto.asamaru.net/로또645/당첨결과/1108회차/" class="detail">상세보기</a>
+	<h4>
+		<span>로또6/45</span>
+		<span class="no">1108회</span>
+		<span>당첨 결과</span>
+		<time>2024.02.24</time>
+	</h4>
+	<dl class="dWinNumbers">
+		<dt>당첨번호</dt>
+		<dd class="dN1"><b class="dBall color0">7</b></dd>
+		<dd class="dN2"><b class="dBall color1">19</b></dd>
+		<dd class="dN3"><b class="dBall color2">26</b></dd>
+		<dd class="dN4"><b class="dBall color3">37</b></dd>
+		<dd class="dN5"><b class="dBall color3">39</b></dd>
+		<dd class="dN6"><b class="dBall color4">44</b></dd>
+
+		<dt>보너스 번호</dt>
+		<dd class="dNb"><b class="dBall color2">27</b></dd>
+	</dl>
+	<div class="dWinners">
+					<dl class="win1">
+				<dt>1등 당첨</dt>
+				<dd class="count">14</dd>
+				<dd class="reward">1,957,990,849</dd>
+			</dl>
+							<dl class="win2">
+				<dt>2등 당첨</dt>
+				<dd class="count">96</dd>
+				<dd class="reward">47,590,056</dd>
+			</dl>
+			</div>
+	<div class="dWinAnal">
+		<dl class="total">
+			<dt>총합</dt>
+			<dd>172</dd>
+		</dl>
+		<dl class="odd-even">
+			<dt>홀짝</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="high-low">
+			<dt>저고</dt>
+			<dd>4:2</dd>
+		</dl>
+		<dl class="continuous">
+			<dt>연속번호</dt>
+			<dd>0</dd>
+		</dl>
+		<dl class="ac-value">
+			<dt>AC값</dt>
+			<dd>8</dd>
+		</dl>
+		<dl class="prime">
+			<dt>소수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="composite">
+			<dt>합성수</dt>
+			<dd>3</dd>
+		</dl>
+		<dl class="color">
+			<dt>색상</dt>
+			<dd>
+				<dl>
+											<dt>노랑</dt>
+						<dd>1</dd>
+																<dt>파랑</dt>
+						<dd>1</dd>
+																<dt>빨강</dt>
+						<dd>1</dd>
+																<dt>검정</dt>
+						<dd>2</dd>
+																<dt>초록</dt>
+						<dd>1</dd>
+									</dl>
+			</dd>
+		</dl>
+	</div>
+</li>					</ol>
+	
+	
+	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
+
+	
+	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
+	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
+</section>]]></description></item><item><title>1150회차-1101회차</title><pubDate>Sat, 24 Feb 2024 20:40:00 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%EB%8B%B9%EC%B2%A8%EA%B2%B0%EA%B3%BC/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cGamesBox">
 	<h2>회차별 당첨번호</h2>
 
 	<ul class="list">
@@ -1537,7 +1644,22 @@
 					<dd class="count">15</dd>
 				</dl>
 					</div>
-	</li>																																			<li class="store-row">
+	</li>																								<li class="store-row">
+		<dl class="name">
+		<dt>상호</dt>
+		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/동구/쌍광로또-sIKV/">쌍광로또</a></dd>
+	</dl>
+	<dl class="address">
+		<dt>소재지</dt>
+		<dd>광주 동구 대인동 324-19 1층</dd>
+	</dl>
+			<div class="winners">
+										<dl class="win2">
+					<dt>2등</dt>
+					<dd class="count">1</dd>
+				</dl>
+					</div>
+	</li>																								<li class="store-row">
 		<dl class="name">
 		<dt>상호</dt>
 		<dd><a href="https://lotto.asamaru.net/로또645/판매점/광주광역시/동구/훼미리그랜드-sVIm/">훼미리그랜드</a></dd>
@@ -4580,31 +4702,6 @@
 
 	<div class="map">
 		<div id="map" class="dMap" data-lat="35.079877" data-lng="128.08328"></div>
-	</div>
-
-	
-	
-	
-	<div class="share-sns twitter facebook googleplus band line kakaostory kakaotalk" data-kakao-api="2c91f17360d1733c39c737bf04469cbb" data-facebook-app-id="1874593759230150"></div>
-
-	
-	<div class="nv-openmain" data-title="로또6/45" data-url="https://lotto.asamaru.net" data-type="W2"></div>
-	<script async type="text/javascript" src="https://openmain.pstatic.net/js/openmain.js"></script>
-</section>]]></description></item><item><title>성화복권방 / 전남 완도군 완도읍 군내리 1226 성화슈퍼 - 로또 판매점</title><pubDate>Wed, 14 Feb 2024 02:12:50 +0900</pubDate><link>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84/%EC%99%84%EB%8F%84%EA%B5%B0/%EC%84%B1%ED%99%94%EB%B3%B5%EA%B6%8C%EB%B0%A9-zQaN/</link><guid>https://lotto.asamaru.net/%EB%A1%9C%EB%98%90645/%ED%8C%90%EB%A7%A4%EC%A0%90/%EC%A0%84%EB%9D%BC%EB%82%A8%EB%8F%84/%EC%99%84%EB%8F%84%EA%B5%B0/%EC%84%B1%ED%99%94%EB%B3%B5%EA%B6%8C%EB%B0%A9-zQaN/</guid><author>아사마루 (asamaru@asamaru.net)</author><description><![CDATA[<section class="cStoreBox">
-	<h2>
-		성화복권방
-			</h2>
-
-	<dl class="dInfo">
-				<dt>주소</dt>
-		<dd>
-							전남 완도군 개포로114번길 20-3 성화슈퍼
-									<p class="sub">( 전남 완도군 완도읍 군내리 1226 성화슈퍼 <a href="https://map.naver.com/v5/search/%EC%A0%84%EB%82%A8%20%EC%99%84%EB%8F%84%EA%B5%B0%20%EC%99%84%EB%8F%84%EC%9D%8D%20%EA%B5%B0%EB%82%B4%EB%A6%AC%201226%20%EC%84%B1%ED%99%94%EC%8A%88%ED%8D%BC" data-addr="%EC%A0%84%EB%82%A8%20%EC%99%84%EB%8F%84%EA%B5%B0%20%EC%99%84%EB%8F%84%EC%9D%8D%20%EA%B5%B0%EB%82%B4%EB%A6%AC%201226%20%EC%84%B1%ED%99%94%EC%8A%88%ED%8D%BC" class="map-link" target="_blank" rel="nofollow">[지도보기]</a> )</p>
-									</dd>
-	</dl>
-
-	<div class="map">
-		<div id="map" class="dMap" data-lat="34.317298" data-lng="126.744118"></div>
 	</div>
 
 	
