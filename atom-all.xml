@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>로또6/45 당첨 정보</title>
+	<id>https://lotto.asamaru.net/</id>
+	<updated>2024-02-27T14:24:12+09:00</updated>
+	<subtitle>로또6/45 회차별 당첨 정보 / 판매점 안내</subtitle>
+	<link href="https://lotto.asamaru.net/" rel="alternate" type="text/html" />
+	<link href="https://lotto.asamaru.net/atom-all.xml" rel="self" type="application/atom+xml" />
+	<author>
+		<name>아사마루</name>
+		<uri>https://lotto.asamaru.net/</uri>
+		<email>asamaru@asamaru.net</email>
+	</author>
+</feed>

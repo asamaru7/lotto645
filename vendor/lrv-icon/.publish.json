@@ -1,0 +1,4 @@
+{
+  "publish": "vendor/lrv-icon",
+  "dest": "resources/dist-vite"
+}

@@ -1,25 +1,30 @@
 {
 	"name": "로또6/45 당첨 정보",
-	"short_name": "로또645",
+	"short_name": "로또6/45",
+	"description": "로또6/45 회차별 당첨 정보 및 판매점 정보를 제공합니다.",
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#ffffff",
+	"orientation": "portrait",
 	"icons": [
 		{
-			"src": "/res/img/icon/76.png",
+			"src": "/img/icon/180.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/76.png",
 			"sizes": "76x76",
 			"type": "image/png"
 		},
 		{
-			"src": "/res/img/icon/120.png",
+			"src": "/img/icon/120.png",
 			"sizes": "120x120",
 			"type": "image/png"
 		},
 		{
-			"src": "/res/img/icon/152.png",
+			"src": "/img/icon/152.png",
 			"sizes": "152x152",
-			"type": "image/png"
-		},
-		{
-			"src": "/res/img/icon/180.png",
-			"sizes": "180x180",
 			"type": "image/png"
 		},
 		{
@@ -29,8 +34,7 @@
 			"purpose": "any maskable"
 		}
 	],
-	"start_url": "/",
-	"display": "minimal-ui",
-	"background_color": "#ffffff",
+	"lang": "ko-KR",
+	"prefer_related_applications": false,
 	"theme_color": "#71bf44"
 }

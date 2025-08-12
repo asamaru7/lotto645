@@ -1,0 +1,241 @@
+{
+  "_solid-Vu4ht7MZ.js": {
+    "file": "js/chunked/solid-Vu4ht7MZ.js",
+    "name": "solid",
+    "assets": [
+      "img/bundled/brands-C9XBljGP.svg",
+      "img/bundled/brands-mono-H_cW52LI.svg",
+      "img/bundled/payments-BybrESea.svg",
+      "img/bundled/payments-mono-HYbMDWGp.svg",
+      "img/bundled/payments-filled-Bw7uHhDZ.svg",
+      "img/bundled/payments-mono-filled-6McOX5M3.svg",
+      "img/bundled/feather-sprite-BfIm3Xr9.svg",
+      "img/bundled/bootstrap-icons-joKx4nIR.svg",
+      "img/bundled/brands-CStieG1T.svg",
+      "img/bundled/regular-C_N8paKe.svg",
+      "img/bundled/solid-B0LoqSzn.svg",
+      "img/bundled/brands-Djq3d8Ml.svg",
+      "img/bundled/regular-Bf5ytcSB.svg",
+      "img/bundled/solid-D8lEg62U.svg"
+    ]
+  },
+  "resources/assets/css/bootstrap-icons.scss": {
+    "file": "css/bundled/bootstrap-icons-DBxTqsuR.css",
+    "src": "resources/assets/css/bootstrap-icons.scss",
+    "isEntry": true,
+    "meta": {
+      "fonts": []
+    }
+  },
+  "resources/assets/css/feather.scss": {
+    "file": "css/bundled/feather-DkDGcdyV.css",
+    "src": "resources/assets/css/feather.scss",
+    "isEntry": true
+  },
+  "resources/assets/css/font-awesome.scss": {
+    "file": "css/bundled/font-awesome-Buij2RjP.css",
+    "src": "resources/assets/css/font-awesome.scss",
+    "isEntry": true
+  },
+  "resources/assets/css/material-icons-filled.scss": {
+    "file": "css/bundled/material-icons-filled-Ocye8F8D.css",
+    "src": "resources/assets/css/material-icons-filled.scss",
+    "isEntry": true,
+    "meta": {
+      "fonts": [
+        "resources/assets/font/mdi/material-icons.woff2",
+        "resources/assets/font/mdi/material-icons.woff"
+      ]
+    }
+  },
+  "resources/assets/css/material-icons-outlined.scss": {
+    "file": "css/bundled/material-icons-outlined-B6T78qzB.css",
+    "src": "resources/assets/css/material-icons-outlined.scss",
+    "isEntry": true,
+    "meta": {
+      "fonts": [
+        "resources/assets/font/mdi/material-icons-outlined.woff2",
+        "resources/assets/font/mdi/material-icons-outlined.woff"
+      ]
+    }
+  },
+  "resources/assets/css/material-icons-round.scss": {
+    "file": "css/bundled/material-icons-round-BXGjtdk0.css",
+    "src": "resources/assets/css/material-icons-round.scss",
+    "isEntry": true,
+    "meta": {
+      "fonts": [
+        "resources/assets/font/mdi/material-icons-round.woff2",
+        "resources/assets/font/mdi/material-icons-round.woff"
+      ]
+    }
+  },
+  "resources/assets/css/material-icons-sharp.scss": {
+    "file": "css/bundled/material-icons-sharp--nmQ1iqH.css",
+    "src": "resources/assets/css/material-icons-sharp.scss",
+    "isEntry": true,
+    "meta": {
+      "fonts": [
+        "resources/assets/font/mdi/material-icons-sharp.woff2",
+        "resources/assets/font/mdi/material-icons-sharp.woff"
+      ]
+    }
+  },
+  "resources/assets/css/material-icons-two-tone.scss": {
+    "file": "css/bundled/material-icons-two-tone-tV6zLZi4.css",
+    "src": "resources/assets/css/material-icons-two-tone.scss",
+    "isEntry": true,
+    "meta": {
+      "fonts": [
+        "resources/assets/font/mdi/material-icons-two-tone.woff2",
+        "resources/assets/font/mdi/material-icons-two-tone.woff"
+      ]
+    }
+  },
+  "resources/assets/font/bootstrap/bootstrap-icons.woff": {
+    "file": "font/bundled/bootstrap-icons-BOrJxbIo.woff",
+    "src": "resources/assets/font/bootstrap/bootstrap-icons.woff"
+  },
+  "resources/assets/font/bootstrap/bootstrap-icons.woff2": {
+    "file": "font/bundled/bootstrap-icons-BtvjY1KL.woff2",
+    "src": "resources/assets/font/bootstrap/bootstrap-icons.woff2"
+  },
+  "resources/assets/font/mdi/material-icons-outlined.woff": {
+    "file": "font/bundled/material-icons-outlined-BpWbwl2n.woff",
+    "src": "resources/assets/font/mdi/material-icons-outlined.woff"
+  },
+  "resources/assets/font/mdi/material-icons-outlined.woff2": {
+    "file": "font/bundled/material-icons-outlined-DZhiGvEA.woff2",
+    "src": "resources/assets/font/mdi/material-icons-outlined.woff2"
+  },
+  "resources/assets/font/mdi/material-icons-round.woff": {
+    "file": "font/bundled/material-icons-round-BDlwx-sv.woff",
+    "src": "resources/assets/font/mdi/material-icons-round.woff"
+  },
+  "resources/assets/font/mdi/material-icons-round.woff2": {
+    "file": "font/bundled/material-icons-round-DrirKXBx.woff2",
+    "src": "resources/assets/font/mdi/material-icons-round.woff2"
+  },
+  "resources/assets/font/mdi/material-icons-sharp.woff": {
+    "file": "font/bundled/material-icons-sharp-CH1KkVu7.woff",
+    "src": "resources/assets/font/mdi/material-icons-sharp.woff"
+  },
+  "resources/assets/font/mdi/material-icons-sharp.woff2": {
+    "file": "font/bundled/material-icons-sharp-gidztirS.woff2",
+    "src": "resources/assets/font/mdi/material-icons-sharp.woff2"
+  },
+  "resources/assets/font/mdi/material-icons-two-tone.woff": {
+    "file": "font/bundled/material-icons-two-tone-B7wz7mED.woff",
+    "src": "resources/assets/font/mdi/material-icons-two-tone.woff"
+  },
+  "resources/assets/font/mdi/material-icons-two-tone.woff2": {
+    "file": "font/bundled/material-icons-two-tone-DuNIpaEj.woff2",
+    "src": "resources/assets/font/mdi/material-icons-two-tone.woff2"
+  },
+  "resources/assets/font/mdi/material-icons.woff": {
+    "file": "font/bundled/material-icons-Dr0goTwe.woff",
+    "src": "resources/assets/font/mdi/material-icons.woff"
+  },
+  "resources/assets/font/mdi/material-icons.woff2": {
+    "file": "font/bundled/material-icons-kAwBdRge.woff2",
+    "src": "resources/assets/font/mdi/material-icons.woff2"
+  },
+  "resources/assets/img/bootstrap-icons/bootstrap-icons.svg": {
+    "file": "img/bundled/bootstrap-icons-joKx4nIR.svg",
+    "src": "resources/assets/img/bootstrap-icons/bootstrap-icons.svg"
+  },
+  "resources/assets/img/feather/brands-mono.svg": {
+    "file": "img/bundled/brands-mono-H_cW52LI.svg",
+    "src": "resources/assets/img/feather/brands-mono.svg"
+  },
+  "resources/assets/img/feather/brands.svg": {
+    "file": "img/bundled/brands-C9XBljGP.svg",
+    "src": "resources/assets/img/feather/brands.svg"
+  },
+  "resources/assets/img/feather/feather-sprite.svg": {
+    "file": "img/bundled/feather-sprite-BfIm3Xr9.svg",
+    "src": "resources/assets/img/feather/feather-sprite.svg"
+  },
+  "resources/assets/img/feather/payments-filled.svg": {
+    "file": "img/bundled/payments-filled-Bw7uHhDZ.svg",
+    "src": "resources/assets/img/feather/payments-filled.svg"
+  },
+  "resources/assets/img/feather/payments-mono-filled.svg": {
+    "file": "img/bundled/payments-mono-filled-6McOX5M3.svg",
+    "src": "resources/assets/img/feather/payments-mono-filled.svg"
+  },
+  "resources/assets/img/feather/payments-mono.svg": {
+    "file": "img/bundled/payments-mono-HYbMDWGp.svg",
+    "src": "resources/assets/img/feather/payments-mono.svg"
+  },
+  "resources/assets/img/feather/payments.svg": {
+    "file": "img/bundled/payments-BybrESea.svg",
+    "src": "resources/assets/img/feather/payments.svg"
+  },
+  "resources/assets/img/font-awesome5/brands.svg": {
+    "file": "img/bundled/brands-CStieG1T.svg",
+    "src": "resources/assets/img/font-awesome5/brands.svg"
+  },
+  "resources/assets/img/font-awesome5/regular.svg": {
+    "file": "img/bundled/regular-C_N8paKe.svg",
+    "src": "resources/assets/img/font-awesome5/regular.svg"
+  },
+  "resources/assets/img/font-awesome5/solid.svg": {
+    "file": "img/bundled/solid-B0LoqSzn.svg",
+    "src": "resources/assets/img/font-awesome5/solid.svg"
+  },
+  "resources/assets/img/font-awesome6/brands.svg": {
+    "file": "img/bundled/brands-Djq3d8Ml.svg",
+    "src": "resources/assets/img/font-awesome6/brands.svg"
+  },
+  "resources/assets/img/font-awesome6/regular.svg": {
+    "file": "img/bundled/regular-Bf5ytcSB.svg",
+    "src": "resources/assets/img/font-awesome6/regular.svg"
+  },
+  "resources/assets/img/font-awesome6/solid.svg": {
+    "file": "img/bundled/solid-D8lEg62U.svg",
+    "src": "resources/assets/img/font-awesome6/solid.svg"
+  },
+  "resources/assets/js/ft-icon-plugin.ts": {
+    "file": "js/bundled/ft-icon-plugin-DcwQt2aC.js",
+    "name": "resources/assets/js/ft-icon-plugin.ts",
+    "src": "resources/assets/js/ft-icon-plugin.ts",
+    "isEntry": true,
+    "imports": [
+      "_solid-Vu4ht7MZ.js"
+    ],
+    "css": [
+      "css/bundled/ft-icon-plugin-BqpRIDGe.css"
+    ],
+    "assets": [
+      "font/bundled/bootstrap-icons-BtvjY1KL.woff2",
+      "font/bundled/bootstrap-icons-BOrJxbIo.woff",
+      "font/bundled/material-icons-kAwBdRge.woff2",
+      "font/bundled/material-icons-Dr0goTwe.woff",
+      "font/bundled/material-icons-outlined-DZhiGvEA.woff2",
+      "font/bundled/material-icons-outlined-BpWbwl2n.woff",
+      "font/bundled/material-icons-round-DrirKXBx.woff2",
+      "font/bundled/material-icons-round-BDlwx-sv.woff",
+      "font/bundled/material-icons-sharp-gidztirS.woff2",
+      "font/bundled/material-icons-sharp-CH1KkVu7.woff",
+      "font/bundled/material-icons-two-tone-DuNIpaEj.woff2",
+      "font/bundled/material-icons-two-tone-B7wz7mED.woff"
+    ],
+    "meta": {
+      "iife": "js/bundled/ft-icon-plugin-DcwQt2aC-iife.js"
+    }
+  },
+  "resources/assets/js/ft-icon-register.ts": {
+    "file": "js/bundled/ft-icon-register-BjvoP89q.js",
+    "name": "resources/assets/js/ft-icon-register.ts",
+    "src": "resources/assets/js/ft-icon-register.ts",
+    "isEntry": true,
+    "imports": [
+      "resources/assets/js/ft-icon-plugin.ts",
+      "_solid-Vu4ht7MZ.js"
+    ],
+    "meta": {
+      "iife": "js/bundled/ft-icon-register-BjvoP89q-iife.js"
+    }
+  }
+}

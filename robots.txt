@@ -1,6 +1,29 @@
-User-agent: *
+User-agent: AhrefsBot
+User-agent: BLEXBot
+User-agent: DotBot
+User-agent: SemrushBot
+User-agent: Eyeotabot
+User-agent: PetalBot
+User-agent: MJ12bot
+User-agent: brands-bot
+User-agent: bbot
+User-agent: AhrefsBo
+User-agent: MegaIndex
+User-agent: UCBrowser
+User-agent: Mb2345Browser
+User-agent: MicroMessenger
+User-agent: LieBaoFast
+User-agent: Headless
+User-agent: netEstate
+User-agent: newspaper
+User-agent: ltx71
+User-agent: AspiegelBot
+User-agent: SEMrushBot
+User-agent: MauiBot
+Disallow: /
+
+User-agent: Mediapartners-Google
 Allow: /
 
-#DaumWebMasterTool:0594d2e60dabe012b001ecb4d8004506490f470b31e1278e8c010ed228252d7a:RvGn9fKfg9WHzcFkIPO1fw==
-
-Sitemap: https://lotto.asamaru.net/sitemap.xml
+User-agent: *
+Disallow:
