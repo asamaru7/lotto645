@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://lotto.asamaru.net/sitemap.xml
