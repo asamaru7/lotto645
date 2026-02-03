@@ -1,0 +1,1 @@
+import{F as o}from"./ft-icon-plugin-Dj5Y2XvG.js";import"../chunked/solid-rcRwLzZP.js";typeof(window.Artisan9=window.Artisan9||{}).Vue3Plugins>"u"&&(window.Artisan9.Vue3Plugins={});function t(i,n){window.Artisan9.Vue3Plugins[i]=n}t("ft-icon",o);

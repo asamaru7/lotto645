@@ -1,6 +1,6 @@
 {
-  "_solid-Vu4ht7MZ.js": {
-    "file": "js/chunked/solid-Vu4ht7MZ.js",
+  "_solid-rcRwLzZP.js": {
+    "file": "js/chunked/solid-rcRwLzZP.js",
     "name": "solid",
     "assets": [
       "img/bundled/brands-C9XBljGP.svg",
@@ -10,7 +10,7 @@
       "img/bundled/payments-filled-Bw7uHhDZ.svg",
       "img/bundled/payments-mono-filled-6McOX5M3.svg",
       "img/bundled/feather-sprite-BfIm3Xr9.svg",
-      "img/bundled/bootstrap-icons-joKx4nIR.svg",
+      "img/bundled/bootstrap-icons-Djgm5_9O.svg",
       "img/bundled/brands-CStieG1T.svg",
       "img/bundled/regular-C_N8paKe.svg",
       "img/bundled/solid-B0LoqSzn.svg",
@@ -20,9 +20,13 @@
     ]
   },
   "resources/assets/css/bootstrap-icons.scss": {
-    "file": "css/bundled/bootstrap-icons-DBxTqsuR.css",
+    "file": "css/bundled/bootstrap-icons-DMIhZUTl.css",
     "src": "resources/assets/css/bootstrap-icons.scss",
     "isEntry": true,
+    "name": "resources/assets/css/bootstrap-icons.scss",
+    "names": [
+      "resources/assets/css/bootstrap-icons.css"
+    ],
     "meta": {
       "fonts": []
     }
@@ -30,17 +34,29 @@
   "resources/assets/css/feather.scss": {
     "file": "css/bundled/feather-DkDGcdyV.css",
     "src": "resources/assets/css/feather.scss",
-    "isEntry": true
+    "isEntry": true,
+    "name": "resources/assets/css/feather.scss",
+    "names": [
+      "resources/assets/css/feather.css"
+    ]
   },
   "resources/assets/css/font-awesome.scss": {
     "file": "css/bundled/font-awesome-Buij2RjP.css",
     "src": "resources/assets/css/font-awesome.scss",
-    "isEntry": true
+    "isEntry": true,
+    "name": "resources/assets/css/font-awesome.scss",
+    "names": [
+      "resources/assets/css/font-awesome.css"
+    ]
   },
   "resources/assets/css/material-icons-filled.scss": {
     "file": "css/bundled/material-icons-filled-Ocye8F8D.css",
     "src": "resources/assets/css/material-icons-filled.scss",
     "isEntry": true,
+    "name": "resources/assets/css/material-icons-filled.scss",
+    "names": [
+      "resources/assets/css/material-icons-filled.css"
+    ],
     "meta": {
       "fonts": [
         "resources/assets/font/mdi/material-icons.woff2",
@@ -52,6 +68,10 @@
     "file": "css/bundled/material-icons-outlined-B6T78qzB.css",
     "src": "resources/assets/css/material-icons-outlined.scss",
     "isEntry": true,
+    "name": "resources/assets/css/material-icons-outlined.scss",
+    "names": [
+      "resources/assets/css/material-icons-outlined.css"
+    ],
     "meta": {
       "fonts": [
         "resources/assets/font/mdi/material-icons-outlined.woff2",
@@ -63,6 +83,10 @@
     "file": "css/bundled/material-icons-round-BXGjtdk0.css",
     "src": "resources/assets/css/material-icons-round.scss",
     "isEntry": true,
+    "name": "resources/assets/css/material-icons-round.scss",
+    "names": [
+      "resources/assets/css/material-icons-round.css"
+    ],
     "meta": {
       "fonts": [
         "resources/assets/font/mdi/material-icons-round.woff2",
@@ -74,6 +98,10 @@
     "file": "css/bundled/material-icons-sharp--nmQ1iqH.css",
     "src": "resources/assets/css/material-icons-sharp.scss",
     "isEntry": true,
+    "name": "resources/assets/css/material-icons-sharp.scss",
+    "names": [
+      "resources/assets/css/material-icons-sharp.css"
+    ],
     "meta": {
       "fonts": [
         "resources/assets/font/mdi/material-icons-sharp.woff2",
@@ -85,6 +113,10 @@
     "file": "css/bundled/material-icons-two-tone-tV6zLZi4.css",
     "src": "resources/assets/css/material-icons-two-tone.scss",
     "isEntry": true,
+    "name": "resources/assets/css/material-icons-two-tone.scss",
+    "names": [
+      "resources/assets/css/material-icons-two-tone.css"
+    ],
     "meta": {
       "fonts": [
         "resources/assets/font/mdi/material-icons-two-tone.woff2",
@@ -93,11 +125,11 @@
     }
   },
   "resources/assets/font/bootstrap/bootstrap-icons.woff": {
-    "file": "font/bundled/bootstrap-icons-BOrJxbIo.woff",
+    "file": "font/bundled/bootstrap-icons-BeopsB42.woff",
     "src": "resources/assets/font/bootstrap/bootstrap-icons.woff"
   },
   "resources/assets/font/bootstrap/bootstrap-icons.woff2": {
-    "file": "font/bundled/bootstrap-icons-BtvjY1KL.woff2",
+    "file": "font/bundled/bootstrap-icons-mSm7cUeB.woff2",
     "src": "resources/assets/font/bootstrap/bootstrap-icons.woff2"
   },
   "resources/assets/font/mdi/material-icons-outlined.woff": {
@@ -141,7 +173,7 @@
     "src": "resources/assets/font/mdi/material-icons.woff2"
   },
   "resources/assets/img/bootstrap-icons/bootstrap-icons.svg": {
-    "file": "img/bundled/bootstrap-icons-joKx4nIR.svg",
+    "file": "img/bundled/bootstrap-icons-Djgm5_9O.svg",
     "src": "resources/assets/img/bootstrap-icons/bootstrap-icons.svg"
   },
   "resources/assets/img/feather/brands-mono.svg": {
@@ -197,19 +229,19 @@
     "src": "resources/assets/img/font-awesome6/solid.svg"
   },
   "resources/assets/js/ft-icon-plugin.ts": {
-    "file": "js/bundled/ft-icon-plugin-DcwQt2aC.js",
+    "file": "js/bundled/ft-icon-plugin-Dj5Y2XvG.js",
     "name": "resources/assets/js/ft-icon-plugin.ts",
     "src": "resources/assets/js/ft-icon-plugin.ts",
     "isEntry": true,
     "imports": [
-      "_solid-Vu4ht7MZ.js"
+      "_solid-rcRwLzZP.js"
     ],
     "css": [
-      "css/bundled/ft-icon-plugin-BqpRIDGe.css"
+      "css/bundled/ft-icon-plugin-Blv0NoEP.css"
     ],
     "assets": [
-      "font/bundled/bootstrap-icons-BtvjY1KL.woff2",
-      "font/bundled/bootstrap-icons-BOrJxbIo.woff",
+      "font/bundled/bootstrap-icons-mSm7cUeB.woff2",
+      "font/bundled/bootstrap-icons-BeopsB42.woff",
       "font/bundled/material-icons-kAwBdRge.woff2",
       "font/bundled/material-icons-Dr0goTwe.woff",
       "font/bundled/material-icons-outlined-DZhiGvEA.woff2",
@@ -222,20 +254,20 @@
       "font/bundled/material-icons-two-tone-B7wz7mED.woff"
     ],
     "meta": {
-      "iife": "js/bundled/ft-icon-plugin-DcwQt2aC-iife.js"
+      "iife": "js/bundled/ft-icon-plugin-Dj5Y2XvG-iife.js"
     }
   },
   "resources/assets/js/ft-icon-register.ts": {
-    "file": "js/bundled/ft-icon-register-BjvoP89q.js",
+    "file": "js/bundled/ft-icon-register-Cd1ImUyx.js",
     "name": "resources/assets/js/ft-icon-register.ts",
     "src": "resources/assets/js/ft-icon-register.ts",
     "isEntry": true,
     "imports": [
       "resources/assets/js/ft-icon-plugin.ts",
-      "_solid-Vu4ht7MZ.js"
+      "_solid-rcRwLzZP.js"
     ],
     "meta": {
-      "iife": "js/bundled/ft-icon-register-BjvoP89q-iife.js"
+      "iife": "js/bundled/ft-icon-register-Cd1ImUyx-iife.js"
     }
   }
 }
