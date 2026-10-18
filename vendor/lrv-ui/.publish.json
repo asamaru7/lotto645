@@ -1,0 +1,4 @@
+{
+  "publish": "vendor/lrv-ui",
+  "dest": "resources/dist-vite"
+}
